@@ -1,0 +1,49 @@
+---
+title: "data_cleaning"
+author: "Gordon Blasco"
+date: "February 5, 2019"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+```{r message=FALSE, warning=FALSE}
+library(tidyverse)
+library(lubridate)
+library(scales)
+
+# Read in data
+gulls <- read_csv("seagulls_small.csv")
+```
+
+```{r}
+gulls_final <- gulls %>% 
+  filter(
+    county == 'Santa Barbara'
+  )  
+
+gulls_sum <- gulls_final %>% 
+  group_by(common_name) %>% 
+  summarize(
+    n = sum(observation_count)
+  ) %>% 
+  mutate(
+    total = sum(n),
+    prop = n / total
+  ) %>% 
+  arrange(-prop) %>% 
+  mutate(common_name = factor(common_name, levels = common_name))
+
+prop_plot <- ggplot(gulls_sum, aes(x = common_name, y = prop)) +
+  geom_col() +
+  scale_x_discrete(expand = c(0,0)) +
+  scale_y_continuous(labels=percent_format(),
+                     expand = c(0,0)) +
+  theme_bw() +
+  coord_flip()
+
+prop_plot
+```
+
