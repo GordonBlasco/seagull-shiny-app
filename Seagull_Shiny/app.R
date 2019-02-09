@@ -6,7 +6,7 @@ library(lubridate)
 library(scales)
 
 # Read in data
-gulls <- read_csv("seagulls_small.csv")
+gulls <- read_csv("seagulls_tiny.csv")
 
 ####UI####
 # Define UI for application that draws a histogram
@@ -40,7 +40,14 @@ ui <- fluidPage(
                                       "Select County",
                                       choices = c("Santa Barbara",
                                                   "Los Angeles",
-                                                  "Orange"))
+                                                  "Orange")),
+                          
+                          checkboxGroupInput("name",
+                                             "Exclude a Species",
+                                             c(
+                                               "Western Gull" = "Western Gull",
+                                               "California Gull" = "California Gull"
+                                             ))
                       
                         ),
                         
@@ -69,7 +76,8 @@ gulls_final <- reactive({
   
   gulls %>% 
     filter(
-      county == input$county
+      county == input$county &
+        !common_name %in% input$name
     )  %>% 
     group_by(common_name) %>% 
     summarize(
@@ -83,8 +91,6 @@ gulls_final <- reactive({
     mutate(common_name = factor(common_name, levels = common_name))
   
   })
-  
-#gills <- data.frame(gulls_final)
 
 output$FreqPlot <- renderPlot({
  

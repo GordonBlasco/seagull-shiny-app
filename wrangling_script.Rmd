@@ -18,13 +18,27 @@ library(scales)
 gulls <- read_csv("seagulls_small.csv")
 ```
 
+
+```{r}
+# Make an even smaller test dataset
+
+gulls_tiny <- gulls %>% 
+  filter(
+    county == 'Santa Barbara' |
+      county == 'Orange' |
+      county == 'Los Angeles'
+  ) 
+
+write_csv(gulls_tiny, "seagulls_tiny.csv")
+```
+
+
 ```{r}
 gulls_final <- gulls %>% 
   filter(
-    county == 'Santa Barbara'
-  )  
-
-gulls_sum <- gulls_final %>% 
+    county == 'Santa Barbara' &
+      common_name != 'Western Gull'
+  )  %>% 
   group_by(common_name) %>% 
   summarize(
     n = sum(observation_count)
@@ -36,7 +50,7 @@ gulls_sum <- gulls_final %>%
   arrange(-prop) %>% 
   mutate(common_name = factor(common_name, levels = common_name))
 
-prop_plot <- ggplot(gulls_sum, aes(x = common_name, y = prop)) +
+prop_plot <- ggplot(gulls_final, aes(x = common_name, y = prop)) +
   geom_col() +
   scale_x_discrete(expand = c(0,0)) +
   scale_y_continuous(labels=percent_format(),
