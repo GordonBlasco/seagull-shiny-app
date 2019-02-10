@@ -14,7 +14,7 @@ ui <- fluidPage(
   theme = shinytheme("flatly"),
   
   # Application title
-  titlePanel("I don't do gulls..."),
+  titlePanel("California Seagull Frequency and Distribution"),
   
   navbarPage("",
              
@@ -23,31 +23,23 @@ ui <- fluidPage(
                       h2("Gull information "),
                       h2("The tabs"),
                       p("The frequency plot will tell you the probability of finding a species given the parameters you set"),
-                      p("The interactive map will allow you to see temportal and spacial changes for each species"),
-                      p("Followed by another paragraph of text..."),
-                      h1("Then another header"),
-                      p("You get the idea...)")
+                      p("The interactive map will allow you to see temportal and spacial changes for each species")
                       
              ),
         
              
-             tabPanel("Frequency Plot", # Tester
+             tabPanel("Frequency Plot", 
                       
-                      # Sidebar with a slider input for number of bins 
+                       
                       sidebarLayout(
                         sidebarPanel(
                           selectInput("county", 
                                       "Select County",
-                                      choices = c("Santa Barbara",
-                                                  "Los Angeles",
-                                                  "Orange")),
+                                      choices = NULL,
+                                      multiple = FALSE),
+                         
                           
-                          checkboxGroupInput("name",
-                                             "Exclude a Species",
-                                             c(
-                                               "Western Gull" = "Western Gull",
-                                               "California Gull" = "California Gull"
-                                             ))
+                          checkboxGroupInput("name", "Exclude Species", choices = NULL)
                       
                         ),
                         
@@ -56,6 +48,8 @@ ui <- fluidPage(
                           plotOutput("FreqPlot")
                         )
                       ))
+             #,
+            # tabPanel("Interactive Map",)
              
   )
   
@@ -70,8 +64,24 @@ ui <- fluidPage(
 
 ####SERVER####
 # Define server logic required to draw a histogram
-server <- function(input, output) {
+server <- function(session, input, output) {
   
+  observe({
+    w <- gulls %>% 
+      select(county)
+    updateSelectInput(session, "county", "Select County", choices = unique(w))
+  })
+  
+  
+  observe({
+    print(input$county)
+    x <- gulls %>% 
+      filter(county == input$county) %>% 
+      pull(common_name)
+    updateCheckboxGroupInput(session, "name", "Exclude Species", choices = unique(x))
+  })
+  
+
 gulls_final <- reactive({ 
   
   gulls %>% 
@@ -91,6 +101,7 @@ gulls_final <- reactive({
     mutate(common_name = factor(common_name, levels = common_name))
   
   })
+
 
 output$FreqPlot <- renderPlot({
  

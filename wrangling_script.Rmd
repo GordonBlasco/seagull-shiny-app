@@ -13,6 +13,8 @@ knitr::opts_chunk$set(echo = TRUE)
 library(tidyverse)
 library(lubridate)
 library(scales)
+library(sf)
+library(leaflet)
 
 # Read in data
 gulls <- read_csv("seagulls_small.csv")
@@ -60,4 +62,32 @@ prop_plot <- ggplot(gulls_final, aes(x = common_name, y = prop)) +
 
 prop_plot
 ```
+
+
+####MAP####
+
+```{r}
+#demo(nc, ask = FALSE, echo = FALSE)
+#plot(st_geometry(nc))
+
+
+
+m <- leaflet() %>%
+  addTiles() %>%  
+  setView(-119.4179, 36.7783, zoom = 5) %>%
+  addMarkers(lng=-72.690940, lat=41.651426, popup="<b>Hello</b><br><a href='http://www.trendct.org'>-TrendCT.org</a>")
+m 
+```
+
+```{r}
+m <- leaflet(gulls) %>% 
+  addTiles('http://{s}.basemaps.cartocdn.com/dark_all/{z}/{x}/{y}.png', attribution='Map tiles by <a href="http://stamen.com">Stamen Design</a>, <a href="http://creativecommons.org/licenses/by/3.0">CC BY 3.0</a> &mdash; Map data &copy; <a href="http://www.openstreetmap.org/copyright">OpenStreetMap</a>') %>%
+    setView(-119.4179, 36.7783, zoom = 5) %>% 
+    addCircles(~longitude, ~latitude, popup=gulls$common_name, weight = 3, radius=40, 
+                   color="#ffa500", stroke = TRUE, fillOpacity = 0.8) %>% 
+    addLegend("bottomright", colors= "#ffa500", labels="GULLS!", title="In CALI")
+m
+```
+
+
 
