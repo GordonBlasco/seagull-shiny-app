@@ -74,7 +74,7 @@ ui <- fluidPage(
                
                # Show a map of selected area 
                mainPanel(
-                 plotOutput("Map")
+                 leafletOutput("Map")
                )
              ))
              
@@ -144,7 +144,14 @@ output$FreqPlot <- renderPlot({
 })
 
 
-output$Map <- renderPlot({
+observe({
+  m <- gulls %>% 
+    select(common_name)
+  updateSelectInput(session, "common_name", "Select Species", choices = unique(m))
+})
+
+
+output$Map <- renderLeaflet({
   
   tm_shape(ca) +
   tm_polygons()
