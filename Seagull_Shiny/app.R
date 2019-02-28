@@ -4,9 +4,19 @@ library(shinythemes)
 library(leaflet)
 library(lubridate)
 library(scales)
+library(tmap)
+library(sf)
 
 # Read in data
 gulls <- read_csv("seagulls_tiny.csv")
+
+# Read in map information
+
+gulls_sf <- st_as_sf(gulls, coords = c("longitude", "latitude"), crs = 4326)
+ca <- read_sf(dsn = ".", layer = "california_county_shape_file") # Read data
+st_crs(ca) = 4326 # Set CRS
+tmap_mode("view")
+
 
 ####UI####
 # Define UI for application that draws a histogram
@@ -19,7 +29,7 @@ ui <- fluidPage(
   navbarPage("",
              
              tabPanel("Information",
-                      h1("A header!"),
+                      #h1("A header!"),
                       h2("Gull information "),
                       h2("The tabs"),
                       p("The frequency plot will tell you the probability of finding a species given the parameters you set"),
@@ -48,12 +58,30 @@ ui <- fluidPage(
                           plotOutput("FreqPlot")
                         )
                       ))
-             #,
-            # tabPanel("Interactive Map",)
+             ,
+             tabPanel("Map",
+             
+                      sidebarLayout(
+                        sidebarPanel(
+                         selectInput("common_name", 
+                             "Select Species",
+                             choices = NULL,
+                             multiple = FALSE)
+                 
+                 
+                 
+               ),
+               
+               # Show a map of selected area 
+               mainPanel(
+                 plotOutput("Map")
+               )
+             ))
+             
              
   )
   
-)
+) 
 
 
 
@@ -114,7 +142,14 @@ output$FreqPlot <- renderPlot({
     coord_flip()
   
 })
-    
+
+
+output$Map <- renderPlot({
+  
+  tm_shape(ca) +
+  tm_polygons()
+  
+})    
     
   }
 

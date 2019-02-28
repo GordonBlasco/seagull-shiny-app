@@ -15,6 +15,7 @@ library(lubridate)
 library(scales)
 library(sf)
 library(leaflet)
+library(tmap)
 
 # Read in data
 gulls <- read_csv("seagulls_small.csv")
@@ -65,6 +66,28 @@ prop_plot
 
 
 ####MAP####
+
+```{r}
+#Class lab attempt
+tmap_mode("view")
+
+gulls_sf <- st_as_sf(gulls, coords = c("longitude", "latitude"), crs = 4326)
+
+
+ca <- read_sf(dsn = ".", layer = "california_county_shape_file") # Read data
+
+st_crs(ca) = 4326 # Set CRS
+
+ca_map <- tm_shape(ca) +
+  tm_polygons() +
+  tm_fill(g)
+  
+ca_map
+
+```
+
+
+
 
 ```{r}
 #demo(nc, ask = FALSE, echo = FALSE)
