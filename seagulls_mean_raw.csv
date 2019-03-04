@@ -1,0 +1,4834 @@
+common_name,month,county,mean
+Black-headed Gull,Apr,Santa Barbara,1
+Black-headed Gull,Aug,Del Norte,1
+Black-headed Gull,Dec,Riverside,1
+Black-headed Gull,Dec,San Bernardino,1
+Black-headed Gull,Dec,Santa Barbara,1
+Black-headed Gull,Dec,Stanislaus,1
+Black-headed Gull,Feb,Riverside,1
+Black-headed Gull,Jan,Riverside,1
+Black-headed Gull,Jan,Stanislaus,1
+Black-headed Gull,Mar,Riverside,1
+Black-tailed Gull,Feb,Del Norte,1
+Black-tailed Gull,Feb,Los Angeles,1
+Black-tailed Gull,Feb,Monterey,1
+Black-tailed Gull,Feb,San Mateo,1
+Black-tailed Gull,Jan,Monterey,1
+Black-tailed Gull,Mar,Del Norte,1
+Black-tailed Gull,May,San Francisco,1
+Black-tailed Gull,Nov,Los Angeles,1
+Bonaparte's Gull,Apr,Alameda,51.8
+Bonaparte's Gull,Apr,Amador,4.5
+Bonaparte's Gull,Apr,Butte,7.6
+Bonaparte's Gull,Apr,Calaveras,2
+Bonaparte's Gull,Apr,Colusa,2.5
+Bonaparte's Gull,Apr,Contra Costa,41.3
+Bonaparte's Gull,Apr,Del Norte,76.4
+Bonaparte's Gull,Apr,Fresno,1
+Bonaparte's Gull,Apr,Glenn,5.7
+Bonaparte's Gull,Apr,Humboldt,17.9
+Bonaparte's Gull,Apr,Imperial,21.2
+Bonaparte's Gull,Apr,Inyo,4.3
+Bonaparte's Gull,Apr,Kern,3.9
+Bonaparte's Gull,Apr,Kings,4.9
+Bonaparte's Gull,Apr,Lake,55.5
+Bonaparte's Gull,Apr,Lassen,7.3
+Bonaparte's Gull,Apr,Los Angeles,22.6
+Bonaparte's Gull,Apr,Madera,1
+Bonaparte's Gull,Apr,Marin,61.6
+Bonaparte's Gull,Apr,Mariposa,1
+Bonaparte's Gull,Apr,Mendocino,14.9
+Bonaparte's Gull,Apr,Merced,72.1
+Bonaparte's Gull,Apr,Modoc,9.8
+Bonaparte's Gull,Apr,Mono,8.5
+Bonaparte's Gull,Apr,Monterey,52.1
+Bonaparte's Gull,Apr,Napa,5.3
+Bonaparte's Gull,Apr,Orange,60.7
+Bonaparte's Gull,Apr,Placer,5.4
+Bonaparte's Gull,Apr,Plumas,2
+Bonaparte's Gull,Apr,Riverside,42.3
+Bonaparte's Gull,Apr,Sacramento,2.5
+Bonaparte's Gull,Apr,San Benito,46
+Bonaparte's Gull,Apr,San Bernardino,5.3
+Bonaparte's Gull,Apr,San Diego,20.9
+Bonaparte's Gull,Apr,San Francisco,3.5
+Bonaparte's Gull,Apr,San Joaquin,61.5
+Bonaparte's Gull,Apr,San Luis Obispo,15.9
+Bonaparte's Gull,Apr,San Mateo,14.8
+Bonaparte's Gull,Apr,Santa Barbara,39
+Bonaparte's Gull,Apr,Santa Clara,26.6
+Bonaparte's Gull,Apr,Santa Cruz,105.1
+Bonaparte's Gull,Apr,Shasta,4.1
+Bonaparte's Gull,Apr,Siskiyou,7.1
+Bonaparte's Gull,Apr,Solano,5.9
+Bonaparte's Gull,Apr,Sonoma,32.1
+Bonaparte's Gull,Apr,Stanislaus,22.7
+Bonaparte's Gull,Apr,Tehama,1
+Bonaparte's Gull,Apr,Tulare,1.3
+Bonaparte's Gull,Apr,Ventura,16.7
+Bonaparte's Gull,Apr,Yolo,7.8
+Bonaparte's Gull,Aug,Alameda,2.5
+Bonaparte's Gull,Aug,Contra Costa,1.2
+Bonaparte's Gull,Aug,Del Norte,1.2
+Bonaparte's Gull,Aug,El Dorado,1
+Bonaparte's Gull,Aug,Fresno,3
+Bonaparte's Gull,Aug,Humboldt,1
+Bonaparte's Gull,Aug,Imperial,4.3
+Bonaparte's Gull,Aug,Inyo,6
+Bonaparte's Gull,Aug,Kern,1.6
+Bonaparte's Gull,Aug,Kings,4
+Bonaparte's Gull,Aug,Lake,3.5
+Bonaparte's Gull,Aug,Lassen,2.1
+Bonaparte's Gull,Aug,Los Angeles,1.4
+Bonaparte's Gull,Aug,Madera,2
+Bonaparte's Gull,Aug,Marin,1
+Bonaparte's Gull,Aug,Mendocino,1.4
+Bonaparte's Gull,Aug,Modoc,1
+Bonaparte's Gull,Aug,Mono,4.2
+Bonaparte's Gull,Aug,Monterey,2.8
+Bonaparte's Gull,Aug,Napa,1.5
+Bonaparte's Gull,Aug,Orange,1
+Bonaparte's Gull,Aug,Plumas,4
+Bonaparte's Gull,Aug,Riverside,2.4
+Bonaparte's Gull,Aug,San Bernardino,1
+Bonaparte's Gull,Aug,San Diego,1
+Bonaparte's Gull,Aug,San Francisco,3.6
+Bonaparte's Gull,Aug,San Joaquin,1
+Bonaparte's Gull,Aug,San Luis Obispo,1
+Bonaparte's Gull,Aug,San Mateo,1.7
+Bonaparte's Gull,Aug,Santa Barbara,1.2
+Bonaparte's Gull,Aug,Santa Clara,2.6
+Bonaparte's Gull,Aug,Santa Cruz,2.5
+Bonaparte's Gull,Aug,Shasta,2
+Bonaparte's Gull,Aug,Siskiyou,4
+Bonaparte's Gull,Aug,Solano,1
+Bonaparte's Gull,Aug,Sonoma,1.5
+Bonaparte's Gull,Aug,Stanislaus,4
+Bonaparte's Gull,Aug,Tulare,1.8
+Bonaparte's Gull,Aug,Ventura,1.3
+Bonaparte's Gull,Aug,Yolo,1
+Bonaparte's Gull,Dec,Alameda,27.6
+Bonaparte's Gull,Dec,Amador,1.2
+Bonaparte's Gull,Dec,Calaveras,1
+Bonaparte's Gull,Dec,Contra Costa,38.3
+Bonaparte's Gull,Dec,Del Norte,2.8
+Bonaparte's Gull,Dec,El Dorado,2
+Bonaparte's Gull,Dec,Fresno,9.3
+Bonaparte's Gull,Dec,Glenn,10.5
+Bonaparte's Gull,Dec,Humboldt,6.1
+Bonaparte's Gull,Dec,Imperial,16.1
+Bonaparte's Gull,Dec,Kern,1.4
+Bonaparte's Gull,Dec,Kings,39
+Bonaparte's Gull,Dec,Lake,52.1
+Bonaparte's Gull,Dec,Lassen,35
+Bonaparte's Gull,Dec,Los Angeles,151.9
+Bonaparte's Gull,Dec,Marin,2.1
+Bonaparte's Gull,Dec,Mendocino,5.1
+Bonaparte's Gull,Dec,Merced,35.3
+Bonaparte's Gull,Dec,Modoc,1
+Bonaparte's Gull,Dec,Mono,1.8
+Bonaparte's Gull,Dec,Monterey,8.4
+Bonaparte's Gull,Dec,Napa,19.8
+Bonaparte's Gull,Dec,Orange,44
+Bonaparte's Gull,Dec,Plumas,3
+Bonaparte's Gull,Dec,Riverside,107.9
+Bonaparte's Gull,Dec,Sacramento,10
+Bonaparte's Gull,Dec,San Benito,65
+Bonaparte's Gull,Dec,San Bernardino,38.9
+Bonaparte's Gull,Dec,San Diego,79.7
+Bonaparte's Gull,Dec,San Francisco,2.7
+Bonaparte's Gull,Dec,San Joaquin,113.7
+Bonaparte's Gull,Dec,San Luis Obispo,11.5
+Bonaparte's Gull,Dec,San Mateo,11.6
+Bonaparte's Gull,Dec,Santa Barbara,10.7
+Bonaparte's Gull,Dec,Santa Clara,58.1
+Bonaparte's Gull,Dec,Santa Cruz,5.8
+Bonaparte's Gull,Dec,Shasta,11.2
+Bonaparte's Gull,Dec,Siskiyou,3.8
+Bonaparte's Gull,Dec,Solano,38.5
+Bonaparte's Gull,Dec,Sonoma,9.6
+Bonaparte's Gull,Dec,Stanislaus,130.8
+Bonaparte's Gull,Dec,Tehama,39.6
+Bonaparte's Gull,Dec,Ventura,3.8
+Bonaparte's Gull,Dec,Yolo,9.3
+Bonaparte's Gull,Dec,Yuba,1
+Bonaparte's Gull,Feb,Alameda,54.8
+Bonaparte's Gull,Feb,Butte,4
+Bonaparte's Gull,Feb,Calaveras,8
+Bonaparte's Gull,Feb,Contra Costa,16.8
+Bonaparte's Gull,Feb,Del Norte,1.2
+Bonaparte's Gull,Feb,Fresno,3.2
+Bonaparte's Gull,Feb,Glenn,18.2
+Bonaparte's Gull,Feb,Humboldt,6.3
+Bonaparte's Gull,Feb,Imperial,8.4
+Bonaparte's Gull,Feb,Kings,27
+Bonaparte's Gull,Feb,Lake,51.3
+Bonaparte's Gull,Feb,Los Angeles,32.2
+Bonaparte's Gull,Feb,Marin,3.6
+Bonaparte's Gull,Feb,Merced,12.3
+Bonaparte's Gull,Feb,Monterey,7
+Bonaparte's Gull,Feb,Napa,13.1
+Bonaparte's Gull,Feb,Orange,14.2
+Bonaparte's Gull,Feb,Placer,4
+Bonaparte's Gull,Feb,Plumas,1.8
+Bonaparte's Gull,Feb,Riverside,30.9
+Bonaparte's Gull,Feb,Sacramento,11.6
+Bonaparte's Gull,Feb,San Benito,89.3
+Bonaparte's Gull,Feb,San Bernardino,17.4
+Bonaparte's Gull,Feb,San Diego,107.8
+Bonaparte's Gull,Feb,San Francisco,1.2
+Bonaparte's Gull,Feb,San Joaquin,64.3
+Bonaparte's Gull,Feb,San Luis Obispo,23.7
+Bonaparte's Gull,Feb,San Mateo,14.8
+Bonaparte's Gull,Feb,Santa Barbara,15
+Bonaparte's Gull,Feb,Santa Clara,48.2
+Bonaparte's Gull,Feb,Santa Cruz,10.8
+Bonaparte's Gull,Feb,Solano,19.8
+Bonaparte's Gull,Feb,Sonoma,20.5
+Bonaparte's Gull,Feb,Stanislaus,97.2
+Bonaparte's Gull,Feb,Sutter,12
+Bonaparte's Gull,Feb,Tehama,15.8
+Bonaparte's Gull,Feb,Ventura,3.3
+Bonaparte's Gull,Feb,Yolo,5.6
+Bonaparte's Gull,Jan,Alameda,39.8
+Bonaparte's Gull,Jan,Calaveras,3
+Bonaparte's Gull,Jan,Contra Costa,46.9
+Bonaparte's Gull,Jan,Del Norte,2.2
+Bonaparte's Gull,Jan,Fresno,16.8
+Bonaparte's Gull,Jan,Glenn,37.2
+Bonaparte's Gull,Jan,Humboldt,5.6
+Bonaparte's Gull,Jan,Imperial,4.6
+Bonaparte's Gull,Jan,Kern,1
+Bonaparte's Gull,Jan,Kings,26.9
+Bonaparte's Gull,Jan,Lake,39.6
+Bonaparte's Gull,Jan,Los Angeles,55.2
+Bonaparte's Gull,Jan,Marin,2.2
+Bonaparte's Gull,Jan,Mendocino,2
+Bonaparte's Gull,Jan,Merced,20.4
+Bonaparte's Gull,Jan,Monterey,12.4
+Bonaparte's Gull,Jan,Napa,20.8
+Bonaparte's Gull,Jan,Orange,39
+Bonaparte's Gull,Jan,Plumas,1.8
+Bonaparte's Gull,Jan,Riverside,50.3
+Bonaparte's Gull,Jan,Sacramento,5.9
+Bonaparte's Gull,Jan,San Benito,21.3
+Bonaparte's Gull,Jan,San Bernardino,24.8
+Bonaparte's Gull,Jan,San Diego,126.7
+Bonaparte's Gull,Jan,San Francisco,8.3
+Bonaparte's Gull,Jan,San Joaquin,66
+Bonaparte's Gull,Jan,San Luis Obispo,11
+Bonaparte's Gull,Jan,San Mateo,1
+Bonaparte's Gull,Jan,Santa Barbara,13.9
+Bonaparte's Gull,Jan,Santa Clara,40.8
+Bonaparte's Gull,Jan,Santa Cruz,12.2
+Bonaparte's Gull,Jan,Solano,34.1
+Bonaparte's Gull,Jan,Sonoma,16.6
+Bonaparte's Gull,Jan,Stanislaus,139.1
+Bonaparte's Gull,Jan,Tehama,28.6
+Bonaparte's Gull,Jan,Ventura,1.6
+Bonaparte's Gull,Jan,Yolo,4.3
+Bonaparte's Gull,Jul,Alameda,3.5
+Bonaparte's Gull,Jul,Amador,1
+Bonaparte's Gull,Jul,Butte,1
+Bonaparte's Gull,Jul,Contra Costa,1
+Bonaparte's Gull,Jul,Del Norte,1
+Bonaparte's Gull,Jul,Fresno,2
+Bonaparte's Gull,Jul,Glenn,1.3
+Bonaparte's Gull,Jul,Humboldt,1.3
+Bonaparte's Gull,Jul,Imperial,1.9
+Bonaparte's Gull,Jul,Inyo,2
+Bonaparte's Gull,Jul,Kern,3.4
+Bonaparte's Gull,Jul,Kings,2.2
+Bonaparte's Gull,Jul,Lassen,5.5
+Bonaparte's Gull,Jul,Los Angeles,3
+Bonaparte's Gull,Jul,Madera,2
+Bonaparte's Gull,Jul,Marin,1
+Bonaparte's Gull,Jul,Mendocino,1
+Bonaparte's Gull,Jul,Modoc,2
+Bonaparte's Gull,Jul,Mono,3.5
+Bonaparte's Gull,Jul,Monterey,3.2
+Bonaparte's Gull,Jul,Napa,2.6
+Bonaparte's Gull,Jul,Orange,1.3
+Bonaparte's Gull,Jul,Plumas,2
+Bonaparte's Gull,Jul,Riverside,1.3
+Bonaparte's Gull,Jul,San Bernardino,1
+Bonaparte's Gull,Jul,San Diego,1
+Bonaparte's Gull,Jul,San Francisco,1.8
+Bonaparte's Gull,Jul,San Joaquin,1.7
+Bonaparte's Gull,Jul,San Luis Obispo,1.1
+Bonaparte's Gull,Jul,San Mateo,5.9
+Bonaparte's Gull,Jul,Santa Barbara,1
+Bonaparte's Gull,Jul,Santa Clara,2.4
+Bonaparte's Gull,Jul,Santa Cruz,2.1
+Bonaparte's Gull,Jul,Siskiyou,4.3
+Bonaparte's Gull,Jul,Solano,1
+Bonaparte's Gull,Jul,Sonoma,1.8
+Bonaparte's Gull,Jul,Stanislaus,15.7
+Bonaparte's Gull,Jul,Sutter,1
+Bonaparte's Gull,Jul,Tulare,1
+Bonaparte's Gull,Jul,Ventura,1.7
+Bonaparte's Gull,Jul,Yolo,1.8
+Bonaparte's Gull,Jun,Alameda,4.9
+Bonaparte's Gull,Jun,Butte,3.3
+Bonaparte's Gull,Jun,Colusa,1
+Bonaparte's Gull,Jun,Contra Costa,1
+Bonaparte's Gull,Jun,Del Norte,9.7
+Bonaparte's Gull,Jun,El Dorado,1
+Bonaparte's Gull,Jun,Fresno,3.8
+Bonaparte's Gull,Jun,Humboldt,2.2
+Bonaparte's Gull,Jun,Imperial,2.8
+Bonaparte's Gull,Jun,Inyo,3.9
+Bonaparte's Gull,Jun,Kern,4.1
+Bonaparte's Gull,Jun,Kings,3.8
+Bonaparte's Gull,Jun,Lassen,3.3
+Bonaparte's Gull,Jun,Los Angeles,4.1
+Bonaparte's Gull,Jun,Madera,2.6
+Bonaparte's Gull,Jun,Marin,2.3
+Bonaparte's Gull,Jun,Mendocino,1.3
+Bonaparte's Gull,Jun,Merced,1.5
+Bonaparte's Gull,Jun,Modoc,2.8
+Bonaparte's Gull,Jun,Mono,3.7
+Bonaparte's Gull,Jun,Monterey,3.6
+Bonaparte's Gull,Jun,Napa,8.1
+Bonaparte's Gull,Jun,Orange,1.6
+Bonaparte's Gull,Jun,Plumas,1
+Bonaparte's Gull,Jun,Riverside,2.7
+Bonaparte's Gull,Jun,Sacramento,2
+Bonaparte's Gull,Jun,San Bernardino,1.8
+Bonaparte's Gull,Jun,San Diego,1.3
+Bonaparte's Gull,Jun,San Francisco,2
+Bonaparte's Gull,Jun,San Joaquin,1.8
+Bonaparte's Gull,Jun,San Luis Obispo,2.2
+Bonaparte's Gull,Jun,San Mateo,1.9
+Bonaparte's Gull,Jun,Santa Barbara,1.9
+Bonaparte's Gull,Jun,Santa Clara,3.8
+Bonaparte's Gull,Jun,Santa Cruz,4.7
+Bonaparte's Gull,Jun,Shasta,3.5
+Bonaparte's Gull,Jun,Siskiyou,11
+Bonaparte's Gull,Jun,Solano,1
+Bonaparte's Gull,Jun,Sonoma,2.5
+Bonaparte's Gull,Jun,Stanislaus,6.6
+Bonaparte's Gull,Jun,Tehama,1
+Bonaparte's Gull,Jun,Ventura,1.7
+Bonaparte's Gull,Jun,Yolo,1
+Bonaparte's Gull,Mar,Alameda,33.1
+Bonaparte's Gull,Mar,Contra Costa,48.2
+Bonaparte's Gull,Mar,Del Norte,73.3
+Bonaparte's Gull,Mar,Fresno,9
+Bonaparte's Gull,Mar,Humboldt,7.1
+Bonaparte's Gull,Mar,Imperial,10.8
+Bonaparte's Gull,Mar,Inyo,1.5
+Bonaparte's Gull,Mar,Kern,1.4
+Bonaparte's Gull,Mar,Kings,1
+Bonaparte's Gull,Mar,Lake,26.2
+Bonaparte's Gull,Mar,Los Angeles,48.4
+Bonaparte's Gull,Mar,Marin,3.8
+Bonaparte's Gull,Mar,Mendocino,2
+Bonaparte's Gull,Mar,Merced,78.9
+Bonaparte's Gull,Mar,Mono,3
+Bonaparte's Gull,Mar,Monterey,8.8
+Bonaparte's Gull,Mar,Napa,15.7
+Bonaparte's Gull,Mar,Orange,68.1
+Bonaparte's Gull,Mar,Plumas,3.5
+Bonaparte's Gull,Mar,Riverside,41.4
+Bonaparte's Gull,Mar,Sacramento,11.8
+Bonaparte's Gull,Mar,San Benito,42.5
+Bonaparte's Gull,Mar,San Bernardino,5.2
+Bonaparte's Gull,Mar,San Diego,154
+Bonaparte's Gull,Mar,San Francisco,3
+Bonaparte's Gull,Mar,San Joaquin,65.7
+Bonaparte's Gull,Mar,San Luis Obispo,8.6
+Bonaparte's Gull,Mar,San Mateo,29.1
+Bonaparte's Gull,Mar,Santa Barbara,2.2
+Bonaparte's Gull,Mar,Santa Clara,53
+Bonaparte's Gull,Mar,Santa Cruz,20.2
+Bonaparte's Gull,Mar,Shasta,1
+Bonaparte's Gull,Mar,Siskiyou,1
+Bonaparte's Gull,Mar,Solano,11
+Bonaparte's Gull,Mar,Sonoma,21.5
+Bonaparte's Gull,Mar,Stanislaus,80.1
+Bonaparte's Gull,Mar,Tehama,1
+Bonaparte's Gull,Mar,Ventura,10.8
+Bonaparte's Gull,Mar,Yolo,11.7
+Bonaparte's Gull,May,Alameda,10.4
+Bonaparte's Gull,May,Alpine,1
+Bonaparte's Gull,May,Amador,1
+Bonaparte's Gull,May,Butte,1
+Bonaparte's Gull,May,Calaveras,1
+Bonaparte's Gull,May,Colusa,3
+Bonaparte's Gull,May,Contra Costa,5.7
+Bonaparte's Gull,May,Del Norte,51.8
+Bonaparte's Gull,May,El Dorado,1.8
+Bonaparte's Gull,May,Fresno,15
+Bonaparte's Gull,May,Glenn,2
+Bonaparte's Gull,May,Humboldt,14.5
+Bonaparte's Gull,May,Imperial,12.6
+Bonaparte's Gull,May,Inyo,9.9
+Bonaparte's Gull,May,Kern,6.2
+Bonaparte's Gull,May,Kings,10.7
+Bonaparte's Gull,May,Lake,11
+Bonaparte's Gull,May,Lassen,8
+Bonaparte's Gull,May,Los Angeles,7.2
+Bonaparte's Gull,May,Madera,3
+Bonaparte's Gull,May,Marin,19.3
+Bonaparte's Gull,May,Mendocino,3.2
+Bonaparte's Gull,May,Merced,27.2
+Bonaparte's Gull,May,Modoc,6.9
+Bonaparte's Gull,May,Mono,9.4
+Bonaparte's Gull,May,Monterey,11.1
+Bonaparte's Gull,May,Napa,18.7
+Bonaparte's Gull,May,Nevada,2
+Bonaparte's Gull,May,Orange,2
+Bonaparte's Gull,May,Placer,7.3
+Bonaparte's Gull,May,Plumas,9.1
+Bonaparte's Gull,May,Riverside,24.7
+Bonaparte's Gull,May,Sacramento,1
+Bonaparte's Gull,May,San Benito,1.5
+Bonaparte's Gull,May,San Bernardino,4.6
+Bonaparte's Gull,May,San Diego,1.6
+Bonaparte's Gull,May,San Francisco,2
+Bonaparte's Gull,May,San Joaquin,33.8
+Bonaparte's Gull,May,San Luis Obispo,12.8
+Bonaparte's Gull,May,San Mateo,24.5
+Bonaparte's Gull,May,Santa Barbara,8.8
+Bonaparte's Gull,May,Santa Clara,5.9
+Bonaparte's Gull,May,Santa Cruz,28.1
+Bonaparte's Gull,May,Shasta,5.5
+Bonaparte's Gull,May,Siskiyou,9.2
+Bonaparte's Gull,May,Solano,15.6
+Bonaparte's Gull,May,Sonoma,9.7
+Bonaparte's Gull,May,Stanislaus,21.2
+Bonaparte's Gull,May,Sutter,2
+Bonaparte's Gull,May,Tehama,9
+Bonaparte's Gull,May,Tulare,3
+Bonaparte's Gull,May,Ventura,12.1
+Bonaparte's Gull,May,Yolo,2.1
+Bonaparte's Gull,Nov,Alameda,17
+Bonaparte's Gull,Nov,Alpine,1.5
+Bonaparte's Gull,Nov,Amador,2.4
+Bonaparte's Gull,Nov,Butte,2.8
+Bonaparte's Gull,Nov,Calaveras,1
+Bonaparte's Gull,Nov,Colusa,12.8
+Bonaparte's Gull,Nov,Contra Costa,30
+Bonaparte's Gull,Nov,Del Norte,7.3
+Bonaparte's Gull,Nov,El Dorado,1.3
+Bonaparte's Gull,Nov,Fresno,18.2
+Bonaparte's Gull,Nov,Glenn,4.3
+Bonaparte's Gull,Nov,Humboldt,12.4
+Bonaparte's Gull,Nov,Imperial,2.9
+Bonaparte's Gull,Nov,Inyo,2.6
+Bonaparte's Gull,Nov,Kern,4.9
+Bonaparte's Gull,Nov,Kings,25.7
+Bonaparte's Gull,Nov,Lake,119
+Bonaparte's Gull,Nov,Lassen,26.8
+Bonaparte's Gull,Nov,Los Angeles,35.7
+Bonaparte's Gull,Nov,Madera,1.7
+Bonaparte's Gull,Nov,Marin,4.7
+Bonaparte's Gull,Nov,Mendocino,4.2
+Bonaparte's Gull,Nov,Merced,28.3
+Bonaparte's Gull,Nov,Modoc,58.8
+Bonaparte's Gull,Nov,Mono,2.2
+Bonaparte's Gull,Nov,Monterey,9
+Bonaparte's Gull,Nov,Napa,15.1
+Bonaparte's Gull,Nov,Orange,9.8
+Bonaparte's Gull,Nov,Placer,2.7
+Bonaparte's Gull,Nov,Plumas,17
+Bonaparte's Gull,Nov,Riverside,41.2
+Bonaparte's Gull,Nov,Sacramento,11.6
+Bonaparte's Gull,Nov,San Benito,26.2
+Bonaparte's Gull,Nov,San Bernardino,12.5
+Bonaparte's Gull,Nov,San Diego,124.8
+Bonaparte's Gull,Nov,San Francisco,5.2
+Bonaparte's Gull,Nov,San Joaquin,55.7
+Bonaparte's Gull,Nov,San Luis Obispo,8.3
+Bonaparte's Gull,Nov,San Mateo,3.4
+Bonaparte's Gull,Nov,Santa Barbara,10.1
+Bonaparte's Gull,Nov,Santa Clara,55.8
+Bonaparte's Gull,Nov,Santa Cruz,7.2
+Bonaparte's Gull,Nov,Shasta,4.3
+Bonaparte's Gull,Nov,Siskiyou,8.2
+Bonaparte's Gull,Nov,Solano,18.5
+Bonaparte's Gull,Nov,Sonoma,10.9
+Bonaparte's Gull,Nov,Stanislaus,180.6
+Bonaparte's Gull,Nov,Sutter,10
+Bonaparte's Gull,Nov,Tehama,10.2
+Bonaparte's Gull,Nov,Tulare,1.5
+Bonaparte's Gull,Nov,Ventura,6.2
+Bonaparte's Gull,Nov,Yolo,11.3
+Bonaparte's Gull,Nov,Yuba,1
+Bonaparte's Gull,Oct,Alameda,8.1
+Bonaparte's Gull,Oct,Amador,1
+Bonaparte's Gull,Oct,Butte,1
+Bonaparte's Gull,Oct,Calaveras,2.7
+Bonaparte's Gull,Oct,Contra Costa,4.9
+Bonaparte's Gull,Oct,Del Norte,3.3
+Bonaparte's Gull,Oct,El Dorado,1
+Bonaparte's Gull,Oct,Humboldt,9.4
+Bonaparte's Gull,Oct,Imperial,4.7
+Bonaparte's Gull,Oct,Inyo,3.2
+Bonaparte's Gull,Oct,Kern,3.4
+Bonaparte's Gull,Oct,Kings,5.3
+Bonaparte's Gull,Oct,Lake,87.8
+Bonaparte's Gull,Oct,Lassen,20.9
+Bonaparte's Gull,Oct,Los Angeles,2.4
+Bonaparte's Gull,Oct,Madera,3
+Bonaparte's Gull,Oct,Marin,4.4
+Bonaparte's Gull,Oct,Mendocino,4.1
+Bonaparte's Gull,Oct,Merced,50.5
+Bonaparte's Gull,Oct,Modoc,9.7
+Bonaparte's Gull,Oct,Mono,3.5
+Bonaparte's Gull,Oct,Monterey,6.7
+Bonaparte's Gull,Oct,Napa,21
+Bonaparte's Gull,Oct,Nevada,1
+Bonaparte's Gull,Oct,Orange,6.8
+Bonaparte's Gull,Oct,Placer,4
+Bonaparte's Gull,Oct,Plumas,6
+Bonaparte's Gull,Oct,Riverside,3.2
+Bonaparte's Gull,Oct,Sacramento,7
+Bonaparte's Gull,Oct,San Bernardino,2
+Bonaparte's Gull,Oct,San Diego,2.9
+Bonaparte's Gull,Oct,San Francisco,8.6
+Bonaparte's Gull,Oct,San Joaquin,23.7
+Bonaparte's Gull,Oct,San Luis Obispo,1.5
+Bonaparte's Gull,Oct,San Mateo,4.7
+Bonaparte's Gull,Oct,Santa Barbara,1.6
+Bonaparte's Gull,Oct,Santa Clara,19.3
+Bonaparte's Gull,Oct,Santa Cruz,5.2
+Bonaparte's Gull,Oct,Shasta,9.7
+Bonaparte's Gull,Oct,Siskiyou,7.4
+Bonaparte's Gull,Oct,Solano,3
+Bonaparte's Gull,Oct,Sonoma,2.8
+Bonaparte's Gull,Oct,Stanislaus,33.7
+Bonaparte's Gull,Oct,Sutter,2
+Bonaparte's Gull,Oct,Tehama,11.3
+Bonaparte's Gull,Oct,Trinity,1
+Bonaparte's Gull,Oct,Tulare,1.2
+Bonaparte's Gull,Oct,Ventura,1.7
+Bonaparte's Gull,Oct,Yolo,2.8
+Bonaparte's Gull,Sep,Alameda,2.8
+Bonaparte's Gull,Sep,Butte,2
+Bonaparte's Gull,Sep,Contra Costa,1
+Bonaparte's Gull,Sep,Del Norte,1.8
+Bonaparte's Gull,Sep,El Dorado,1
+Bonaparte's Gull,Sep,Fresno,1.3
+Bonaparte's Gull,Sep,Humboldt,2.2
+Bonaparte's Gull,Sep,Imperial,3
+Bonaparte's Gull,Sep,Inyo,1.5
+Bonaparte's Gull,Sep,Kern,1
+Bonaparte's Gull,Sep,Kings,1.7
+Bonaparte's Gull,Sep,Lake,1
+Bonaparte's Gull,Sep,Lassen,1.7
+Bonaparte's Gull,Sep,Los Angeles,1.5
+Bonaparte's Gull,Sep,Marin,1.4
+Bonaparte's Gull,Sep,Mendocino,2.7
+Bonaparte's Gull,Sep,Merced,2
+Bonaparte's Gull,Sep,Modoc,3
+Bonaparte's Gull,Sep,Mono,1.3
+Bonaparte's Gull,Sep,Monterey,4.5
+Bonaparte's Gull,Sep,Napa,2
+Bonaparte's Gull,Sep,Orange,2.1
+Bonaparte's Gull,Sep,Plumas,1
+Bonaparte's Gull,Sep,Riverside,2.6
+Bonaparte's Gull,Sep,San Bernardino,1
+Bonaparte's Gull,Sep,San Diego,1
+Bonaparte's Gull,Sep,San Francisco,1.9
+Bonaparte's Gull,Sep,San Luis Obispo,1.3
+Bonaparte's Gull,Sep,San Mateo,1.2
+Bonaparte's Gull,Sep,Santa Barbara,1.1
+Bonaparte's Gull,Sep,Santa Clara,2
+Bonaparte's Gull,Sep,Santa Cruz,2
+Bonaparte's Gull,Sep,Shasta,1
+Bonaparte's Gull,Sep,Siskiyou,3.9
+Bonaparte's Gull,Sep,Solano,2
+Bonaparte's Gull,Sep,Sonoma,1.3
+Bonaparte's Gull,Sep,Stanislaus,4
+Bonaparte's Gull,Sep,Tehama,1
+Bonaparte's Gull,Sep,Tulare,1
+Bonaparte's Gull,Sep,Ventura,5
+Bonaparte's Gull,Sep,Yolo,11
+California Gull,Apr,Alameda,25.7
+California Gull,Apr,Amador,16.3
+California Gull,Apr,Butte,2.6
+California Gull,Apr,Calaveras,4
+California Gull,Apr,Colusa,4.3
+California Gull,Apr,Contra Costa,10.1
+California Gull,Apr,Del Norte,16.4
+California Gull,Apr,El Dorado,4.3
+California Gull,Apr,Fresno,45.1
+California Gull,Apr,Glenn,2.4
+California Gull,Apr,Humboldt,10.5
+California Gull,Apr,Imperial,65.3
+California Gull,Apr,Inyo,326.7
+California Gull,Apr,Kern,30.2
+California Gull,Apr,Kings,58.2
+California Gull,Apr,Lake,5.4
+California Gull,Apr,Lassen,10.1
+California Gull,Apr,Los Angeles,20.7
+California Gull,Apr,Madera,42.4
+California Gull,Apr,Marin,10.8
+California Gull,Apr,Mariposa,12
+California Gull,Apr,Mendocino,15.4
+California Gull,Apr,Merced,6.9
+California Gull,Apr,Modoc,14.5
+California Gull,Apr,Mono,79.8
+California Gull,Apr,Monterey,28.9
+California Gull,Apr,Napa,4.2
+California Gull,Apr,Nevada,1.5
+California Gull,Apr,Orange,21.8
+California Gull,Apr,Placer,39.4
+California Gull,Apr,Plumas,11.6
+California Gull,Apr,Riverside,103.7
+California Gull,Apr,Sacramento,7.2
+California Gull,Apr,San Benito,73.5
+California Gull,Apr,San Bernardino,38.9
+California Gull,Apr,San Diego,55.1
+California Gull,Apr,San Francisco,12.2
+California Gull,Apr,San Joaquin,45.5
+California Gull,Apr,San Luis Obispo,24.6
+California Gull,Apr,San Mateo,17.4
+California Gull,Apr,Santa Barbara,23
+California Gull,Apr,Santa Clara,109.4
+California Gull,Apr,Santa Cruz,22.8
+California Gull,Apr,Shasta,10.9
+California Gull,Apr,Sierra,45.8
+California Gull,Apr,Siskiyou,14.4
+California Gull,Apr,Solano,7.2
+California Gull,Apr,Sonoma,14.2
+California Gull,Apr,Stanislaus,55.7
+California Gull,Apr,Sutter,23.2
+California Gull,Apr,Tehama,5
+California Gull,Apr,Tulare,32.6
+California Gull,Apr,Tuolumne,5.5
+California Gull,Apr,Ventura,17.9
+California Gull,Apr,Yolo,24.6
+California Gull,Apr,Yuba,6.7
+California Gull,Aug,Alameda,38.1
+California Gull,Aug,Alpine,3.2
+California Gull,Aug,Amador,21.8
+California Gull,Aug,Butte,3.4
+California Gull,Aug,Colusa,2.3
+California Gull,Aug,Contra Costa,35.1
+California Gull,Aug,Del Norte,24.4
+California Gull,Aug,El Dorado,9.5
+California Gull,Aug,Fresno,76.9
+California Gull,Aug,Glenn,1
+California Gull,Aug,Humboldt,19.5
+California Gull,Aug,Imperial,106.1
+California Gull,Aug,Inyo,279.5
+California Gull,Aug,Kern,5.6
+California Gull,Aug,Kings,185
+California Gull,Aug,Lake,14.8
+California Gull,Aug,Lassen,24.5
+California Gull,Aug,Los Angeles,8.1
+California Gull,Aug,Madera,4.9
+California Gull,Aug,Marin,25.2
+California Gull,Aug,Mariposa,3
+California Gull,Aug,Mendocino,9.3
+California Gull,Aug,Merced,14.9
+California Gull,Aug,Modoc,3.7
+California Gull,Aug,Mono,300.5
+California Gull,Aug,Monterey,32.9
+California Gull,Aug,Napa,24.7
+California Gull,Aug,Nevada,4.1
+California Gull,Aug,Orange,12.1
+California Gull,Aug,Placer,12.8
+California Gull,Aug,Plumas,9
+California Gull,Aug,Riverside,127
+California Gull,Aug,Sacramento,7.9
+California Gull,Aug,San Benito,1.3
+California Gull,Aug,San Bernardino,8.6
+California Gull,Aug,San Diego,8.4
+California Gull,Aug,San Francisco,34.8
+California Gull,Aug,San Joaquin,69.4
+California Gull,Aug,San Luis Obispo,15.3
+California Gull,Aug,San Mateo,50.7
+California Gull,Aug,Santa Barbara,13
+California Gull,Aug,Santa Clara,96.4
+California Gull,Aug,Santa Cruz,44.8
+California Gull,Aug,Shasta,4.5
+California Gull,Aug,Sierra,30
+California Gull,Aug,Siskiyou,9.3
+California Gull,Aug,Solano,11.1
+California Gull,Aug,Sonoma,29
+California Gull,Aug,Stanislaus,590.1
+California Gull,Aug,Sutter,1
+California Gull,Aug,Tehama,4.9
+California Gull,Aug,Trinity,17.8
+California Gull,Aug,Tulare,7.3
+California Gull,Aug,Tuolumne,1.5
+California Gull,Aug,Ventura,9.7
+California Gull,Aug,Yolo,65.4
+California Gull,Aug,Yuba,1
+California Gull,Dec,Alameda,25.9
+California Gull,Dec,Alpine,8
+California Gull,Dec,Amador,33.6
+California Gull,Dec,Butte,5.5
+California Gull,Dec,Calaveras,14.1
+California Gull,Dec,Colusa,5
+California Gull,Dec,Contra Costa,22.7
+California Gull,Dec,Del Norte,26.2
+California Gull,Dec,El Dorado,24.4
+California Gull,Dec,Fresno,358.9
+California Gull,Dec,Glenn,4.6
+California Gull,Dec,Humboldt,18
+California Gull,Dec,Imperial,121.2
+California Gull,Dec,Inyo,24.1
+California Gull,Dec,Kern,41.7
+California Gull,Dec,Kings,230.4
+California Gull,Dec,Lake,101.3
+California Gull,Dec,Lassen,39.3
+California Gull,Dec,Los Angeles,76.9
+California Gull,Dec,Madera,6.6
+California Gull,Dec,Marin,33.9
+California Gull,Dec,Mariposa,2
+California Gull,Dec,Mendocino,24.2
+California Gull,Dec,Merced,43.6
+California Gull,Dec,Modoc,25.2
+California Gull,Dec,Mono,147.7
+California Gull,Dec,Monterey,105.8
+California Gull,Dec,Napa,11.5
+California Gull,Dec,Nevada,4.9
+California Gull,Dec,Orange,47.2
+California Gull,Dec,Placer,127.9
+California Gull,Dec,Plumas,4.8
+California Gull,Dec,Riverside,151.9
+California Gull,Dec,Sacramento,30.5
+California Gull,Dec,San Benito,49.8
+California Gull,Dec,San Bernardino,132.7
+California Gull,Dec,San Diego,44.9
+California Gull,Dec,San Francisco,21.4
+California Gull,Dec,San Joaquin,33.9
+California Gull,Dec,San Luis Obispo,24.1
+California Gull,Dec,San Mateo,52.2
+California Gull,Dec,Santa Barbara,42.8
+California Gull,Dec,Santa Clara,52.2
+California Gull,Dec,Santa Cruz,70.5
+California Gull,Dec,Shasta,33
+California Gull,Dec,Sierra,8
+California Gull,Dec,Siskiyou,5.4
+California Gull,Dec,Solano,11.2
+California Gull,Dec,Sonoma,54.7
+California Gull,Dec,Stanislaus,89.1
+California Gull,Dec,Sutter,5.1
+California Gull,Dec,Tehama,5.1
+California Gull,Dec,Trinity,10.5
+California Gull,Dec,Tulare,42.7
+California Gull,Dec,Tuolumne,4
+California Gull,Dec,Ventura,45.5
+California Gull,Dec,Yolo,155.4
+California Gull,Dec,Yuba,30
+California Gull,Feb,Alameda,21.5
+California Gull,Feb,Amador,28.2
+California Gull,Feb,Butte,5
+California Gull,Feb,Calaveras,8.5
+California Gull,Feb,Colusa,3.1
+California Gull,Feb,Contra Costa,72.5
+California Gull,Feb,Del Norte,15.9
+California Gull,Feb,El Dorado,48.2
+California Gull,Feb,Fresno,148.9
+California Gull,Feb,Glenn,4.7
+California Gull,Feb,Humboldt,14.1
+California Gull,Feb,Imperial,222.7
+California Gull,Feb,Inyo,51.4
+California Gull,Feb,Kern,63.3
+California Gull,Feb,Kings,168
+California Gull,Feb,Lake,48.3
+California Gull,Feb,Lassen,35.6
+California Gull,Feb,Los Angeles,75.5
+California Gull,Feb,Madera,163.8
+California Gull,Feb,Marin,24.1
+California Gull,Feb,Mariposa,9.7
+California Gull,Feb,Mendocino,20
+California Gull,Feb,Merced,23.9
+California Gull,Feb,Modoc,1.4
+California Gull,Feb,Mono,26.2
+California Gull,Feb,Monterey,52.7
+California Gull,Feb,Napa,8.4
+California Gull,Feb,Nevada,1.5
+California Gull,Feb,Orange,51.1
+California Gull,Feb,Placer,70
+California Gull,Feb,Plumas,11.7
+California Gull,Feb,Riverside,144.1
+California Gull,Feb,Sacramento,22.5
+California Gull,Feb,San Benito,64.1
+California Gull,Feb,San Bernardino,46.3
+California Gull,Feb,San Diego,96.8
+California Gull,Feb,San Francisco,12.6
+California Gull,Feb,San Joaquin,58.6
+California Gull,Feb,San Luis Obispo,28.2
+California Gull,Feb,San Mateo,29.9
+California Gull,Feb,Santa Barbara,25.9
+California Gull,Feb,Santa Clara,57.7
+California Gull,Feb,Santa Cruz,38.4
+California Gull,Feb,Shasta,28.9
+California Gull,Feb,Siskiyou,12.2
+California Gull,Feb,Solano,18.6
+California Gull,Feb,Sonoma,46.4
+California Gull,Feb,Stanislaus,25.4
+California Gull,Feb,Sutter,17.9
+California Gull,Feb,Tehama,9.2
+California Gull,Feb,Tulare,135.1
+California Gull,Feb,Tuolumne,5
+California Gull,Feb,Ventura,25.4
+California Gull,Feb,Yolo,108.1
+California Gull,Feb,Yuba,69.9
+California Gull,Jan,Alameda,18.8
+California Gull,Jan,Amador,18.3
+California Gull,Jan,Butte,5.8
+California Gull,Jan,Calaveras,21.2
+California Gull,Jan,Colusa,3.3
+California Gull,Jan,Contra Costa,51.8
+California Gull,Jan,Del Norte,18.2
+California Gull,Jan,El Dorado,18
+California Gull,Jan,Fresno,226.6
+California Gull,Jan,Glenn,5.9
+California Gull,Jan,Humboldt,13
+California Gull,Jan,Imperial,194
+California Gull,Jan,Inyo,9.6
+California Gull,Jan,Kern,55.8
+California Gull,Jan,Kings,101.8
+California Gull,Jan,Lake,73.8
+California Gull,Jan,Lassen,36
+California Gull,Jan,Los Angeles,67.5
+California Gull,Jan,Madera,133.5
+California Gull,Jan,Marin,36.2
+California Gull,Jan,Mariposa,2.4
+California Gull,Jan,Mendocino,36
+California Gull,Jan,Merced,47.8
+California Gull,Jan,Mono,10.7
+California Gull,Jan,Monterey,85.1
+California Gull,Jan,Napa,8.2
+California Gull,Jan,Nevada,1
+California Gull,Jan,Orange,55.3
+California Gull,Jan,Placer,125.6
+California Gull,Jan,Plumas,6.1
+California Gull,Jan,Riverside,98.7
+California Gull,Jan,Sacramento,32.7
+California Gull,Jan,San Benito,82.6
+California Gull,Jan,San Bernardino,191.1
+California Gull,Jan,San Diego,52.8
+California Gull,Jan,San Francisco,22.2
+California Gull,Jan,San Joaquin,63.3
+California Gull,Jan,San Luis Obispo,35.2
+California Gull,Jan,San Mateo,36.5
+California Gull,Jan,Santa Barbara,35.9
+California Gull,Jan,Santa Clara,34.3
+California Gull,Jan,Santa Cruz,70.1
+California Gull,Jan,Shasta,24.6
+California Gull,Jan,Sierra,9
+California Gull,Jan,Siskiyou,7.5
+California Gull,Jan,Solano,18.9
+California Gull,Jan,Sonoma,43.1
+California Gull,Jan,Stanislaus,75.5
+California Gull,Jan,Sutter,13.2
+California Gull,Jan,Tehama,6.3
+California Gull,Jan,Trinity,2
+California Gull,Jan,Tulare,149.4
+California Gull,Jan,Tuolumne,5.6
+California Gull,Jan,Ventura,35.8
+California Gull,Jan,Yolo,88.1
+California Gull,Jan,Yuba,5.9
+California Gull,Jul,Alameda,28.3
+California Gull,Jul,Alpine,3.5
+California Gull,Jul,Amador,2.8
+California Gull,Jul,Butte,2.7
+California Gull,Jul,Calaveras,6.3
+California Gull,Jul,Colusa,1
+California Gull,Jul,Contra Costa,19.1
+California Gull,Jul,Del Norte,11.2
+California Gull,Jul,El Dorado,10.6
+California Gull,Jul,Fresno,16.6
+California Gull,Jul,Glenn,5
+California Gull,Jul,Humboldt,17.1
+California Gull,Jul,Imperial,96.5
+California Gull,Jul,Inyo,346.2
+California Gull,Jul,Kern,6.3
+California Gull,Jul,Kings,73.5
+California Gull,Jul,Lake,10.8
+California Gull,Jul,Lassen,45.1
+California Gull,Jul,Los Angeles,7.2
+California Gull,Jul,Madera,5.1
+California Gull,Jul,Marin,8.8
+California Gull,Jul,Mariposa,1
+California Gull,Jul,Mendocino,11.2
+California Gull,Jul,Merced,15.5
+California Gull,Jul,Modoc,9.5
+California Gull,Jul,Mono,522.1
+California Gull,Jul,Monterey,27.6
+California Gull,Jul,Napa,41
+California Gull,Jul,Nevada,7.6
+California Gull,Jul,Orange,7.7
+California Gull,Jul,Placer,6.9
+California Gull,Jul,Plumas,13.1
+California Gull,Jul,Riverside,47.5
+California Gull,Jul,Sacramento,6.8
+California Gull,Jul,San Benito,12
+California Gull,Jul,San Bernardino,9.5
+California Gull,Jul,San Diego,8.8
+California Gull,Jul,San Francisco,12.7
+California Gull,Jul,San Joaquin,89.3
+California Gull,Jul,San Luis Obispo,14.4
+California Gull,Jul,San Mateo,42.4
+California Gull,Jul,Santa Barbara,10.1
+California Gull,Jul,Santa Clara,108.2
+California Gull,Jul,Santa Cruz,40.5
+California Gull,Jul,Shasta,4.8
+California Gull,Jul,Sierra,2.2
+California Gull,Jul,Siskiyou,18.3
+California Gull,Jul,Solano,13.7
+California Gull,Jul,Sonoma,18
+California Gull,Jul,Stanislaus,339.1
+California Gull,Jul,Tehama,6.2
+California Gull,Jul,Trinity,1
+California Gull,Jul,Tulare,4.6
+California Gull,Jul,Tuolumne,3.8
+California Gull,Jul,Ventura,7.7
+California Gull,Jul,Yolo,45.4
+California Gull,Jul,Yuba,5
+California Gull,Jun,Alameda,25.2
+California Gull,Jun,Alpine,1.6
+California Gull,Jun,Amador,3
+California Gull,Jun,Butte,12
+California Gull,Jun,Calaveras,9
+California Gull,Jun,Colusa,6
+California Gull,Jun,Contra Costa,34.4
+California Gull,Jun,Del Norte,16.7
+California Gull,Jun,El Dorado,7.3
+California Gull,Jun,Fresno,2.6
+California Gull,Jun,Glenn,2
+California Gull,Jun,Humboldt,23.2
+California Gull,Jun,Imperial,38.4
+California Gull,Jun,Inyo,346.1
+California Gull,Jun,Kern,8.1
+California Gull,Jun,Kings,34.4
+California Gull,Jun,Lake,2.3
+California Gull,Jun,Lassen,32.6
+California Gull,Jun,Los Angeles,7.3
+California Gull,Jun,Madera,10.8
+California Gull,Jun,Marin,7.4
+California Gull,Jun,Mendocino,8.6
+California Gull,Jun,Merced,19
+California Gull,Jun,Modoc,13.8
+California Gull,Jun,Mono,147.2
+California Gull,Jun,Monterey,27.9
+California Gull,Jun,Napa,12.6
+California Gull,Jun,Nevada,3.1
+California Gull,Jun,Orange,5.1
+California Gull,Jun,Placer,4.7
+California Gull,Jun,Plumas,13
+California Gull,Jun,Riverside,17.8
+California Gull,Jun,Sacramento,6.5
+California Gull,Jun,San Bernardino,14.3
+California Gull,Jun,San Diego,8.4
+California Gull,Jun,San Francisco,8.3
+California Gull,Jun,San Joaquin,16.6
+California Gull,Jun,San Luis Obispo,20.6
+California Gull,Jun,San Mateo,33.6
+California Gull,Jun,Santa Barbara,8.9
+California Gull,Jun,Santa Clara,104.9
+California Gull,Jun,Santa Cruz,28.3
+California Gull,Jun,Shasta,5.3
+California Gull,Jun,Sierra,4.6
+California Gull,Jun,Siskiyou,12.5
+California Gull,Jun,Solano,9.9
+California Gull,Jun,Sonoma,26.8
+California Gull,Jun,Stanislaus,343.4
+California Gull,Jun,Tehama,11.5
+California Gull,Jun,Tulare,2.2
+California Gull,Jun,Tuolumne,3.8
+California Gull,Jun,Ventura,5.5
+California Gull,Jun,Yolo,71.2
+California Gull,Jun,Yuba,12
+California Gull,Mar,Alameda,26.2
+California Gull,Mar,Amador,15.2
+California Gull,Mar,Butte,18.3
+California Gull,Mar,Calaveras,9.3
+California Gull,Mar,Colusa,2.2
+California Gull,Mar,Contra Costa,12.4
+California Gull,Mar,Del Norte,23
+California Gull,Mar,El Dorado,18.9
+California Gull,Mar,Fresno,149.7
+California Gull,Mar,Glenn,9.6
+California Gull,Mar,Humboldt,6.3
+California Gull,Mar,Imperial,158.2
+California Gull,Mar,Inyo,181.4
+California Gull,Mar,Kern,70.6
+California Gull,Mar,Kings,241.6
+California Gull,Mar,Lake,41.2
+California Gull,Mar,Lassen,63.1
+California Gull,Mar,Los Angeles,53.1
+California Gull,Mar,Madera,19.1
+California Gull,Mar,Marin,11.8
+California Gull,Mar,Mariposa,2.3
+California Gull,Mar,Mendocino,11.8
+California Gull,Mar,Merced,16.5
+California Gull,Mar,Modoc,5.8
+California Gull,Mar,Mono,125
+California Gull,Mar,Monterey,34.4
+California Gull,Mar,Napa,7.5
+California Gull,Mar,Nevada,1
+California Gull,Mar,Orange,50.8
+California Gull,Mar,Placer,150.3
+California Gull,Mar,Plumas,15
+California Gull,Mar,Riverside,126
+California Gull,Mar,Sacramento,15.2
+California Gull,Mar,San Benito,153.4
+California Gull,Mar,San Bernardino,42.1
+California Gull,Mar,San Diego,70.2
+California Gull,Mar,San Francisco,9.9
+California Gull,Mar,San Joaquin,23.5
+California Gull,Mar,San Luis Obispo,37
+California Gull,Mar,San Mateo,23.9
+California Gull,Mar,Santa Barbara,24.1
+California Gull,Mar,Santa Clara,65.5
+California Gull,Mar,Santa Cruz,29.2
+California Gull,Mar,Shasta,31.8
+California Gull,Mar,Sierra,118.7
+California Gull,Mar,Siskiyou,6.6
+California Gull,Mar,Solano,33.5
+California Gull,Mar,Sonoma,20.3
+California Gull,Mar,Stanislaus,43.3
+California Gull,Mar,Sutter,10.6
+California Gull,Mar,Tehama,2
+California Gull,Mar,Trinity,13
+California Gull,Mar,Tulare,32.7
+California Gull,Mar,Tuolumne,8
+California Gull,Mar,Ventura,18.1
+California Gull,Mar,Yolo,119.7
+California Gull,Mar,Yuba,88.5
+California Gull,May,Alameda,25.6
+California Gull,May,Amador,6.7
+California Gull,May,Butte,8
+California Gull,May,Calaveras,2.5
+California Gull,May,Colusa,10.5
+California Gull,May,Contra Costa,15.1
+California Gull,May,Del Norte,18.1
+California Gull,May,El Dorado,5.8
+California Gull,May,Fresno,6.4
+California Gull,May,Glenn,1.7
+California Gull,May,Humboldt,16.4
+California Gull,May,Imperial,48.1
+California Gull,May,Inyo,249.6
+California Gull,May,Kern,12.3
+California Gull,May,Kings,41.3
+California Gull,May,Lake,2
+California Gull,May,Lassen,31.5
+California Gull,May,Los Angeles,13.3
+California Gull,May,Madera,17.8
+California Gull,May,Marin,13.5
+California Gull,May,Mariposa,9.6
+California Gull,May,Mendocino,21.4
+California Gull,May,Merced,14.6
+California Gull,May,Modoc,8.1
+California Gull,May,Mono,73.1
+California Gull,May,Monterey,28
+California Gull,May,Napa,17.8
+California Gull,May,Nevada,15.5
+California Gull,May,Orange,19.9
+California Gull,May,Placer,12.1
+California Gull,May,Plumas,26.6
+California Gull,May,Riverside,127.5
+California Gull,May,Sacramento,6.2
+California Gull,May,San Benito,4.7
+California Gull,May,San Bernardino,48.6
+California Gull,May,San Diego,24.3
+California Gull,May,San Francisco,11.2
+California Gull,May,San Joaquin,4.1
+California Gull,May,San Luis Obispo,23
+California Gull,May,San Mateo,31.2
+California Gull,May,Santa Barbara,25.9
+California Gull,May,Santa Clara,74.7
+California Gull,May,Santa Cruz,31.9
+California Gull,May,Shasta,5.1
+California Gull,May,Sierra,6.5
+California Gull,May,Siskiyou,21.8
+California Gull,May,Solano,15.1
+California Gull,May,Sonoma,18.9
+California Gull,May,Stanislaus,120.7
+California Gull,May,Sutter,4
+California Gull,May,Tehama,4
+California Gull,May,Tulare,8.5
+California Gull,May,Tuolumne,13
+California Gull,May,Ventura,16.4
+California Gull,May,Yolo,77.1
+California Gull,Nov,Alameda,20.2
+California Gull,Nov,Amador,23.5
+California Gull,Nov,Butte,6.2
+California Gull,Nov,Calaveras,17.1
+California Gull,Nov,Colusa,3.9
+California Gull,Nov,Contra Costa,21
+California Gull,Nov,Del Norte,36.1
+California Gull,Nov,El Dorado,13.4
+California Gull,Nov,Fresno,124.2
+California Gull,Nov,Glenn,10.5
+California Gull,Nov,Humboldt,29.5
+California Gull,Nov,Imperial,145.3
+California Gull,Nov,Inyo,19.9
+California Gull,Nov,Kern,31.6
+California Gull,Nov,Kings,127.1
+California Gull,Nov,Lake,22.9
+California Gull,Nov,Lassen,30.8
+California Gull,Nov,Los Angeles,40.3
+California Gull,Nov,Madera,9.3
+California Gull,Nov,Marin,60.5
+California Gull,Nov,Mariposa,3.5
+California Gull,Nov,Mendocino,25.4
+California Gull,Nov,Merced,13.1
+California Gull,Nov,Modoc,101.3
+California Gull,Nov,Mono,49.2
+California Gull,Nov,Monterey,64.9
+California Gull,Nov,Napa,8.3
+California Gull,Nov,Nevada,3.8
+California Gull,Nov,Orange,28.7
+California Gull,Nov,Placer,102.7
+California Gull,Nov,Plumas,7.1
+California Gull,Nov,Riverside,86.3
+California Gull,Nov,Sacramento,24.9
+California Gull,Nov,San Benito,39
+California Gull,Nov,San Bernardino,101.2
+California Gull,Nov,San Diego,29.9
+California Gull,Nov,San Francisco,40.5
+California Gull,Nov,San Joaquin,44.9
+California Gull,Nov,San Luis Obispo,30.2
+California Gull,Nov,San Mateo,54
+California Gull,Nov,Santa Barbara,29.7
+California Gull,Nov,Santa Clara,38.9
+California Gull,Nov,Santa Cruz,90.6
+California Gull,Nov,Shasta,10.2
+California Gull,Nov,Sierra,8.1
+California Gull,Nov,Siskiyou,3
+California Gull,Nov,Solano,13.9
+California Gull,Nov,Sonoma,114.2
+California Gull,Nov,Stanislaus,115.2
+California Gull,Nov,Sutter,5.4
+California Gull,Nov,Tehama,6.1
+California Gull,Nov,Trinity,14
+California Gull,Nov,Tulare,25.1
+California Gull,Nov,Tuolumne,2
+California Gull,Nov,Ventura,22.8
+California Gull,Nov,Yolo,87.1
+California Gull,Nov,Yuba,16.4
+California Gull,Oct,Alameda,21.4
+California Gull,Oct,Alpine,7.1
+California Gull,Oct,Amador,35
+California Gull,Oct,Butte,5.5
+California Gull,Oct,Calaveras,12
+California Gull,Oct,Colusa,21.2
+California Gull,Oct,Contra Costa,16
+California Gull,Oct,Del Norte,63
+California Gull,Oct,El Dorado,17
+California Gull,Oct,Fresno,58.9
+California Gull,Oct,Glenn,2.6
+California Gull,Oct,Humboldt,15
+California Gull,Oct,Imperial,231.3
+California Gull,Oct,Inyo,127.4
+California Gull,Oct,Kern,10.7
+California Gull,Oct,Kings,106.5
+California Gull,Oct,Lake,25.4
+California Gull,Oct,Lassen,7.4
+California Gull,Oct,Los Angeles,14.9
+California Gull,Oct,Madera,4.1
+California Gull,Oct,Marin,35.6
+California Gull,Oct,Mariposa,4.8
+California Gull,Oct,Mendocino,26.9
+California Gull,Oct,Merced,20.9
+California Gull,Oct,Modoc,3.9
+California Gull,Oct,Mono,114
+California Gull,Oct,Monterey,64.4
+California Gull,Oct,Napa,12.9
+California Gull,Oct,Nevada,3.9
+California Gull,Oct,Orange,10.2
+California Gull,Oct,Placer,29.9
+California Gull,Oct,Plumas,7.9
+California Gull,Oct,Riverside,73.3
+California Gull,Oct,Sacramento,17.2
+California Gull,Oct,San Bernardino,32.4
+California Gull,Oct,San Diego,17.2
+California Gull,Oct,San Francisco,53.7
+California Gull,Oct,San Joaquin,37
+California Gull,Oct,San Luis Obispo,23.7
+California Gull,Oct,San Mateo,39.8
+California Gull,Oct,Santa Barbara,22.9
+California Gull,Oct,Santa Clara,46.1
+California Gull,Oct,Santa Cruz,69.2
+California Gull,Oct,Shasta,3.9
+California Gull,Oct,Sierra,4
+California Gull,Oct,Siskiyou,12.7
+California Gull,Oct,Solano,13.2
+California Gull,Oct,Sonoma,41.9
+California Gull,Oct,Stanislaus,136.5
+California Gull,Oct,Sutter,7.7
+California Gull,Oct,Tehama,1.3
+California Gull,Oct,Trinity,37.8
+California Gull,Oct,Tulare,14.3
+California Gull,Oct,Tuolumne,2.9
+California Gull,Oct,Ventura,14
+California Gull,Oct,Yolo,82.3
+California Gull,Oct,Yuba,4.4
+California Gull,Sep,Alameda,32.1
+California Gull,Sep,Alpine,3
+California Gull,Sep,Amador,23
+California Gull,Sep,Butte,5.5
+California Gull,Sep,Calaveras,8.1
+California Gull,Sep,Colusa,4.3
+California Gull,Sep,Contra Costa,37
+California Gull,Sep,Del Norte,19.4
+California Gull,Sep,El Dorado,8.5
+California Gull,Sep,Fresno,126.4
+California Gull,Sep,Glenn,8.1
+California Gull,Sep,Humboldt,9.4
+California Gull,Sep,Imperial,107
+California Gull,Sep,Inyo,38.7
+California Gull,Sep,Kern,4.4
+California Gull,Sep,Kings,169.1
+California Gull,Sep,Lake,48.9
+California Gull,Sep,Lassen,31.4
+California Gull,Sep,Los Angeles,8.8
+California Gull,Sep,Madera,3.8
+California Gull,Sep,Marin,23.5
+California Gull,Sep,Mariposa,4
+California Gull,Sep,Mendocino,19.2
+California Gull,Sep,Merced,47.9
+California Gull,Sep,Modoc,12.5
+California Gull,Sep,Mono,167.2
+California Gull,Sep,Monterey,39.3
+California Gull,Sep,Napa,44
+California Gull,Sep,Nevada,7.7
+California Gull,Sep,Orange,8
+California Gull,Sep,Placer,12.1
+California Gull,Sep,Plumas,10.6
+California Gull,Sep,Riverside,93.9
+California Gull,Sep,Sacramento,16.7
+California Gull,Sep,San Benito,3.3
+California Gull,Sep,San Bernardino,9.6
+California Gull,Sep,San Diego,7.7
+California Gull,Sep,San Francisco,67
+California Gull,Sep,San Joaquin,49.9
+California Gull,Sep,San Luis Obispo,17.6
+California Gull,Sep,San Mateo,52.8
+California Gull,Sep,Santa Barbara,18.2
+California Gull,Sep,Santa Clara,91.9
+California Gull,Sep,Santa Cruz,62.6
+California Gull,Sep,Shasta,6.5
+California Gull,Sep,Sierra,23.8
+California Gull,Sep,Siskiyou,15.4
+California Gull,Sep,Solano,10.6
+California Gull,Sep,Sonoma,28.4
+California Gull,Sep,Stanislaus,666.2
+California Gull,Sep,Sutter,1.3
+California Gull,Sep,Tehama,3.6
+California Gull,Sep,Trinity,21
+California Gull,Sep,Tulare,20
+California Gull,Sep,Tuolumne,2.8
+California Gull,Sep,Ventura,13.8
+California Gull,Sep,Yolo,45.2
+California Gull,Sep,Yuba,7.5
+Franklin's Gull,Apr,Alameda,1
+Franklin's Gull,Apr,Contra Costa,2
+Franklin's Gull,Apr,El Dorado,1
+Franklin's Gull,Apr,Imperial,8.7
+Franklin's Gull,Apr,Inyo,2.3
+Franklin's Gull,Apr,Kern,3.8
+Franklin's Gull,Apr,Kings,1.6
+Franklin's Gull,Apr,Lassen,2
+Franklin's Gull,Apr,Los Angeles,2.7
+Franklin's Gull,Apr,Marin,1
+Franklin's Gull,Apr,Mono,1.7
+Franklin's Gull,Apr,Monterey,1.5
+Franklin's Gull,Apr,Napa,1
+Franklin's Gull,Apr,Orange,2.5
+Franklin's Gull,Apr,Placer,1
+Franklin's Gull,Apr,Plumas,1
+Franklin's Gull,Apr,Riverside,2.2
+Franklin's Gull,Apr,San Bernardino,5.6
+Franklin's Gull,Apr,San Diego,1.1
+Franklin's Gull,Apr,San Francisco,1
+Franklin's Gull,Apr,San Joaquin,1
+Franklin's Gull,Apr,San Mateo,1
+Franklin's Gull,Apr,Santa Barbara,1.5
+Franklin's Gull,Apr,Santa Cruz,2
+Franklin's Gull,Apr,Shasta,1.7
+Franklin's Gull,Apr,Siskiyou,18.9
+Franklin's Gull,Apr,Tulare,1
+Franklin's Gull,Apr,Ventura,1
+Franklin's Gull,Apr,Yolo,1
+Franklin's Gull,Aug,Butte,1
+Franklin's Gull,Aug,Del Norte,1
+Franklin's Gull,Aug,Fresno,1
+Franklin's Gull,Aug,Humboldt,1
+Franklin's Gull,Aug,Imperial,2.1
+Franklin's Gull,Aug,Inyo,1
+Franklin's Gull,Aug,Kern,1
+Franklin's Gull,Aug,Kings,1.5
+Franklin's Gull,Aug,Los Angeles,1
+Franklin's Gull,Aug,Madera,1
+Franklin's Gull,Aug,Mendocino,1
+Franklin's Gull,Aug,Modoc,22.7
+Franklin's Gull,Aug,Mono,2
+Franklin's Gull,Aug,Monterey,1
+Franklin's Gull,Aug,Napa,1
+Franklin's Gull,Aug,Riverside,1
+Franklin's Gull,Aug,San Bernardino,1
+Franklin's Gull,Aug,San Diego,1
+Franklin's Gull,Aug,San Joaquin,1
+Franklin's Gull,Aug,Santa Clara,1
+Franklin's Gull,Aug,Siskiyou,16.5
+Franklin's Gull,Aug,Tulare,1
+Franklin's Gull,Aug,Yolo,1
+Franklin's Gull,Dec,Del Norte,1
+Franklin's Gull,Dec,Humboldt,1
+Franklin's Gull,Dec,Imperial,1.5
+Franklin's Gull,Dec,Kings,2
+Franklin's Gull,Dec,Monterey,1
+Franklin's Gull,Dec,Orange,1
+Franklin's Gull,Dec,Placer,1
+Franklin's Gull,Dec,Riverside,1
+Franklin's Gull,Dec,San Diego,1
+Franklin's Gull,Dec,Tulare,1
+Franklin's Gull,Dec,Yolo,1
+Franklin's Gull,Feb,Los Angeles,1
+Franklin's Gull,Jan,Humboldt,1
+Franklin's Gull,Jan,Los Angeles,1
+Franklin's Gull,Jan,Marin,1
+Franklin's Gull,Jan,Orange,1
+Franklin's Gull,Jan,San Benito,1
+Franklin's Gull,Jan,Ventura,1
+Franklin's Gull,Jul,Imperial,1.3
+Franklin's Gull,Jul,Inyo,1
+Franklin's Gull,Jul,Kern,1
+Franklin's Gull,Jul,Kings,1.3
+Franklin's Gull,Jul,Mendocino,1
+Franklin's Gull,Jul,Modoc,15.3
+Franklin's Gull,Jul,Mono,1
+Franklin's Gull,Jul,Monterey,1
+Franklin's Gull,Jul,Plumas,1
+Franklin's Gull,Jul,Riverside,1
+Franklin's Gull,Jul,Santa Clara,1
+Franklin's Gull,Jul,Shasta,1
+Franklin's Gull,Jul,Siskiyou,13.7
+Franklin's Gull,Jul,Yolo,1
+Franklin's Gull,Jun,Alameda,1
+Franklin's Gull,Jun,Del Norte,1
+Franklin's Gull,Jun,Humboldt,1
+Franklin's Gull,Jun,Imperial,1.2
+Franklin's Gull,Jun,Inyo,3.8
+Franklin's Gull,Jun,Kern,1.3
+Franklin's Gull,Jun,Kings,2.7
+Franklin's Gull,Jun,Lassen,1
+Franklin's Gull,Jun,Los Angeles,1.1
+Franklin's Gull,Jun,Madera,1
+Franklin's Gull,Jun,Modoc,18.4
+Franklin's Gull,Jun,Mono,1
+Franklin's Gull,Jun,Monterey,1
+Franklin's Gull,Jun,Orange,1
+Franklin's Gull,Jun,Plumas,2.7
+Franklin's Gull,Jun,Riverside,1
+Franklin's Gull,Jun,San Bernardino,1
+Franklin's Gull,Jun,San Luis Obispo,1
+Franklin's Gull,Jun,San Mateo,1
+Franklin's Gull,Jun,Santa Barbara,1
+Franklin's Gull,Jun,Santa Cruz,2
+Franklin's Gull,Jun,Siskiyou,29.6
+Franklin's Gull,Jun,Sonoma,1
+Franklin's Gull,Jun,Stanislaus,2
+Franklin's Gull,Jun,Yolo,1
+Franklin's Gull,Mar,Imperial,11.5
+Franklin's Gull,Mar,Inyo,1
+Franklin's Gull,Mar,Kern,1
+Franklin's Gull,Mar,Los Angeles,1
+Franklin's Gull,Mar,Riverside,2.3
+Franklin's Gull,Mar,San Bernardino,1
+Franklin's Gull,Mar,San Diego,1
+Franklin's Gull,May,Alameda,1
+Franklin's Gull,May,Del Norte,1
+Franklin's Gull,May,El Dorado,1
+Franklin's Gull,May,Humboldt,1
+Franklin's Gull,May,Imperial,2.3
+Franklin's Gull,May,Inyo,6.7
+Franklin's Gull,May,Kern,4.1
+Franklin's Gull,May,Kings,4.2
+Franklin's Gull,May,Lassen,1.7
+Franklin's Gull,May,Los Angeles,3.6
+Franklin's Gull,May,Marin,2
+Franklin's Gull,May,Mendocino,1
+Franklin's Gull,May,Merced,1
+Franklin's Gull,May,Modoc,3.5
+Franklin's Gull,May,Mono,2.5
+Franklin's Gull,May,Monterey,1.1
+Franklin's Gull,May,Orange,1
+Franklin's Gull,May,Placer,1
+Franklin's Gull,May,Plumas,1
+Franklin's Gull,May,Riverside,2.1
+Franklin's Gull,May,San Bernardino,3.3
+Franklin's Gull,May,San Diego,1
+Franklin's Gull,May,San Luis Obispo,1.5
+Franklin's Gull,May,San Mateo,1.1
+Franklin's Gull,May,Santa Clara,1
+Franklin's Gull,May,Santa Cruz,1.2
+Franklin's Gull,May,Shasta,1
+Franklin's Gull,May,Siskiyou,12.9
+Franklin's Gull,May,Sonoma,1
+Franklin's Gull,May,Stanislaus,1.3
+Franklin's Gull,May,Tulare,3.8
+Franklin's Gull,May,Ventura,1
+Franklin's Gull,May,Yolo,1
+Franklin's Gull,Nov,Del Norte,1
+Franklin's Gull,Nov,Humboldt,1
+Franklin's Gull,Nov,Imperial,1.3
+Franklin's Gull,Nov,Kern,1
+Franklin's Gull,Nov,Kings,1
+Franklin's Gull,Nov,Marin,1
+Franklin's Gull,Nov,Monterey,2
+Franklin's Gull,Nov,Placer,1
+Franklin's Gull,Nov,Riverside,1
+Franklin's Gull,Nov,San Bernardino,1
+Franklin's Gull,Nov,San Diego,1
+Franklin's Gull,Nov,San Francisco,2
+Franklin's Gull,Nov,San Joaquin,1.1
+Franklin's Gull,Nov,San Luis Obispo,1
+Franklin's Gull,Nov,Santa Barbara,1
+Franklin's Gull,Nov,Santa Cruz,1
+Franklin's Gull,Nov,Stanislaus,1
+Franklin's Gull,Nov,Yolo,1
+Franklin's Gull,Oct,Butte,2.4
+Franklin's Gull,Oct,Fresno,1
+Franklin's Gull,Oct,Humboldt,1
+Franklin's Gull,Oct,Imperial,2.7
+Franklin's Gull,Oct,Kern,1
+Franklin's Gull,Oct,Kings,1
+Franklin's Gull,Oct,Lake,1
+Franklin's Gull,Oct,Merced,1
+Franklin's Gull,Oct,Mono,1
+Franklin's Gull,Oct,Monterey,1
+Franklin's Gull,Oct,Orange,1
+Franklin's Gull,Oct,Riverside,1
+Franklin's Gull,Oct,San Diego,1
+Franklin's Gull,Oct,San Francisco,1
+Franklin's Gull,Oct,Santa Clara,1
+Franklin's Gull,Oct,Santa Cruz,1.1
+Franklin's Gull,Oct,Stanislaus,1
+Franklin's Gull,Oct,Yolo,1
+Franklin's Gull,Sep,Butte,1
+Franklin's Gull,Sep,El Dorado,1
+Franklin's Gull,Sep,Fresno,2
+Franklin's Gull,Sep,Humboldt,1
+Franklin's Gull,Sep,Imperial,2
+Franklin's Gull,Sep,Inyo,1
+Franklin's Gull,Sep,Kern,1
+Franklin's Gull,Sep,Kings,1.1
+Franklin's Gull,Sep,Lake,1
+Franklin's Gull,Sep,Los Angeles,1.2
+Franklin's Gull,Sep,Mendocino,1
+Franklin's Gull,Sep,Modoc,11.3
+Franklin's Gull,Sep,Napa,1
+Franklin's Gull,Sep,Plumas,1
+Franklin's Gull,Sep,Riverside,1
+Franklin's Gull,Sep,San Diego,1
+Franklin's Gull,Sep,San Francisco,1
+Franklin's Gull,Sep,San Luis Obispo,1
+Franklin's Gull,Sep,San Mateo,1
+Franklin's Gull,Sep,Santa Barbara,1
+Franklin's Gull,Sep,Santa Clara,1
+Franklin's Gull,Sep,Santa Cruz,1
+Franklin's Gull,Sep,Siskiyou,3.7
+Franklin's Gull,Sep,Stanislaus,1
+Franklin's Gull,Sep,Ventura,3
+Franklin's Gull,Sep,Yolo,1
+Glaucous-winged Gull,Apr,Alameda,3
+Glaucous-winged Gull,Apr,Contra Costa,1.4
+Glaucous-winged Gull,Apr,Del Norte,13.5
+Glaucous-winged Gull,Apr,Fresno,2
+Glaucous-winged Gull,Apr,Humboldt,4.3
+Glaucous-winged Gull,Apr,Imperial,1.5
+Glaucous-winged Gull,Apr,Lake,1
+Glaucous-winged Gull,Apr,Los Angeles,1.8
+Glaucous-winged Gull,Apr,Marin,2.2
+Glaucous-winged Gull,Apr,Mendocino,3.2
+Glaucous-winged Gull,Apr,Monterey,3.2
+Glaucous-winged Gull,Apr,Napa,2
+Glaucous-winged Gull,Apr,Orange,1.2
+Glaucous-winged Gull,Apr,Placer,1
+Glaucous-winged Gull,Apr,Riverside,1.3
+Glaucous-winged Gull,Apr,Sacramento,1.2
+Glaucous-winged Gull,Apr,San Diego,1.4
+Glaucous-winged Gull,Apr,San Francisco,10.5
+Glaucous-winged Gull,Apr,San Joaquin,7.3
+Glaucous-winged Gull,Apr,San Luis Obispo,2.8
+Glaucous-winged Gull,Apr,San Mateo,3.9
+Glaucous-winged Gull,Apr,Santa Barbara,1.3
+Glaucous-winged Gull,Apr,Santa Clara,3.5
+Glaucous-winged Gull,Apr,Santa Cruz,2.7
+Glaucous-winged Gull,Apr,Shasta,1.4
+Glaucous-winged Gull,Apr,Solano,1
+Glaucous-winged Gull,Apr,Sonoma,4.1
+Glaucous-winged Gull,Apr,Stanislaus,12
+Glaucous-winged Gull,Apr,Ventura,1.2
+Glaucous-winged Gull,Apr,Yolo,2.8
+Glaucous-winged Gull,Aug,Alameda,1.3
+Glaucous-winged Gull,Aug,Contra Costa,1.1
+Glaucous-winged Gull,Aug,Del Norte,2.1
+Glaucous-winged Gull,Aug,Humboldt,2.3
+Glaucous-winged Gull,Aug,Los Angeles,1
+Glaucous-winged Gull,Aug,Marin,1.1
+Glaucous-winged Gull,Aug,Mendocino,1.4
+Glaucous-winged Gull,Aug,Monterey,1.4
+Glaucous-winged Gull,Aug,Napa,1
+Glaucous-winged Gull,Aug,Orange,1
+Glaucous-winged Gull,Aug,Riverside,1
+Glaucous-winged Gull,Aug,San Diego,1
+Glaucous-winged Gull,Aug,San Francisco,1.1
+Glaucous-winged Gull,Aug,San Luis Obispo,1
+Glaucous-winged Gull,Aug,San Mateo,1.1
+Glaucous-winged Gull,Aug,Santa Barbara,1
+Glaucous-winged Gull,Aug,Santa Clara,1
+Glaucous-winged Gull,Aug,Santa Cruz,1.3
+Glaucous-winged Gull,Aug,Sonoma,1.4
+Glaucous-winged Gull,Aug,Ventura,1
+Glaucous-winged Gull,Dec,Alameda,11.9
+Glaucous-winged Gull,Dec,Butte,1
+Glaucous-winged Gull,Dec,Colusa,1
+Glaucous-winged Gull,Dec,Contra Costa,5.9
+Glaucous-winged Gull,Dec,Del Norte,18.6
+Glaucous-winged Gull,Dec,El Dorado,1
+Glaucous-winged Gull,Dec,Fresno,1
+Glaucous-winged Gull,Dec,Glenn,1
+Glaucous-winged Gull,Dec,Humboldt,4.5
+Glaucous-winged Gull,Dec,Imperial,1.4
+Glaucous-winged Gull,Dec,Kern,1.2
+Glaucous-winged Gull,Dec,Kings,1.3
+Glaucous-winged Gull,Dec,Lake,4
+Glaucous-winged Gull,Dec,Lassen,1
+Glaucous-winged Gull,Dec,Los Angeles,2.6
+Glaucous-winged Gull,Dec,Madera,1
+Glaucous-winged Gull,Dec,Marin,16.1
+Glaucous-winged Gull,Dec,Mendocino,4.6
+Glaucous-winged Gull,Dec,Merced,1.4
+Glaucous-winged Gull,Dec,Mono,1
+Glaucous-winged Gull,Dec,Monterey,6.4
+Glaucous-winged Gull,Dec,Napa,4.3
+Glaucous-winged Gull,Dec,Orange,2.3
+Glaucous-winged Gull,Dec,Placer,1.7
+Glaucous-winged Gull,Dec,Plumas,1
+Glaucous-winged Gull,Dec,Riverside,2.7
+Glaucous-winged Gull,Dec,Sacramento,2.2
+Glaucous-winged Gull,Dec,San Benito,5.7
+Glaucous-winged Gull,Dec,San Bernardino,1.1
+Glaucous-winged Gull,Dec,San Diego,1.4
+Glaucous-winged Gull,Dec,San Francisco,6.6
+Glaucous-winged Gull,Dec,San Joaquin,17
+Glaucous-winged Gull,Dec,San Luis Obispo,1.9
+Glaucous-winged Gull,Dec,San Mateo,31.7
+Glaucous-winged Gull,Dec,Santa Barbara,2.1
+Glaucous-winged Gull,Dec,Santa Clara,7.5
+Glaucous-winged Gull,Dec,Santa Cruz,19.6
+Glaucous-winged Gull,Dec,Shasta,2.2
+Glaucous-winged Gull,Dec,Solano,2.3
+Glaucous-winged Gull,Dec,Sonoma,11.7
+Glaucous-winged Gull,Dec,Stanislaus,37.4
+Glaucous-winged Gull,Dec,Sutter,1
+Glaucous-winged Gull,Dec,Tulare,1
+Glaucous-winged Gull,Dec,Ventura,3.3
+Glaucous-winged Gull,Dec,Yolo,7.5
+Glaucous-winged Gull,Dec,Yuba,1
+Glaucous-winged Gull,Feb,Alameda,14.4
+Glaucous-winged Gull,Feb,Butte,1
+Glaucous-winged Gull,Feb,Contra Costa,149.6
+Glaucous-winged Gull,Feb,Del Norte,27
+Glaucous-winged Gull,Feb,Fresno,21.3
+Glaucous-winged Gull,Feb,Glenn,1
+Glaucous-winged Gull,Feb,Humboldt,8.6
+Glaucous-winged Gull,Feb,Imperial,1.6
+Glaucous-winged Gull,Feb,Kern,1
+Glaucous-winged Gull,Feb,Kings,1
+Glaucous-winged Gull,Feb,Lake,1
+Glaucous-winged Gull,Feb,Los Angeles,3.6
+Glaucous-winged Gull,Feb,Madera,1
+Glaucous-winged Gull,Feb,Marin,26.3
+Glaucous-winged Gull,Feb,Mendocino,10.6
+Glaucous-winged Gull,Feb,Merced,1.6
+Glaucous-winged Gull,Feb,Monterey,10.6
+Glaucous-winged Gull,Feb,Napa,6.2
+Glaucous-winged Gull,Feb,Orange,2.6
+Glaucous-winged Gull,Feb,Placer,1.5
+Glaucous-winged Gull,Feb,Riverside,2
+Glaucous-winged Gull,Feb,Sacramento,1.3
+Glaucous-winged Gull,Feb,San Benito,82.7
+Glaucous-winged Gull,Feb,San Bernardino,1
+Glaucous-winged Gull,Feb,San Diego,1.7
+Glaucous-winged Gull,Feb,San Francisco,4.7
+Glaucous-winged Gull,Feb,San Joaquin,12.8
+Glaucous-winged Gull,Feb,San Luis Obispo,4.6
+Glaucous-winged Gull,Feb,San Mateo,50.9
+Glaucous-winged Gull,Feb,Santa Barbara,1.9
+Glaucous-winged Gull,Feb,Santa Clara,12.9
+Glaucous-winged Gull,Feb,Santa Cruz,22.5
+Glaucous-winged Gull,Feb,Shasta,1.6
+Glaucous-winged Gull,Feb,Solano,1.7
+Glaucous-winged Gull,Feb,Sonoma,10
+Glaucous-winged Gull,Feb,Stanislaus,6.4
+Glaucous-winged Gull,Feb,Tulare,1.3
+Glaucous-winged Gull,Feb,Ventura,2
+Glaucous-winged Gull,Feb,Yolo,12.6
+Glaucous-winged Gull,Jan,Alameda,14.8
+Glaucous-winged Gull,Jan,Butte,1.2
+Glaucous-winged Gull,Jan,Calaveras,1
+Glaucous-winged Gull,Jan,Contra Costa,30.5
+Glaucous-winged Gull,Jan,Del Norte,13.9
+Glaucous-winged Gull,Jan,Fresno,1
+Glaucous-winged Gull,Jan,Glenn,1
+Glaucous-winged Gull,Jan,Humboldt,7.6
+Glaucous-winged Gull,Jan,Imperial,1.2
+Glaucous-winged Gull,Jan,Kern,1
+Glaucous-winged Gull,Jan,Kings,1.1
+Glaucous-winged Gull,Jan,Lake,1.7
+Glaucous-winged Gull,Jan,Los Angeles,3.1
+Glaucous-winged Gull,Jan,Marin,36.8
+Glaucous-winged Gull,Jan,Mendocino,6.2
+Glaucous-winged Gull,Jan,Merced,1.1
+Glaucous-winged Gull,Jan,Monterey,11.1
+Glaucous-winged Gull,Jan,Napa,4.6
+Glaucous-winged Gull,Jan,Orange,2.7
+Glaucous-winged Gull,Jan,Placer,1.8
+Glaucous-winged Gull,Jan,Riverside,1.9
+Glaucous-winged Gull,Jan,Sacramento,2.2
+Glaucous-winged Gull,Jan,San Benito,7.1
+Glaucous-winged Gull,Jan,San Bernardino,1
+Glaucous-winged Gull,Jan,San Diego,1.4
+Glaucous-winged Gull,Jan,San Francisco,9.7
+Glaucous-winged Gull,Jan,San Joaquin,6.8
+Glaucous-winged Gull,Jan,San Luis Obispo,3.9
+Glaucous-winged Gull,Jan,San Mateo,39
+Glaucous-winged Gull,Jan,Santa Barbara,1.6
+Glaucous-winged Gull,Jan,Santa Clara,6.3
+Glaucous-winged Gull,Jan,Santa Cruz,29.2
+Glaucous-winged Gull,Jan,Shasta,1.6
+Glaucous-winged Gull,Jan,Solano,2.9
+Glaucous-winged Gull,Jan,Sonoma,13.1
+Glaucous-winged Gull,Jan,Stanislaus,72.1
+Glaucous-winged Gull,Jan,Tehama,1
+Glaucous-winged Gull,Jan,Tulare,1.6
+Glaucous-winged Gull,Jan,Ventura,2.3
+Glaucous-winged Gull,Jan,Yolo,5.9
+Glaucous-winged Gull,Jan,Yuba,1
+Glaucous-winged Gull,Jul,Alameda,1.2
+Glaucous-winged Gull,Jul,Contra Costa,1
+Glaucous-winged Gull,Jul,Del Norte,2.6
+Glaucous-winged Gull,Jul,Humboldt,2.7
+Glaucous-winged Gull,Jul,Los Angeles,1.1
+Glaucous-winged Gull,Jul,Marin,1.3
+Glaucous-winged Gull,Jul,Mendocino,1.3
+Glaucous-winged Gull,Jul,Monterey,1.2
+Glaucous-winged Gull,Jul,Napa,1
+Glaucous-winged Gull,Jul,Orange,1
+Glaucous-winged Gull,Jul,Riverside,1
+Glaucous-winged Gull,Jul,San Diego,1.1
+Glaucous-winged Gull,Jul,San Francisco,1.1
+Glaucous-winged Gull,Jul,San Luis Obispo,1.2
+Glaucous-winged Gull,Jul,San Mateo,1.1
+Glaucous-winged Gull,Jul,Santa Barbara,1.1
+Glaucous-winged Gull,Jul,Santa Clara,1
+Glaucous-winged Gull,Jul,Santa Cruz,1.2
+Glaucous-winged Gull,Jul,Sonoma,1.3
+Glaucous-winged Gull,Jul,Ventura,1.1
+Glaucous-winged Gull,Jun,Alameda,1.4
+Glaucous-winged Gull,Jun,Contra Costa,1
+Glaucous-winged Gull,Jun,Del Norte,3.6
+Glaucous-winged Gull,Jun,Humboldt,2.7
+Glaucous-winged Gull,Jun,Imperial,1
+Glaucous-winged Gull,Jun,Inyo,1
+Glaucous-winged Gull,Jun,Los Angeles,1.1
+Glaucous-winged Gull,Jun,Marin,1.2
+Glaucous-winged Gull,Jun,Mendocino,2.1
+Glaucous-winged Gull,Jun,Monterey,1.6
+Glaucous-winged Gull,Jun,Napa,1
+Glaucous-winged Gull,Jun,Orange,1.1
+Glaucous-winged Gull,Jun,San Diego,1.1
+Glaucous-winged Gull,Jun,San Francisco,1.4
+Glaucous-winged Gull,Jun,San Luis Obispo,1
+Glaucous-winged Gull,Jun,San Mateo,1.2
+Glaucous-winged Gull,Jun,Santa Barbara,1.1
+Glaucous-winged Gull,Jun,Santa Clara,1.1
+Glaucous-winged Gull,Jun,Santa Cruz,1.5
+Glaucous-winged Gull,Jun,Solano,1
+Glaucous-winged Gull,Jun,Sonoma,1.2
+Glaucous-winged Gull,Jun,Ventura,1
+Glaucous-winged Gull,Jun,Yolo,1
+Glaucous-winged Gull,Mar,Alameda,8.3
+Glaucous-winged Gull,Mar,Butte,2
+Glaucous-winged Gull,Mar,Contra Costa,2.3
+Glaucous-winged Gull,Mar,Del Norte,21.3
+Glaucous-winged Gull,Mar,Fresno,1
+Glaucous-winged Gull,Mar,Glenn,1
+Glaucous-winged Gull,Mar,Humboldt,5.9
+Glaucous-winged Gull,Mar,Imperial,1.2
+Glaucous-winged Gull,Mar,Lake,4
+Glaucous-winged Gull,Mar,Los Angeles,2.7
+Glaucous-winged Gull,Mar,Marin,4.5
+Glaucous-winged Gull,Mar,Mendocino,2.7
+Glaucous-winged Gull,Mar,Merced,1
+Glaucous-winged Gull,Mar,Monterey,7.5
+Glaucous-winged Gull,Mar,Napa,5.6
+Glaucous-winged Gull,Mar,Orange,2.1
+Glaucous-winged Gull,Mar,Placer,2
+Glaucous-winged Gull,Mar,Riverside,1.7
+Glaucous-winged Gull,Mar,Sacramento,1.1
+Glaucous-winged Gull,Mar,San Bernardino,1
+Glaucous-winged Gull,Mar,San Diego,1.5
+Glaucous-winged Gull,Mar,San Francisco,9.4
+Glaucous-winged Gull,Mar,San Joaquin,3
+Glaucous-winged Gull,Mar,San Luis Obispo,3.2
+Glaucous-winged Gull,Mar,San Mateo,25.7
+Glaucous-winged Gull,Mar,Santa Barbara,1.5
+Glaucous-winged Gull,Mar,Santa Clara,5.9
+Glaucous-winged Gull,Mar,Santa Cruz,13.4
+Glaucous-winged Gull,Mar,Shasta,1.2
+Glaucous-winged Gull,Mar,Solano,4.4
+Glaucous-winged Gull,Mar,Sonoma,5.5
+Glaucous-winged Gull,Mar,Stanislaus,9.3
+Glaucous-winged Gull,Mar,Tehama,1
+Glaucous-winged Gull,Mar,Tulare,3
+Glaucous-winged Gull,Mar,Ventura,1.6
+Glaucous-winged Gull,Mar,Yolo,29.7
+Glaucous-winged Gull,Mar,Yuba,1
+Glaucous-winged Gull,May,Alameda,2.2
+Glaucous-winged Gull,May,Contra Costa,1
+Glaucous-winged Gull,May,Del Norte,8.3
+Glaucous-winged Gull,May,Humboldt,2.9
+Glaucous-winged Gull,May,Imperial,1
+Glaucous-winged Gull,May,Inyo,1
+Glaucous-winged Gull,May,Kern,1
+Glaucous-winged Gull,May,Los Angeles,1.4
+Glaucous-winged Gull,May,Marin,2.1
+Glaucous-winged Gull,May,Mendocino,2.8
+Glaucous-winged Gull,May,Monterey,1.7
+Glaucous-winged Gull,May,Orange,1
+Glaucous-winged Gull,May,San Diego,1.2
+Glaucous-winged Gull,May,San Francisco,1.4
+Glaucous-winged Gull,May,San Luis Obispo,2.4
+Glaucous-winged Gull,May,San Mateo,1.7
+Glaucous-winged Gull,May,Santa Barbara,1.7
+Glaucous-winged Gull,May,Santa Clara,1.4
+Glaucous-winged Gull,May,Santa Cruz,2.5
+Glaucous-winged Gull,May,Solano,1.5
+Glaucous-winged Gull,May,Sonoma,2.2
+Glaucous-winged Gull,May,Tehama,1
+Glaucous-winged Gull,May,Ventura,1.1
+Glaucous-winged Gull,Nov,Alameda,6.4
+Glaucous-winged Gull,Nov,Amador,1
+Glaucous-winged Gull,Nov,Butte,2.8
+Glaucous-winged Gull,Nov,Contra Costa,2.3
+Glaucous-winged Gull,Nov,Del Norte,15.9
+Glaucous-winged Gull,Nov,Fresno,3
+Glaucous-winged Gull,Nov,Glenn,1
+Glaucous-winged Gull,Nov,Humboldt,3.4
+Glaucous-winged Gull,Nov,Imperial,1.2
+Glaucous-winged Gull,Nov,Kings,1.1
+Glaucous-winged Gull,Nov,Lake,1.5
+Glaucous-winged Gull,Nov,Lassen,1
+Glaucous-winged Gull,Nov,Los Angeles,1.8
+Glaucous-winged Gull,Nov,Marin,7.1
+Glaucous-winged Gull,Nov,Mendocino,2.7
+Glaucous-winged Gull,Nov,Merced,2.8
+Glaucous-winged Gull,Nov,Monterey,3
+Glaucous-winged Gull,Nov,Napa,5.1
+Glaucous-winged Gull,Nov,Orange,1.3
+Glaucous-winged Gull,Nov,Placer,3
+Glaucous-winged Gull,Nov,Riverside,1.8
+Glaucous-winged Gull,Nov,Sacramento,2.3
+Glaucous-winged Gull,Nov,San Benito,2
+Glaucous-winged Gull,Nov,San Bernardino,1.6
+Glaucous-winged Gull,Nov,San Diego,1.2
+Glaucous-winged Gull,Nov,San Francisco,4.3
+Glaucous-winged Gull,Nov,San Joaquin,30.5
+Glaucous-winged Gull,Nov,San Luis Obispo,1.5
+Glaucous-winged Gull,Nov,San Mateo,10.8
+Glaucous-winged Gull,Nov,Santa Barbara,1.5
+Glaucous-winged Gull,Nov,Santa Clara,3.7
+Glaucous-winged Gull,Nov,Santa Cruz,7.8
+Glaucous-winged Gull,Nov,Shasta,1.8
+Glaucous-winged Gull,Nov,Solano,1.8
+Glaucous-winged Gull,Nov,Sonoma,5
+Glaucous-winged Gull,Nov,Stanislaus,68.7
+Glaucous-winged Gull,Nov,Trinity,2
+Glaucous-winged Gull,Nov,Ventura,1.5
+Glaucous-winged Gull,Nov,Yolo,3.8
+Glaucous-winged Gull,Oct,Alameda,2.5
+Glaucous-winged Gull,Oct,Contra Costa,1.6
+Glaucous-winged Gull,Oct,Del Norte,2.6
+Glaucous-winged Gull,Oct,Fresno,1
+Glaucous-winged Gull,Oct,Humboldt,2.5
+Glaucous-winged Gull,Oct,Imperial,2
+Glaucous-winged Gull,Oct,Kern,1
+Glaucous-winged Gull,Oct,Kings,1
+Glaucous-winged Gull,Oct,Lake,1
+Glaucous-winged Gull,Oct,Los Angeles,1.1
+Glaucous-winged Gull,Oct,Madera,1
+Glaucous-winged Gull,Oct,Marin,1.8
+Glaucous-winged Gull,Oct,Mendocino,1.3
+Glaucous-winged Gull,Oct,Merced,1
+Glaucous-winged Gull,Oct,Mono,1
+Glaucous-winged Gull,Oct,Monterey,2
+Glaucous-winged Gull,Oct,Napa,3.3
+Glaucous-winged Gull,Oct,Orange,1.3
+Glaucous-winged Gull,Oct,Riverside,1
+Glaucous-winged Gull,Oct,Sacramento,1
+Glaucous-winged Gull,Oct,San Diego,1
+Glaucous-winged Gull,Oct,San Francisco,1.8
+Glaucous-winged Gull,Oct,San Luis Obispo,1.1
+Glaucous-winged Gull,Oct,San Mateo,3.3
+Glaucous-winged Gull,Oct,Santa Barbara,1
+Glaucous-winged Gull,Oct,Santa Clara,1.9
+Glaucous-winged Gull,Oct,Santa Cruz,3.1
+Glaucous-winged Gull,Oct,Shasta,1.1
+Glaucous-winged Gull,Oct,Solano,1.1
+Glaucous-winged Gull,Oct,Sonoma,2.2
+Glaucous-winged Gull,Oct,Stanislaus,2
+Glaucous-winged Gull,Oct,Sutter,1
+Glaucous-winged Gull,Oct,Ventura,1
+Glaucous-winged Gull,Oct,Yolo,1.7
+Glaucous-winged Gull,Sep,Alameda,2.1
+Glaucous-winged Gull,Sep,Contra Costa,2.1
+Glaucous-winged Gull,Sep,Del Norte,1.4
+Glaucous-winged Gull,Sep,Humboldt,2.3
+Glaucous-winged Gull,Sep,Los Angeles,1.1
+Glaucous-winged Gull,Sep,Marin,1.3
+Glaucous-winged Gull,Sep,Mendocino,1.4
+Glaucous-winged Gull,Sep,Monterey,1.4
+Glaucous-winged Gull,Sep,Napa,1.4
+Glaucous-winged Gull,Sep,Orange,1.6
+Glaucous-winged Gull,Sep,Sacramento,1
+Glaucous-winged Gull,Sep,San Diego,1
+Glaucous-winged Gull,Sep,San Francisco,1.2
+Glaucous-winged Gull,Sep,San Luis Obispo,1
+Glaucous-winged Gull,Sep,San Mateo,1.3
+Glaucous-winged Gull,Sep,Santa Barbara,1
+Glaucous-winged Gull,Sep,Santa Clara,1.2
+Glaucous-winged Gull,Sep,Santa Cruz,1.3
+Glaucous-winged Gull,Sep,Solano,1
+Glaucous-winged Gull,Sep,Sonoma,2
+Glaucous-winged Gull,Sep,Ventura,1
+Glaucous Gull,Apr,Alameda,1.1
+Glaucous Gull,Apr,Del Norte,1.7
+Glaucous Gull,Apr,Humboldt,1
+Glaucous Gull,Apr,Imperial,1
+Glaucous Gull,Apr,Los Angeles,1
+Glaucous Gull,Apr,Marin,1
+Glaucous Gull,Apr,Mendocino,1
+Glaucous Gull,Apr,Monterey,1
+Glaucous Gull,Apr,Orange,1
+Glaucous Gull,Apr,Riverside,1
+Glaucous Gull,Apr,San Diego,1
+Glaucous Gull,Apr,San Francisco,1
+Glaucous Gull,Apr,San Joaquin,1
+Glaucous Gull,Apr,San Luis Obispo,1
+Glaucous Gull,Apr,San Mateo,1
+Glaucous Gull,Apr,Santa Barbara,1
+Glaucous Gull,Apr,Santa Clara,1
+Glaucous Gull,Apr,Santa Cruz,1
+Glaucous Gull,Apr,Sonoma,1
+Glaucous Gull,Apr,Stanislaus,1
+Glaucous Gull,Aug,Del Norte,1
+Glaucous Gull,Dec,Alameda,1
+Glaucous Gull,Dec,Contra Costa,1
+Glaucous Gull,Dec,Del Norte,1.1
+Glaucous Gull,Dec,Humboldt,1.1
+Glaucous Gull,Dec,Lake,1
+Glaucous Gull,Dec,Lassen,1
+Glaucous Gull,Dec,Los Angeles,1
+Glaucous Gull,Dec,Marin,1
+Glaucous Gull,Dec,Mendocino,1
+Glaucous Gull,Dec,Monterey,1
+Glaucous Gull,Dec,Napa,1
+Glaucous Gull,Dec,Orange,1
+Glaucous Gull,Dec,Placer,1
+Glaucous Gull,Dec,Riverside,1
+Glaucous Gull,Dec,Sacramento,1
+Glaucous Gull,Dec,San Diego,1
+Glaucous Gull,Dec,San Francisco,1
+Glaucous Gull,Dec,San Joaquin,1.5
+Glaucous Gull,Dec,San Luis Obispo,1
+Glaucous Gull,Dec,San Mateo,1
+Glaucous Gull,Dec,Santa Barbara,1
+Glaucous Gull,Dec,Santa Clara,1.5
+Glaucous Gull,Dec,Santa Cruz,1.1
+Glaucous Gull,Dec,Shasta,1
+Glaucous Gull,Dec,Solano,1
+Glaucous Gull,Dec,Sonoma,1
+Glaucous Gull,Dec,Stanislaus,1.1
+Glaucous Gull,Dec,Sutter,1
+Glaucous Gull,Dec,Ventura,1
+Glaucous Gull,Dec,Yolo,1
+Glaucous Gull,Feb,Alameda,1
+Glaucous Gull,Feb,Contra Costa,1
+Glaucous Gull,Feb,Del Norte,1
+Glaucous Gull,Feb,Fresno,2
+Glaucous Gull,Feb,Humboldt,1.1
+Glaucous Gull,Feb,Imperial,1
+Glaucous Gull,Feb,Kern,1
+Glaucous Gull,Feb,Kings,1
+Glaucous Gull,Feb,Lassen,1
+Glaucous Gull,Feb,Los Angeles,1
+Glaucous Gull,Feb,Marin,1
+Glaucous Gull,Feb,Mendocino,1.1
+Glaucous Gull,Feb,Merced,1
+Glaucous Gull,Feb,Monterey,1.3
+Glaucous Gull,Feb,Orange,1
+Glaucous Gull,Feb,Riverside,1
+Glaucous Gull,Feb,San Benito,1
+Glaucous Gull,Feb,San Diego,1
+Glaucous Gull,Feb,San Francisco,1.1
+Glaucous Gull,Feb,San Joaquin,1
+Glaucous Gull,Feb,San Luis Obispo,1
+Glaucous Gull,Feb,San Mateo,1.2
+Glaucous Gull,Feb,Santa Barbara,1
+Glaucous Gull,Feb,Santa Clara,1.6
+Glaucous Gull,Feb,Santa Cruz,1
+Glaucous Gull,Feb,Solano,1.2
+Glaucous Gull,Feb,Sonoma,1
+Glaucous Gull,Feb,Stanislaus,1.1
+Glaucous Gull,Feb,Tulare,1
+Glaucous Gull,Feb,Ventura,1
+Glaucous Gull,Feb,Yolo,1.3
+Glaucous Gull,Jan,Alameda,1
+Glaucous Gull,Jan,Colusa,1
+Glaucous Gull,Jan,Contra Costa,1
+Glaucous Gull,Jan,Del Norte,1.2
+Glaucous Gull,Jan,Humboldt,1
+Glaucous Gull,Jan,Imperial,1
+Glaucous Gull,Jan,Kings,1
+Glaucous Gull,Jan,Los Angeles,1
+Glaucous Gull,Jan,Marin,1
+Glaucous Gull,Jan,Mendocino,1
+Glaucous Gull,Jan,Monterey,1
+Glaucous Gull,Jan,Napa,1
+Glaucous Gull,Jan,Orange,1
+Glaucous Gull,Jan,Placer,1
+Glaucous Gull,Jan,Riverside,1
+Glaucous Gull,Jan,Sacramento,1.3
+Glaucous Gull,Jan,San Benito,1
+Glaucous Gull,Jan,San Bernardino,1
+Glaucous Gull,Jan,San Diego,1
+Glaucous Gull,Jan,San Francisco,1
+Glaucous Gull,Jan,San Joaquin,1
+Glaucous Gull,Jan,San Luis Obispo,1
+Glaucous Gull,Jan,San Mateo,1.2
+Glaucous Gull,Jan,Santa Barbara,1
+Glaucous Gull,Jan,Santa Clara,1.3
+Glaucous Gull,Jan,Santa Cruz,1.1
+Glaucous Gull,Jan,Shasta,1
+Glaucous Gull,Jan,Solano,1
+Glaucous Gull,Jan,Sonoma,1.5
+Glaucous Gull,Jan,Stanislaus,1.3
+Glaucous Gull,Jan,Tulare,1
+Glaucous Gull,Jan,Ventura,1
+Glaucous Gull,Jan,Yolo,1.2
+Glaucous Gull,Jul,Humboldt,1
+Glaucous Gull,Jul,Sacramento,1
+Glaucous Gull,Jun,Humboldt,1
+Glaucous Gull,Jun,Orange,1
+Glaucous Gull,Mar,Alameda,1
+Glaucous Gull,Mar,Del Norte,3
+Glaucous Gull,Mar,Fresno,1
+Glaucous Gull,Mar,Humboldt,1.1
+Glaucous Gull,Mar,Imperial,1
+Glaucous Gull,Mar,Lake,1
+Glaucous Gull,Mar,Los Angeles,1
+Glaucous Gull,Mar,Marin,1
+Glaucous Gull,Mar,Mendocino,1.5
+Glaucous Gull,Mar,Monterey,1
+Glaucous Gull,Mar,Orange,1
+Glaucous Gull,Mar,Placer,1
+Glaucous Gull,Mar,Riverside,1.2
+Glaucous Gull,Mar,San Diego,1
+Glaucous Gull,Mar,San Francisco,1
+Glaucous Gull,Mar,San Joaquin,1.8
+Glaucous Gull,Mar,San Luis Obispo,1
+Glaucous Gull,Mar,San Mateo,1
+Glaucous Gull,Mar,Santa Clara,1.2
+Glaucous Gull,Mar,Santa Cruz,1
+Glaucous Gull,Mar,Solano,1.3
+Glaucous Gull,Mar,Sonoma,1
+Glaucous Gull,Mar,Stanislaus,1.8
+Glaucous Gull,Mar,Ventura,1
+Glaucous Gull,Mar,Yolo,1.2
+Glaucous Gull,May,Del Norte,1
+Glaucous Gull,May,Humboldt,1
+Glaucous Gull,May,Lake,1
+Glaucous Gull,May,Los Angeles,1
+Glaucous Gull,May,Mendocino,1
+Glaucous Gull,May,Monterey,1
+Glaucous Gull,May,Orange,1
+Glaucous Gull,May,San Francisco,1
+Glaucous Gull,May,San Luis Obispo,1
+Glaucous Gull,May,San Mateo,1.1
+Glaucous Gull,May,Santa Clara,1
+Glaucous Gull,May,Santa Cruz,1
+Glaucous Gull,May,Sonoma,1
+Glaucous Gull,May,Ventura,1
+Glaucous Gull,Nov,Alameda,1
+Glaucous Gull,Nov,Del Norte,1
+Glaucous Gull,Nov,Humboldt,1.5
+Glaucous Gull,Nov,Los Angeles,1
+Glaucous Gull,Nov,Marin,1
+Glaucous Gull,Nov,Mendocino,1
+Glaucous Gull,Nov,Monterey,1
+Glaucous Gull,Nov,Sacramento,1
+Glaucous Gull,Nov,San Francisco,1
+Glaucous Gull,Nov,San Luis Obispo,1
+Glaucous Gull,Nov,San Mateo,1
+Glaucous Gull,Nov,Santa Barbara,1
+Glaucous Gull,Nov,Santa Clara,1
+Glaucous Gull,Nov,Shasta,1
+Glaucous Gull,Nov,Solano,1
+Glaucous Gull,Nov,Sonoma,1
+Glaucous Gull,Nov,Stanislaus,1
+Glaucous Gull,Nov,Yolo,1
+Glaucous Gull,Oct,Alameda,1.5
+Glaucous Gull,Oct,San Mateo,1
+Glaucous Gull,Sep,Del Norte,1
+Glaucous Gull,Sep,Humboldt,2
+Glaucous Gull,Sep,San Mateo,1
+Great Black-backed Gull,May,Riverside,1
+Heermann's Gull,Apr,Alameda,1
+Heermann's Gull,Apr,Del Norte,1
+Heermann's Gull,Apr,Humboldt,1.2
+Heermann's Gull,Apr,Imperial,1.3
+Heermann's Gull,Apr,Kern,1
+Heermann's Gull,Apr,Los Angeles,11.7
+Heermann's Gull,Apr,Marin,1.5
+Heermann's Gull,Apr,Mendocino,1
+Heermann's Gull,Apr,Monterey,4.9
+Heermann's Gull,Apr,Orange,6.6
+Heermann's Gull,Apr,Riverside,1
+Heermann's Gull,Apr,San Diego,11.1
+Heermann's Gull,Apr,San Francisco,2.1
+Heermann's Gull,Apr,San Luis Obispo,4.2
+Heermann's Gull,Apr,San Mateo,1.6
+Heermann's Gull,Apr,Santa Barbara,3.5
+Heermann's Gull,Apr,Santa Cruz,2.7
+Heermann's Gull,Apr,Sonoma,1
+Heermann's Gull,Apr,Ventura,4.4
+Heermann's Gull,Aug,Alameda,2.2
+Heermann's Gull,Aug,Contra Costa,1.2
+Heermann's Gull,Aug,Del Norte,10.9
+Heermann's Gull,Aug,Humboldt,47
+Heermann's Gull,Aug,Imperial,1.1
+Heermann's Gull,Aug,Los Angeles,30
+Heermann's Gull,Aug,Marin,72.2
+Heermann's Gull,Aug,Mendocino,27.9
+Heermann's Gull,Aug,Monterey,37.1
+Heermann's Gull,Aug,Orange,25.2
+Heermann's Gull,Aug,Riverside,1
+Heermann's Gull,Aug,San Diego,25.3
+Heermann's Gull,Aug,San Francisco,42.7
+Heermann's Gull,Aug,San Luis Obispo,83.9
+Heermann's Gull,Aug,San Mateo,166.7
+Heermann's Gull,Aug,Santa Barbara,26.4
+Heermann's Gull,Aug,Santa Cruz,68.3
+Heermann's Gull,Aug,Solano,1
+Heermann's Gull,Aug,Sonoma,20
+Heermann's Gull,Aug,Ventura,21.6
+Heermann's Gull,Dec,Alameda,1.2
+Heermann's Gull,Dec,Contra Costa,1.5
+Heermann's Gull,Dec,Del Norte,3.9
+Heermann's Gull,Dec,Humboldt,1.2
+Heermann's Gull,Dec,Imperial,1
+Heermann's Gull,Dec,Los Angeles,23.5
+Heermann's Gull,Dec,Marin,15.4
+Heermann's Gull,Dec,Mendocino,11.7
+Heermann's Gull,Dec,Monterey,59.2
+Heermann's Gull,Dec,Orange,19.6
+Heermann's Gull,Dec,Riverside,1
+Heermann's Gull,Dec,San Diego,17.9
+Heermann's Gull,Dec,San Francisco,10.6
+Heermann's Gull,Dec,San Luis Obispo,44.4
+Heermann's Gull,Dec,San Mateo,17.8
+Heermann's Gull,Dec,Santa Barbara,31.8
+Heermann's Gull,Dec,Santa Cruz,23.9
+Heermann's Gull,Dec,Sonoma,10.8
+Heermann's Gull,Dec,Ventura,19.4
+Heermann's Gull,Feb,Alameda,1.2
+Heermann's Gull,Feb,Contra Costa,1.8
+Heermann's Gull,Feb,Del Norte,1
+Heermann's Gull,Feb,Humboldt,1.1
+Heermann's Gull,Feb,Imperial,1.1
+Heermann's Gull,Feb,Los Angeles,12.2
+Heermann's Gull,Feb,Marin,2.3
+Heermann's Gull,Feb,Mendocino,5.5
+Heermann's Gull,Feb,Monterey,19.7
+Heermann's Gull,Feb,Orange,10.1
+Heermann's Gull,Feb,San Diego,12.2
+Heermann's Gull,Feb,San Francisco,7.5
+Heermann's Gull,Feb,San Luis Obispo,8.5
+Heermann's Gull,Feb,San Mateo,7.8
+Heermann's Gull,Feb,Santa Barbara,13.5
+Heermann's Gull,Feb,Santa Cruz,4.1
+Heermann's Gull,Feb,Sonoma,3.3
+Heermann's Gull,Feb,Ventura,7.7
+Heermann's Gull,Jan,Alameda,1.5
+Heermann's Gull,Jan,Contra Costa,2.4
+Heermann's Gull,Jan,Del Norte,1
+Heermann's Gull,Jan,Humboldt,1.1
+Heermann's Gull,Jan,Imperial,1.1
+Heermann's Gull,Jan,Los Angeles,19.7
+Heermann's Gull,Jan,Marin,5.4
+Heermann's Gull,Jan,Mendocino,4.7
+Heermann's Gull,Jan,Monterey,62.9
+Heermann's Gull,Jan,Orange,17.7
+Heermann's Gull,Jan,Riverside,1
+Heermann's Gull,Jan,San Bernardino,1
+Heermann's Gull,Jan,San Diego,17.8
+Heermann's Gull,Jan,San Francisco,8.8
+Heermann's Gull,Jan,San Luis Obispo,17.8
+Heermann's Gull,Jan,San Mateo,11.9
+Heermann's Gull,Jan,Santa Barbara,22.7
+Heermann's Gull,Jan,Santa Cruz,8.7
+Heermann's Gull,Jan,Sonoma,14.8
+Heermann's Gull,Jan,Ventura,13.6
+Heermann's Gull,Jul,Alameda,2.7
+Heermann's Gull,Jul,Contra Costa,2.8
+Heermann's Gull,Jul,Del Norte,15.1
+Heermann's Gull,Jul,Humboldt,52.3
+Heermann's Gull,Jul,Imperial,1.4
+Heermann's Gull,Jul,Los Angeles,25
+Heermann's Gull,Jul,Marin,80.3
+Heermann's Gull,Jul,Mendocino,32.5
+Heermann's Gull,Jul,Monterey,53.2
+Heermann's Gull,Jul,Orange,26.7
+Heermann's Gull,Jul,Riverside,1.1
+Heermann's Gull,Jul,San Diego,27.3
+Heermann's Gull,Jul,San Francisco,41
+Heermann's Gull,Jul,San Luis Obispo,75.4
+Heermann's Gull,Jul,San Mateo,85.8
+Heermann's Gull,Jul,Santa Barbara,34.1
+Heermann's Gull,Jul,Santa Clara,1
+Heermann's Gull,Jul,Santa Cruz,76.4
+Heermann's Gull,Jul,Solano,5
+Heermann's Gull,Jul,Sonoma,26.2
+Heermann's Gull,Jul,Ventura,22.1
+Heermann's Gull,Jun,Alameda,1.2
+Heermann's Gull,Jun,Contra Costa,2
+Heermann's Gull,Jun,Del Norte,12.4
+Heermann's Gull,Jun,Humboldt,19.8
+Heermann's Gull,Jun,Imperial,1.4
+Heermann's Gull,Jun,Los Angeles,18.5
+Heermann's Gull,Jun,Marin,35.2
+Heermann's Gull,Jun,Mendocino,16
+Heermann's Gull,Jun,Mono,1
+Heermann's Gull,Jun,Monterey,31.2
+Heermann's Gull,Jun,Orange,17.5
+Heermann's Gull,Jun,Riverside,1
+Heermann's Gull,Jun,San Diego,14.7
+Heermann's Gull,Jun,San Francisco,20.2
+Heermann's Gull,Jun,San Luis Obispo,50.3
+Heermann's Gull,Jun,San Mateo,37.7
+Heermann's Gull,Jun,Santa Barbara,25.5
+Heermann's Gull,Jun,Santa Cruz,48.6
+Heermann's Gull,Jun,Sonoma,11.9
+Heermann's Gull,Jun,Ventura,12.7
+Heermann's Gull,Mar,Alameda,1
+Heermann's Gull,Mar,Del Norte,1
+Heermann's Gull,Mar,Humboldt,1.4
+Heermann's Gull,Mar,Imperial,1.2
+Heermann's Gull,Mar,Los Angeles,7.8
+Heermann's Gull,Mar,Marin,21.3
+Heermann's Gull,Mar,Monterey,5.1
+Heermann's Gull,Mar,Orange,5.2
+Heermann's Gull,Mar,Riverside,1
+Heermann's Gull,Mar,San Diego,9.5
+Heermann's Gull,Mar,San Francisco,4.4
+Heermann's Gull,Mar,San Luis Obispo,3.7
+Heermann's Gull,Mar,San Mateo,2.2
+Heermann's Gull,Mar,Santa Barbara,7
+Heermann's Gull,Mar,Santa Cruz,5.9
+Heermann's Gull,Mar,Sonoma,8
+Heermann's Gull,Mar,Ventura,7.9
+Heermann's Gull,May,Alameda,18
+Heermann's Gull,May,Del Norte,1
+Heermann's Gull,May,Humboldt,1.9
+Heermann's Gull,May,Imperial,1.4
+Heermann's Gull,May,Inyo,1
+Heermann's Gull,May,Kern,1
+Heermann's Gull,May,Los Angeles,10.7
+Heermann's Gull,May,Marin,4.7
+Heermann's Gull,May,Mendocino,1.5
+Heermann's Gull,May,Mono,1
+Heermann's Gull,May,Monterey,4.2
+Heermann's Gull,May,Orange,6.2
+Heermann's Gull,May,Placer,1
+Heermann's Gull,May,San Bernardino,1
+Heermann's Gull,May,San Diego,6.2
+Heermann's Gull,May,San Francisco,2.2
+Heermann's Gull,May,San Luis Obispo,14
+Heermann's Gull,May,San Mateo,8.1
+Heermann's Gull,May,Santa Barbara,9.4
+Heermann's Gull,May,Santa Cruz,10.2
+Heermann's Gull,May,Sonoma,1.8
+Heermann's Gull,May,Ventura,5.3
+Heermann's Gull,Nov,Alameda,1.5
+Heermann's Gull,Nov,Contra Costa,1.4
+Heermann's Gull,Nov,Del Norte,7.5
+Heermann's Gull,Nov,Humboldt,19.6
+Heermann's Gull,Nov,Imperial,1
+Heermann's Gull,Nov,Lake,1.5
+Heermann's Gull,Nov,Los Angeles,19.6
+Heermann's Gull,Nov,Marin,30.8
+Heermann's Gull,Nov,Mendocino,20
+Heermann's Gull,Nov,Modoc,1
+Heermann's Gull,Nov,Monterey,97.7
+Heermann's Gull,Nov,Napa,1
+Heermann's Gull,Nov,Orange,15.5
+Heermann's Gull,Nov,Riverside,1.3
+Heermann's Gull,Nov,San Bernardino,1
+Heermann's Gull,Nov,San Diego,19.5
+Heermann's Gull,Nov,San Francisco,38.8
+Heermann's Gull,Nov,San Luis Obispo,36.6
+Heermann's Gull,Nov,San Mateo,65.9
+Heermann's Gull,Nov,Santa Barbara,36.1
+Heermann's Gull,Nov,Santa Cruz,84.6
+Heermann's Gull,Nov,Shasta,4
+Heermann's Gull,Nov,Solano,3.5
+Heermann's Gull,Nov,Sonoma,21.6
+Heermann's Gull,Nov,Ventura,18.6
+Heermann's Gull,Oct,Alameda,2.2
+Heermann's Gull,Oct,Contra Costa,4.2
+Heermann's Gull,Oct,Del Norte,36.6
+Heermann's Gull,Oct,Humboldt,38.4
+Heermann's Gull,Oct,Imperial,1.1
+Heermann's Gull,Oct,Kern,1
+Heermann's Gull,Oct,Lake,1
+Heermann's Gull,Oct,Los Angeles,23.2
+Heermann's Gull,Oct,Marin,30.2
+Heermann's Gull,Oct,Mendocino,16.4
+Heermann's Gull,Oct,Monterey,102.9
+Heermann's Gull,Oct,Orange,14.8
+Heermann's Gull,Oct,Riverside,1
+Heermann's Gull,Oct,San Bernardino,1.2
+Heermann's Gull,Oct,San Diego,19.7
+Heermann's Gull,Oct,San Francisco,32.3
+Heermann's Gull,Oct,San Luis Obispo,48.3
+Heermann's Gull,Oct,San Mateo,56.8
+Heermann's Gull,Oct,Santa Barbara,35.3
+Heermann's Gull,Oct,Santa Cruz,101.8
+Heermann's Gull,Oct,Shasta,1
+Heermann's Gull,Oct,Solano,8
+Heermann's Gull,Oct,Sonoma,45.6
+Heermann's Gull,Oct,Ventura,17.9
+Heermann's Gull,Sep,Alameda,2
+Heermann's Gull,Sep,Contra Costa,2.5
+Heermann's Gull,Sep,Del Norte,22.3
+Heermann's Gull,Sep,Humboldt,19.1
+Heermann's Gull,Sep,Imperial,1.1
+Heermann's Gull,Sep,Los Angeles,23.7
+Heermann's Gull,Sep,Marin,43.9
+Heermann's Gull,Sep,Mendocino,20.3
+Heermann's Gull,Sep,Merced,1
+Heermann's Gull,Sep,Monterey,49.9
+Heermann's Gull,Sep,Orange,21.3
+Heermann's Gull,Sep,Riverside,1
+Heermann's Gull,Sep,San Diego,21.9
+Heermann's Gull,Sep,San Francisco,47.3
+Heermann's Gull,Sep,San Luis Obispo,71.2
+Heermann's Gull,Sep,San Mateo,103.5
+Heermann's Gull,Sep,Santa Barbara,22.2
+Heermann's Gull,Sep,Santa Cruz,113
+Heermann's Gull,Sep,Solano,3
+Heermann's Gull,Sep,Sonoma,29.8
+Heermann's Gull,Sep,Ventura,23.8
+Herring Gull,Apr,Alameda,2.2
+Herring Gull,Apr,Calaveras,1.5
+Herring Gull,Apr,Contra Costa,1.6
+Herring Gull,Apr,Del Norte,7.9
+Herring Gull,Apr,El Dorado,1.2
+Herring Gull,Apr,Humboldt,2.3
+Herring Gull,Apr,Imperial,3.5
+Herring Gull,Apr,Inyo,1
+Herring Gull,Apr,Kern,1
+Herring Gull,Apr,Kings,1.8
+Herring Gull,Apr,Lake,1
+Herring Gull,Apr,Los Angeles,2.3
+Herring Gull,Apr,Marin,2.2
+Herring Gull,Apr,Mendocino,10.8
+Herring Gull,Apr,Merced,2.4
+Herring Gull,Apr,Modoc,2
+Herring Gull,Apr,Monterey,2.5
+Herring Gull,Apr,Napa,1
+Herring Gull,Apr,Orange,3.8
+Herring Gull,Apr,Placer,3
+Herring Gull,Apr,Plumas,1
+Herring Gull,Apr,Riverside,7.5
+Herring Gull,Apr,Sacramento,1.9
+Herring Gull,Apr,San Bernardino,2
+Herring Gull,Apr,San Diego,1.5
+Herring Gull,Apr,San Francisco,6.6
+Herring Gull,Apr,San Joaquin,2.2
+Herring Gull,Apr,San Luis Obispo,3.9
+Herring Gull,Apr,San Mateo,2.6
+Herring Gull,Apr,Santa Barbara,2
+Herring Gull,Apr,Santa Clara,7.7
+Herring Gull,Apr,Santa Cruz,2.4
+Herring Gull,Apr,Shasta,1
+Herring Gull,Apr,Siskiyou,1.5
+Herring Gull,Apr,Solano,2
+Herring Gull,Apr,Sonoma,3
+Herring Gull,Apr,Stanislaus,5.6
+Herring Gull,Apr,Sutter,1
+Herring Gull,Apr,Ventura,2.4
+Herring Gull,Apr,Yolo,2.5
+Herring Gull,Aug,Alameda,1
+Herring Gull,Aug,Contra Costa,1
+Herring Gull,Aug,Del Norte,1
+Herring Gull,Aug,Humboldt,1
+Herring Gull,Aug,Imperial,5.5
+Herring Gull,Aug,Kings,1
+Herring Gull,Aug,Lassen,1
+Herring Gull,Aug,Marin,2
+Herring Gull,Aug,Mendocino,1
+Herring Gull,Aug,Orange,1
+Herring Gull,Aug,Riverside,1
+Herring Gull,Aug,Sacramento,1.5
+Herring Gull,Aug,San Francisco,1
+Herring Gull,Aug,San Mateo,1.5
+Herring Gull,Aug,Santa Clara,1.5
+Herring Gull,Aug,Santa Cruz,1
+Herring Gull,Aug,Shasta,1
+Herring Gull,Aug,Stanislaus,1
+Herring Gull,Aug,Tulare,1
+Herring Gull,Aug,Ventura,1
+Herring Gull,Aug,Yolo,1
+Herring Gull,Dec,Alameda,30.2
+Herring Gull,Dec,Amador,1
+Herring Gull,Dec,Butte,11.7
+Herring Gull,Dec,Calaveras,8.2
+Herring Gull,Dec,Colusa,3.9
+Herring Gull,Dec,Contra Costa,15.4
+Herring Gull,Dec,Del Norte,13.8
+Herring Gull,Dec,El Dorado,10
+Herring Gull,Dec,Fresno,10.1
+Herring Gull,Dec,Glenn,7.2
+Herring Gull,Dec,Humboldt,6.3
+Herring Gull,Dec,Imperial,33.4
+Herring Gull,Dec,Inyo,1
+Herring Gull,Dec,Kern,8.8
+Herring Gull,Dec,Kings,24.3
+Herring Gull,Dec,Lake,5.5
+Herring Gull,Dec,Lassen,4.7
+Herring Gull,Dec,Los Angeles,5.6
+Herring Gull,Dec,Madera,1
+Herring Gull,Dec,Marin,7.3
+Herring Gull,Dec,Mariposa,1.2
+Herring Gull,Dec,Mendocino,6.2
+Herring Gull,Dec,Merced,18.9
+Herring Gull,Dec,Modoc,3
+Herring Gull,Dec,Mono,1.8
+Herring Gull,Dec,Monterey,9.8
+Herring Gull,Dec,Napa,2.6
+Herring Gull,Dec,Nevada,1
+Herring Gull,Dec,Orange,2.8
+Herring Gull,Dec,Placer,29.2
+Herring Gull,Dec,Plumas,2.6
+Herring Gull,Dec,Riverside,33.2
+Herring Gull,Dec,Sacramento,15.3
+Herring Gull,Dec,San Benito,4.8
+Herring Gull,Dec,San Bernardino,2
+Herring Gull,Dec,San Diego,5.3
+Herring Gull,Dec,San Francisco,8.2
+Herring Gull,Dec,San Joaquin,13.5
+Herring Gull,Dec,San Luis Obispo,2.7
+Herring Gull,Dec,San Mateo,14.8
+Herring Gull,Dec,Santa Barbara,3
+Herring Gull,Dec,Santa Clara,80.4
+Herring Gull,Dec,Santa Cruz,8.6
+Herring Gull,Dec,Shasta,6.2
+Herring Gull,Dec,Siskiyou,1.5
+Herring Gull,Dec,Solano,12.9
+Herring Gull,Dec,Sonoma,6.1
+Herring Gull,Dec,Stanislaus,247
+Herring Gull,Dec,Sutter,4.3
+Herring Gull,Dec,Tehama,2.4
+Herring Gull,Dec,Trinity,1
+Herring Gull,Dec,Tulare,5.3
+Herring Gull,Dec,Ventura,4.8
+Herring Gull,Dec,Yolo,95
+Herring Gull,Dec,Yuba,13.4
+Herring Gull,Feb,Alameda,6.8
+Herring Gull,Feb,Amador,8.8
+Herring Gull,Feb,Butte,3.9
+Herring Gull,Feb,Calaveras,2
+Herring Gull,Feb,Colusa,3.3
+Herring Gull,Feb,Contra Costa,33.3
+Herring Gull,Feb,Del Norte,26
+Herring Gull,Feb,El Dorado,1
+Herring Gull,Feb,Fresno,13.5
+Herring Gull,Feb,Glenn,3.9
+Herring Gull,Feb,Humboldt,7.7
+Herring Gull,Feb,Imperial,39.1
+Herring Gull,Feb,Kern,2.2
+Herring Gull,Feb,Kings,16.8
+Herring Gull,Feb,Lake,2.3
+Herring Gull,Feb,Lassen,1.3
+Herring Gull,Feb,Los Angeles,3.7
+Herring Gull,Feb,Madera,2.8
+Herring Gull,Feb,Marin,6.3
+Herring Gull,Feb,Mariposa,1.7
+Herring Gull,Feb,Mendocino,11.2
+Herring Gull,Feb,Merced,9.7
+Herring Gull,Feb,Modoc,1
+Herring Gull,Feb,Monterey,13.5
+Herring Gull,Feb,Napa,2.7
+Herring Gull,Feb,Nevada,3
+Herring Gull,Feb,Orange,3.7
+Herring Gull,Feb,Placer,11.4
+Herring Gull,Feb,Plumas,1.7
+Herring Gull,Feb,Riverside,24.8
+Herring Gull,Feb,Sacramento,3.6
+Herring Gull,Feb,San Benito,61.2
+Herring Gull,Feb,San Bernardino,1.6
+Herring Gull,Feb,San Diego,6.5
+Herring Gull,Feb,San Francisco,4.7
+Herring Gull,Feb,San Joaquin,19.6
+Herring Gull,Feb,San Luis Obispo,5.6
+Herring Gull,Feb,San Mateo,11.7
+Herring Gull,Feb,Santa Barbara,4.5
+Herring Gull,Feb,Santa Clara,49.8
+Herring Gull,Feb,Santa Cruz,6.1
+Herring Gull,Feb,Shasta,2.9
+Herring Gull,Feb,Siskiyou,3.2
+Herring Gull,Feb,Solano,33.2
+Herring Gull,Feb,Sonoma,13.1
+Herring Gull,Feb,Stanislaus,206.2
+Herring Gull,Feb,Sutter,5.8
+Herring Gull,Feb,Tehama,2.2
+Herring Gull,Feb,Tulare,9.8
+Herring Gull,Feb,Ventura,3.1
+Herring Gull,Feb,Yolo,61.9
+Herring Gull,Feb,Yuba,12.5
+Herring Gull,Jan,Alameda,7.3
+Herring Gull,Jan,Amador,1.6
+Herring Gull,Jan,Butte,8.9
+Herring Gull,Jan,Calaveras,3.8
+Herring Gull,Jan,Colusa,3
+Herring Gull,Jan,Contra Costa,70.8
+Herring Gull,Jan,Del Norte,5.1
+Herring Gull,Jan,El Dorado,2.2
+Herring Gull,Jan,Fresno,13.3
+Herring Gull,Jan,Glenn,5.9
+Herring Gull,Jan,Humboldt,11
+Herring Gull,Jan,Imperial,10.9
+Herring Gull,Jan,Kern,6.8
+Herring Gull,Jan,Kings,15.1
+Herring Gull,Jan,Lake,13.7
+Herring Gull,Jan,Lassen,4.7
+Herring Gull,Jan,Los Angeles,3.6
+Herring Gull,Jan,Madera,2
+Herring Gull,Jan,Marin,8.9
+Herring Gull,Jan,Mariposa,1.3
+Herring Gull,Jan,Mendocino,13.9
+Herring Gull,Jan,Merced,11.7
+Herring Gull,Jan,Monterey,16.4
+Herring Gull,Jan,Napa,1.8
+Herring Gull,Jan,Orange,2.8
+Herring Gull,Jan,Placer,62.6
+Herring Gull,Jan,Plumas,1.6
+Herring Gull,Jan,Riverside,28.5
+Herring Gull,Jan,Sacramento,7.3
+Herring Gull,Jan,San Benito,90.3
+Herring Gull,Jan,San Bernardino,2
+Herring Gull,Jan,San Diego,4.6
+Herring Gull,Jan,San Francisco,4.4
+Herring Gull,Jan,San Joaquin,11.5
+Herring Gull,Jan,San Luis Obispo,4.1
+Herring Gull,Jan,San Mateo,17.7
+Herring Gull,Jan,Santa Barbara,2.7
+Herring Gull,Jan,Santa Clara,22.5
+Herring Gull,Jan,Santa Cruz,7.8
+Herring Gull,Jan,Shasta,4.7
+Herring Gull,Jan,Siskiyou,1.9
+Herring Gull,Jan,Solano,23.4
+Herring Gull,Jan,Sonoma,15.2
+Herring Gull,Jan,Stanislaus,226.3
+Herring Gull,Jan,Sutter,3.5
+Herring Gull,Jan,Tehama,3.4
+Herring Gull,Jan,Tulare,24.5
+Herring Gull,Jan,Tuolumne,1
+Herring Gull,Jan,Ventura,3.3
+Herring Gull,Jan,Yolo,43.4
+Herring Gull,Jan,Yuba,9.9
+Herring Gull,Jul,Alameda,7
+Herring Gull,Jul,Humboldt,1
+Herring Gull,Jul,Imperial,3.3
+Herring Gull,Jul,Los Angeles,1
+Herring Gull,Jul,Orange,1
+Herring Gull,Jul,Riverside,1
+Herring Gull,Jul,San Diego,1
+Herring Gull,Jul,San Luis Obispo,1
+Herring Gull,Jul,San Mateo,1
+Herring Gull,Jul,Santa Clara,1
+Herring Gull,Jul,Ventura,1
+Herring Gull,Jul,Yolo,1
+Herring Gull,Jun,Contra Costa,2
+Herring Gull,Jun,Humboldt,1
+Herring Gull,Jun,Imperial,1
+Herring Gull,Jun,Los Angeles,1
+Herring Gull,Jun,Monterey,1
+Herring Gull,Jun,Orange,1
+Herring Gull,Jun,Plumas,1
+Herring Gull,Jun,Riverside,1
+Herring Gull,Jun,San Luis Obispo,1
+Herring Gull,Jun,San Mateo,1.2
+Herring Gull,Jun,Santa Clara,1
+Herring Gull,Jun,Stanislaus,3.7
+Herring Gull,Jun,Yolo,1
+Herring Gull,Mar,Alameda,3.2
+Herring Gull,Mar,Amador,1.8
+Herring Gull,Mar,Butte,3.8
+Herring Gull,Mar,Calaveras,1
+Herring Gull,Mar,Colusa,1.5
+Herring Gull,Mar,Contra Costa,3
+Herring Gull,Mar,Del Norte,10.3
+Herring Gull,Mar,El Dorado,1.4
+Herring Gull,Mar,Fresno,15.8
+Herring Gull,Mar,Glenn,2.3
+Herring Gull,Mar,Humboldt,2.9
+Herring Gull,Mar,Imperial,16.7
+Herring Gull,Mar,Kern,1.5
+Herring Gull,Mar,Kings,7.1
+Herring Gull,Mar,Lake,87.8
+Herring Gull,Mar,Lassen,4.5
+Herring Gull,Mar,Los Angeles,4.5
+Herring Gull,Mar,Marin,4.1
+Herring Gull,Mar,Mariposa,1
+Herring Gull,Mar,Mendocino,4.6
+Herring Gull,Mar,Merced,4
+Herring Gull,Mar,Modoc,2
+Herring Gull,Mar,Mono,3
+Herring Gull,Mar,Monterey,8.6
+Herring Gull,Mar,Napa,3.4
+Herring Gull,Mar,Orange,3
+Herring Gull,Mar,Placer,10.9
+Herring Gull,Mar,Plumas,2
+Herring Gull,Mar,Riverside,16.6
+Herring Gull,Mar,Sacramento,2
+Herring Gull,Mar,San Benito,15.5
+Herring Gull,Mar,San Bernardino,1.5
+Herring Gull,Mar,San Diego,3.2
+Herring Gull,Mar,San Francisco,8.2
+Herring Gull,Mar,San Joaquin,15.4
+Herring Gull,Mar,San Luis Obispo,6.2
+Herring Gull,Mar,San Mateo,12.3
+Herring Gull,Mar,Santa Barbara,3.2
+Herring Gull,Mar,Santa Clara,17.7
+Herring Gull,Mar,Santa Cruz,14.9
+Herring Gull,Mar,Shasta,1.8
+Herring Gull,Mar,Sierra,1
+Herring Gull,Mar,Siskiyou,5.3
+Herring Gull,Mar,Solano,61.7
+Herring Gull,Mar,Sonoma,6.6
+Herring Gull,Mar,Stanislaus,173.5
+Herring Gull,Mar,Sutter,43
+Herring Gull,Mar,Tehama,1.8
+Herring Gull,Mar,Trinity,1
+Herring Gull,Mar,Tulare,3.3
+Herring Gull,Mar,Ventura,2.1
+Herring Gull,Mar,Yolo,71.1
+Herring Gull,Mar,Yuba,35
+Herring Gull,May,Alameda,2.6
+Herring Gull,May,Butte,3
+Herring Gull,May,Contra Costa,1.3
+Herring Gull,May,Del Norte,1.3
+Herring Gull,May,El Dorado,1
+Herring Gull,May,Fresno,1
+Herring Gull,May,Humboldt,1.4
+Herring Gull,May,Imperial,4.7
+Herring Gull,May,Inyo,1
+Herring Gull,May,Kern,1
+Herring Gull,May,Kings,1
+Herring Gull,May,Los Angeles,1
+Herring Gull,May,Marin,1.8
+Herring Gull,May,Mendocino,5.8
+Herring Gull,May,Merced,1
+Herring Gull,May,Monterey,1.3
+Herring Gull,May,Orange,3.8
+Herring Gull,May,Riverside,1.7
+Herring Gull,May,Sacramento,1
+Herring Gull,May,San Bernardino,1
+Herring Gull,May,San Diego,1.6
+Herring Gull,May,San Francisco,1.9
+Herring Gull,May,San Joaquin,1
+Herring Gull,May,San Luis Obispo,1.1
+Herring Gull,May,San Mateo,1.6
+Herring Gull,May,Santa Barbara,2.2
+Herring Gull,May,Santa Clara,9.9
+Herring Gull,May,Santa Cruz,1.3
+Herring Gull,May,Shasta,1
+Herring Gull,May,Siskiyou,1
+Herring Gull,May,Sonoma,2.4
+Herring Gull,May,Stanislaus,3.1
+Herring Gull,May,Ventura,1
+Herring Gull,May,Yolo,1.2
+Herring Gull,Nov,Alameda,3.9
+Herring Gull,Nov,Amador,1.2
+Herring Gull,Nov,Butte,6
+Herring Gull,Nov,Calaveras,1
+Herring Gull,Nov,Colusa,2.7
+Herring Gull,Nov,Contra Costa,5.2
+Herring Gull,Nov,Del Norte,10.3
+Herring Gull,Nov,El Dorado,6.8
+Herring Gull,Nov,Fresno,4.2
+Herring Gull,Nov,Glenn,8.3
+Herring Gull,Nov,Humboldt,4.8
+Herring Gull,Nov,Imperial,34.5
+Herring Gull,Nov,Inyo,1.6
+Herring Gull,Nov,Kern,2
+Herring Gull,Nov,Kings,16.9
+Herring Gull,Nov,Lake,5.9
+Herring Gull,Nov,Lassen,3.3
+Herring Gull,Nov,Los Angeles,3.2
+Herring Gull,Nov,Madera,1
+Herring Gull,Nov,Marin,5.3
+Herring Gull,Nov,Mariposa,1
+Herring Gull,Nov,Mendocino,3.7
+Herring Gull,Nov,Merced,7.8
+Herring Gull,Nov,Modoc,1.3
+Herring Gull,Nov,Mono,2.1
+Herring Gull,Nov,Monterey,8.4
+Herring Gull,Nov,Napa,1.7
+Herring Gull,Nov,Nevada,1
+Herring Gull,Nov,Orange,2.3
+Herring Gull,Nov,Placer,64
+Herring Gull,Nov,Plumas,1.2
+Herring Gull,Nov,Riverside,22.4
+Herring Gull,Nov,Sacramento,22.4
+Herring Gull,Nov,San Benito,2.7
+Herring Gull,Nov,San Bernardino,2.2
+Herring Gull,Nov,San Diego,4.6
+Herring Gull,Nov,San Francisco,4.6
+Herring Gull,Nov,San Joaquin,6.6
+Herring Gull,Nov,San Luis Obispo,2
+Herring Gull,Nov,San Mateo,8.5
+Herring Gull,Nov,Santa Barbara,2.4
+Herring Gull,Nov,Santa Clara,19.7
+Herring Gull,Nov,Santa Cruz,4.1
+Herring Gull,Nov,Shasta,2.4
+Herring Gull,Nov,Sierra,1
+Herring Gull,Nov,Siskiyou,2.2
+Herring Gull,Nov,Solano,15.7
+Herring Gull,Nov,Sonoma,7
+Herring Gull,Nov,Stanislaus,252.6
+Herring Gull,Nov,Sutter,1.7
+Herring Gull,Nov,Tehama,1.7
+Herring Gull,Nov,Trinity,1
+Herring Gull,Nov,Tulare,4.5
+Herring Gull,Nov,Ventura,1.8
+Herring Gull,Nov,Yolo,49.3
+Herring Gull,Nov,Yuba,3.3
+Herring Gull,Oct,Alameda,2.2
+Herring Gull,Oct,Alpine,1
+Herring Gull,Oct,Amador,1.7
+Herring Gull,Oct,Butte,2.7
+Herring Gull,Oct,Calaveras,1
+Herring Gull,Oct,Colusa,1.2
+Herring Gull,Oct,Contra Costa,1.9
+Herring Gull,Oct,Del Norte,5.1
+Herring Gull,Oct,El Dorado,6.4
+Herring Gull,Oct,Fresno,1.3
+Herring Gull,Oct,Glenn,3.8
+Herring Gull,Oct,Humboldt,2.9
+Herring Gull,Oct,Imperial,12.7
+Herring Gull,Oct,Inyo,1
+Herring Gull,Oct,Kern,1.3
+Herring Gull,Oct,Kings,4.9
+Herring Gull,Oct,Lake,3.2
+Herring Gull,Oct,Lassen,2
+Herring Gull,Oct,Los Angeles,1.9
+Herring Gull,Oct,Marin,2.9
+Herring Gull,Oct,Mendocino,3.5
+Herring Gull,Oct,Merced,2.9
+Herring Gull,Oct,Modoc,2
+Herring Gull,Oct,Mono,1.2
+Herring Gull,Oct,Monterey,1.9
+Herring Gull,Oct,Napa,1.9
+Herring Gull,Oct,Orange,2.8
+Herring Gull,Oct,Placer,6.7
+Herring Gull,Oct,Plumas,1.5
+Herring Gull,Oct,Riverside,18.4
+Herring Gull,Oct,Sacramento,3.2
+Herring Gull,Oct,San Bernardino,1.4
+Herring Gull,Oct,San Diego,1.7
+Herring Gull,Oct,San Francisco,3.2
+Herring Gull,Oct,San Joaquin,1.9
+Herring Gull,Oct,San Luis Obispo,2
+Herring Gull,Oct,San Mateo,2.5
+Herring Gull,Oct,Santa Barbara,3.2
+Herring Gull,Oct,Santa Clara,13
+Herring Gull,Oct,Santa Cruz,3.2
+Herring Gull,Oct,Shasta,2.2
+Herring Gull,Oct,Siskiyou,1
+Herring Gull,Oct,Solano,1.4
+Herring Gull,Oct,Sonoma,4.2
+Herring Gull,Oct,Stanislaus,7.3
+Herring Gull,Oct,Sutter,2.1
+Herring Gull,Oct,Tehama,1
+Herring Gull,Oct,Tulare,1.8
+Herring Gull,Oct,Ventura,3.2
+Herring Gull,Oct,Yolo,20.1
+Herring Gull,Oct,Yuba,1.7
+Herring Gull,Sep,Alameda,1.5
+Herring Gull,Sep,Butte,4.3
+Herring Gull,Sep,Calaveras,1
+Herring Gull,Sep,Colusa,1
+Herring Gull,Sep,Contra Costa,3.2
+Herring Gull,Sep,Del Norte,1.6
+Herring Gull,Sep,El Dorado,1.2
+Herring Gull,Sep,Humboldt,1.2
+Herring Gull,Sep,Imperial,4.6
+Herring Gull,Sep,Inyo,1
+Herring Gull,Sep,Kern,1
+Herring Gull,Sep,Kings,3.8
+Herring Gull,Sep,Lake,1
+Herring Gull,Sep,Lassen,1.3
+Herring Gull,Sep,Los Angeles,1.2
+Herring Gull,Sep,Marin,1.3
+Herring Gull,Sep,Mendocino,1.7
+Herring Gull,Sep,Merced,2.2
+Herring Gull,Sep,Monterey,1
+Herring Gull,Sep,Napa,1.3
+Herring Gull,Sep,Orange,2.1
+Herring Gull,Sep,Placer,2
+Herring Gull,Sep,Plumas,1
+Herring Gull,Sep,Riverside,2.2
+Herring Gull,Sep,Sacramento,1.2
+Herring Gull,Sep,San Bernardino,1.2
+Herring Gull,Sep,San Diego,1
+Herring Gull,Sep,San Francisco,1.3
+Herring Gull,Sep,San Joaquin,2.5
+Herring Gull,Sep,San Luis Obispo,1
+Herring Gull,Sep,San Mateo,1.9
+Herring Gull,Sep,Santa Barbara,1.1
+Herring Gull,Sep,Santa Clara,3.8
+Herring Gull,Sep,Santa Cruz,1.4
+Herring Gull,Sep,Shasta,10
+Herring Gull,Sep,Siskiyou,12
+Herring Gull,Sep,Solano,2.8
+Herring Gull,Sep,Sonoma,1.4
+Herring Gull,Sep,Sutter,1
+Herring Gull,Sep,Trinity,1.5
+Herring Gull,Sep,Ventura,1.7
+Herring Gull,Sep,Yolo,4.4
+Iceland Gull,Apr,Alameda,1.6
+Iceland Gull,Apr,Contra Costa,1
+Iceland Gull,Apr,Del Norte,1.4
+Iceland Gull,Apr,Humboldt,1.3
+Iceland Gull,Apr,Imperial,1
+Iceland Gull,Apr,Kern,1
+Iceland Gull,Apr,Lake,1
+Iceland Gull,Apr,Los Angeles,1.1
+Iceland Gull,Apr,Marin,1.2
+Iceland Gull,Apr,Mendocino,1.8
+Iceland Gull,Apr,Monterey,1.6
+Iceland Gull,Apr,Napa,1
+Iceland Gull,Apr,Riverside,1
+Iceland Gull,Apr,Sacramento,1
+Iceland Gull,Apr,San Diego,1
+Iceland Gull,Apr,San Francisco,1.2
+Iceland Gull,Apr,San Joaquin,2
+Iceland Gull,Apr,San Luis Obispo,1
+Iceland Gull,Apr,San Mateo,1.2
+Iceland Gull,Apr,Santa Barbara,4
+Iceland Gull,Apr,Santa Clara,1.5
+Iceland Gull,Apr,Santa Cruz,1.2
+Iceland Gull,Apr,Sonoma,1.1
+Iceland Gull,Apr,Stanislaus,1.3
+Iceland Gull,Apr,Yolo,3.5
+Iceland Gull,Aug,Del Norte,1.5
+Iceland Gull,Dec,Alameda,2.1
+Iceland Gull,Dec,Butte,1
+Iceland Gull,Dec,Colusa,1
+Iceland Gull,Dec,Contra Costa,2.8
+Iceland Gull,Dec,Del Norte,3.2
+Iceland Gull,Dec,Fresno,1
+Iceland Gull,Dec,Glenn,1
+Iceland Gull,Dec,Humboldt,2.2
+Iceland Gull,Dec,Imperial,1.1
+Iceland Gull,Dec,Inyo,1
+Iceland Gull,Dec,Kern,1.8
+Iceland Gull,Dec,Kings,1.4
+Iceland Gull,Dec,Lake,2.7
+Iceland Gull,Dec,Lassen,1
+Iceland Gull,Dec,Los Angeles,1.7
+Iceland Gull,Dec,Marin,5.5
+Iceland Gull,Dec,Mendocino,1.7
+Iceland Gull,Dec,Merced,1.2
+Iceland Gull,Dec,Monterey,2.8
+Iceland Gull,Dec,Napa,1.3
+Iceland Gull,Dec,Orange,1.2
+Iceland Gull,Dec,Placer,2.4
+Iceland Gull,Dec,Riverside,2.4
+Iceland Gull,Dec,Sacramento,2.1
+Iceland Gull,Dec,San Benito,1
+Iceland Gull,Dec,San Bernardino,1.2
+Iceland Gull,Dec,San Diego,1.2
+Iceland Gull,Dec,San Francisco,1.9
+Iceland Gull,Dec,San Joaquin,3.7
+Iceland Gull,Dec,San Luis Obispo,1.2
+Iceland Gull,Dec,San Mateo,3.9
+Iceland Gull,Dec,Santa Barbara,1.3
+Iceland Gull,Dec,Santa Clara,21.8
+Iceland Gull,Dec,Santa Cruz,3.4
+Iceland Gull,Dec,Shasta,1.6
+Iceland Gull,Dec,Solano,2
+Iceland Gull,Dec,Sonoma,2.8
+Iceland Gull,Dec,Stanislaus,65
+Iceland Gull,Dec,Sutter,1
+Iceland Gull,Dec,Tulare,1.8
+Iceland Gull,Dec,Ventura,1.5
+Iceland Gull,Dec,Yolo,20.9
+Iceland Gull,Dec,Yuba,2
+Iceland Gull,Feb,Alameda,1.7
+Iceland Gull,Feb,Amador,1
+Iceland Gull,Feb,Butte,1
+Iceland Gull,Feb,Colusa,1
+Iceland Gull,Feb,Contra Costa,14
+Iceland Gull,Feb,Del Norte,5.5
+Iceland Gull,Feb,Fresno,18.2
+Iceland Gull,Feb,Glenn,1
+Iceland Gull,Feb,Humboldt,3.8
+Iceland Gull,Feb,Imperial,1.8
+Iceland Gull,Feb,Kern,1
+Iceland Gull,Feb,Kings,1.2
+Iceland Gull,Feb,Lake,1.5
+Iceland Gull,Feb,Los Angeles,1.7
+Iceland Gull,Feb,Madera,1
+Iceland Gull,Feb,Marin,12.7
+Iceland Gull,Feb,Mendocino,2.5
+Iceland Gull,Feb,Merced,1.5
+Iceland Gull,Feb,Monterey,3.5
+Iceland Gull,Feb,Napa,1.7
+Iceland Gull,Feb,Orange,1.4
+Iceland Gull,Feb,Placer,2
+Iceland Gull,Feb,Riverside,2.7
+Iceland Gull,Feb,Sacramento,1.4
+Iceland Gull,Feb,San Benito,23.5
+Iceland Gull,Feb,San Bernardino,1
+Iceland Gull,Feb,San Diego,1.6
+Iceland Gull,Feb,San Francisco,3.7
+Iceland Gull,Feb,San Joaquin,7.1
+Iceland Gull,Feb,San Luis Obispo,1.3
+Iceland Gull,Feb,San Mateo,3.7
+Iceland Gull,Feb,Santa Barbara,2.1
+Iceland Gull,Feb,Santa Clara,18.6
+Iceland Gull,Feb,Santa Cruz,4
+Iceland Gull,Feb,Shasta,1
+Iceland Gull,Feb,Siskiyou,1
+Iceland Gull,Feb,Solano,9.6
+Iceland Gull,Feb,Sonoma,3.2
+Iceland Gull,Feb,Stanislaus,2.8
+Iceland Gull,Feb,Trinity,1
+Iceland Gull,Feb,Tulare,1.7
+Iceland Gull,Feb,Ventura,1.4
+Iceland Gull,Feb,Yolo,29.8
+Iceland Gull,Feb,Yuba,1
+Iceland Gull,Jan,Alameda,1.8
+Iceland Gull,Jan,Butte,1.3
+Iceland Gull,Jan,Contra Costa,9.9
+Iceland Gull,Jan,Del Norte,2.6
+Iceland Gull,Jan,El Dorado,1
+Iceland Gull,Jan,Fresno,1.2
+Iceland Gull,Jan,Humboldt,2.8
+Iceland Gull,Jan,Imperial,1.1
+Iceland Gull,Jan,Inyo,1
+Iceland Gull,Jan,Kern,2
+Iceland Gull,Jan,Kings,1.2
+Iceland Gull,Jan,Lake,1.8
+Iceland Gull,Jan,Los Angeles,1.4
+Iceland Gull,Jan,Madera,1
+Iceland Gull,Jan,Marin,7.4
+Iceland Gull,Jan,Mendocino,1.8
+Iceland Gull,Jan,Merced,1.5
+Iceland Gull,Jan,Monterey,5.7
+Iceland Gull,Jan,Napa,1.7
+Iceland Gull,Jan,Orange,1.2
+Iceland Gull,Jan,Placer,4.3
+Iceland Gull,Jan,Riverside,1.9
+Iceland Gull,Jan,Sacramento,2.2
+Iceland Gull,Jan,San Benito,29.6
+Iceland Gull,Jan,San Bernardino,1
+Iceland Gull,Jan,San Diego,1.6
+Iceland Gull,Jan,San Francisco,3.9
+Iceland Gull,Jan,San Joaquin,2.4
+Iceland Gull,Jan,San Luis Obispo,1.3
+Iceland Gull,Jan,San Mateo,3.8
+Iceland Gull,Jan,Santa Barbara,1.2
+Iceland Gull,Jan,Santa Clara,5.4
+Iceland Gull,Jan,Santa Cruz,3.7
+Iceland Gull,Jan,Shasta,1.1
+Iceland Gull,Jan,Solano,11
+Iceland Gull,Jan,Sonoma,3.4
+Iceland Gull,Jan,Stanislaus,49.4
+Iceland Gull,Jan,Sutter,1
+Iceland Gull,Jan,Tulare,5.8
+Iceland Gull,Jan,Ventura,1.3
+Iceland Gull,Jan,Yolo,19.2
+Iceland Gull,Jan,Yuba,2
+Iceland Gull,Mar,Alameda,1.6
+Iceland Gull,Mar,Contra Costa,2.5
+Iceland Gull,Mar,Del Norte,3.3
+Iceland Gull,Mar,Fresno,5
+Iceland Gull,Mar,Humboldt,1.6
+Iceland Gull,Mar,Imperial,1
+Iceland Gull,Mar,Kern,1.2
+Iceland Gull,Mar,Kings,1
+Iceland Gull,Mar,Lake,3.7
+Iceland Gull,Mar,Los Angeles,1.6
+Iceland Gull,Mar,Marin,3.5
+Iceland Gull,Mar,Mendocino,1
+Iceland Gull,Mar,Merced,1
+Iceland Gull,Mar,Monterey,4
+Iceland Gull,Mar,Napa,1
+Iceland Gull,Mar,Orange,1.6
+Iceland Gull,Mar,Placer,3.5
+Iceland Gull,Mar,Riverside,2.5
+Iceland Gull,Mar,Sacramento,1
+Iceland Gull,Mar,San Diego,1.1
+Iceland Gull,Mar,San Francisco,1.5
+Iceland Gull,Mar,San Joaquin,2
+Iceland Gull,Mar,San Luis Obispo,1.1
+Iceland Gull,Mar,San Mateo,2.6
+Iceland Gull,Mar,Santa Barbara,1.1
+Iceland Gull,Mar,Santa Clara,6.9
+Iceland Gull,Mar,Santa Cruz,3
+Iceland Gull,Mar,Shasta,1
+Iceland Gull,Mar,Solano,6.9
+Iceland Gull,Mar,Sonoma,2.4
+Iceland Gull,Mar,Stanislaus,9
+Iceland Gull,Mar,Sutter,1
+Iceland Gull,Mar,Tulare,4
+Iceland Gull,Mar,Ventura,1.3
+Iceland Gull,Mar,Yolo,38.5
+Iceland Gull,Mar,Yuba,2
+Iceland Gull,May,Del Norte,1
+Iceland Gull,May,Humboldt,1
+Iceland Gull,May,Monterey,1
+Iceland Gull,May,Riverside,1
+Iceland Gull,May,San Francisco,1
+Iceland Gull,May,San Luis Obispo,3
+Iceland Gull,May,San Mateo,1
+Iceland Gull,May,Santa Clara,1
+Iceland Gull,May,Santa Cruz,1.4
+Iceland Gull,May,Yolo,1
+Iceland Gull,Nov,Alameda,1.5
+Iceland Gull,Nov,Colusa,1
+Iceland Gull,Nov,Contra Costa,1.2
+Iceland Gull,Nov,Del Norte,1.9
+Iceland Gull,Nov,El Dorado,1
+Iceland Gull,Nov,Fresno,3
+Iceland Gull,Nov,Glenn,1
+Iceland Gull,Nov,Humboldt,1.4
+Iceland Gull,Nov,Imperial,1
+Iceland Gull,Nov,Kern,1
+Iceland Gull,Nov,Kings,1.1
+Iceland Gull,Nov,Lake,1
+Iceland Gull,Nov,Los Angeles,1.1
+Iceland Gull,Nov,Marin,6.4
+Iceland Gull,Nov,Mendocino,1.8
+Iceland Gull,Nov,Merced,1.7
+Iceland Gull,Nov,Mono,1
+Iceland Gull,Nov,Monterey,2.7
+Iceland Gull,Nov,Napa,1
+Iceland Gull,Nov,Orange,1.1
+Iceland Gull,Nov,Placer,4.5
+Iceland Gull,Nov,Plumas,1
+Iceland Gull,Nov,Riverside,1.5
+Iceland Gull,Nov,Sacramento,2.3
+Iceland Gull,Nov,San Bernardino,1.7
+Iceland Gull,Nov,San Diego,1.1
+Iceland Gull,Nov,San Francisco,1.7
+Iceland Gull,Nov,San Joaquin,1.8
+Iceland Gull,Nov,San Luis Obispo,1.1
+Iceland Gull,Nov,San Mateo,2.5
+Iceland Gull,Nov,Santa Barbara,1.2
+Iceland Gull,Nov,Santa Clara,3.8
+Iceland Gull,Nov,Santa Cruz,2.9
+Iceland Gull,Nov,Shasta,1
+Iceland Gull,Nov,Solano,1.2
+Iceland Gull,Nov,Sonoma,2.2
+Iceland Gull,Nov,Stanislaus,14
+Iceland Gull,Nov,Trinity,2.5
+Iceland Gull,Nov,Tulare,1
+Iceland Gull,Nov,Ventura,1.4
+Iceland Gull,Nov,Yolo,4.8
+Iceland Gull,Oct,Alameda,1.3
+Iceland Gull,Oct,Contra Costa,1
+Iceland Gull,Oct,Del Norte,1.2
+Iceland Gull,Oct,El Dorado,1
+Iceland Gull,Oct,Humboldt,1.7
+Iceland Gull,Oct,Imperial,1
+Iceland Gull,Oct,Kings,1
+Iceland Gull,Oct,Lake,1
+Iceland Gull,Oct,Los Angeles,1.2
+Iceland Gull,Oct,Marin,1.4
+Iceland Gull,Oct,Mendocino,1.8
+Iceland Gull,Oct,Merced,1
+Iceland Gull,Oct,Mono,1
+Iceland Gull,Oct,Monterey,1.1
+Iceland Gull,Oct,Orange,1
+Iceland Gull,Oct,Placer,2
+Iceland Gull,Oct,Sacramento,1
+Iceland Gull,Oct,San Diego,1
+Iceland Gull,Oct,San Francisco,1.5
+Iceland Gull,Oct,San Luis Obispo,1
+Iceland Gull,Oct,San Mateo,1
+Iceland Gull,Oct,Santa Clara,1.9
+Iceland Gull,Oct,Santa Cruz,1.6
+Iceland Gull,Oct,Shasta,2
+Iceland Gull,Oct,Sonoma,1.8
+Iceland Gull,Oct,Ventura,1
+Iceland Gull,Oct,Yolo,1.9
+Iceland Gull,Sep,Humboldt,1
+Iceland Gull,Sep,Los Angeles,1
+Iceland Gull,Sep,Sonoma,1
+Iceland Gull,Sep,Yolo,1
+Ivory Gull,Nov,San Luis Obispo,1
+Kelp Gull,Apr,San Francisco,1
+Kelp Gull,Feb,Los Angeles,1
+Kelp Gull,May,San Mateo,1
+Laughing Gull,Apr,Alameda,1
+Laughing Gull,Apr,Humboldt,1
+Laughing Gull,Apr,Imperial,1.2
+Laughing Gull,Apr,Los Angeles,1
+Laughing Gull,Apr,Marin,1
+Laughing Gull,Apr,Monterey,1
+Laughing Gull,Apr,Riverside,1
+Laughing Gull,Apr,San Diego,1
+Laughing Gull,Apr,San Francisco,1
+Laughing Gull,Apr,San Luis Obispo,1
+Laughing Gull,Apr,San Mateo,1
+Laughing Gull,Apr,Santa Barbara,1
+Laughing Gull,Apr,Santa Cruz,1
+Laughing Gull,Apr,Ventura,1
+Laughing Gull,Aug,Del Norte,1
+Laughing Gull,Aug,Humboldt,1
+Laughing Gull,Aug,Imperial,65.9
+Laughing Gull,Aug,Los Angeles,1
+Laughing Gull,Aug,Monterey,1
+Laughing Gull,Aug,Riverside,2.3
+Laughing Gull,Aug,San Diego,1
+Laughing Gull,Aug,Santa Barbara,1
+Laughing Gull,Aug,Santa Cruz,1
+Laughing Gull,Dec,Del Norte,1
+Laughing Gull,Dec,Imperial,19.2
+Laughing Gull,Dec,Marin,1
+Laughing Gull,Dec,Orange,1
+Laughing Gull,Dec,Riverside,1.8
+Laughing Gull,Dec,San Diego,1
+Laughing Gull,Dec,Santa Barbara,1
+Laughing Gull,Dec,Shasta,1
+Laughing Gull,Feb,Del Norte,1
+Laughing Gull,Feb,Imperial,2.4
+Laughing Gull,Feb,Los Angeles,1
+Laughing Gull,Feb,Marin,1
+Laughing Gull,Feb,Mendocino,1
+Laughing Gull,Feb,Riverside,2
+Laughing Gull,Feb,San Bernardino,1
+Laughing Gull,Feb,San Diego,1
+Laughing Gull,Feb,San Luis Obispo,1
+Laughing Gull,Feb,San Mateo,1
+Laughing Gull,Feb,Santa Barbara,1
+Laughing Gull,Feb,Santa Cruz,1
+Laughing Gull,Feb,Shasta,1
+Laughing Gull,Jan,Imperial,1.6
+Laughing Gull,Jan,Los Angeles,1
+Laughing Gull,Jan,Marin,1
+Laughing Gull,Jan,Orange,1
+Laughing Gull,Jan,Riverside,1.2
+Laughing Gull,Jan,San Bernardino,1
+Laughing Gull,Jan,San Diego,1
+Laughing Gull,Jan,San Luis Obispo,1
+Laughing Gull,Jan,San Mateo,1
+Laughing Gull,Jan,Santa Barbara,1
+Laughing Gull,Jan,Santa Cruz,1
+Laughing Gull,Jul,Alameda,1
+Laughing Gull,Jul,Humboldt,1
+Laughing Gull,Jul,Imperial,36.1
+Laughing Gull,Jul,Los Angeles,1
+Laughing Gull,Jul,Marin,1
+Laughing Gull,Jul,Mendocino,1
+Laughing Gull,Jul,Mono,1
+Laughing Gull,Jul,Orange,1
+Laughing Gull,Jul,Riverside,12.7
+Laughing Gull,Jul,San Diego,1
+Laughing Gull,Jul,San Luis Obispo,1
+Laughing Gull,Jul,Santa Barbara,1
+Laughing Gull,Jul,Solano,1
+Laughing Gull,Jul,Sonoma,1
+Laughing Gull,Jul,Ventura,1
+Laughing Gull,Jun,Alameda,1
+Laughing Gull,Jun,Humboldt,1
+Laughing Gull,Jun,Imperial,4.7
+Laughing Gull,Jun,Kern,1
+Laughing Gull,Jun,Los Angeles,1
+Laughing Gull,Jun,Riverside,2.3
+Laughing Gull,Jun,San Diego,1
+Laughing Gull,Jun,San Luis Obispo,1
+Laughing Gull,Jun,Santa Barbara,1
+Laughing Gull,Jun,Santa Cruz,1
+Laughing Gull,Mar,Del Norte,1
+Laughing Gull,Mar,Humboldt,1
+Laughing Gull,Mar,Imperial,1.1
+Laughing Gull,Mar,Los Angeles,1
+Laughing Gull,Mar,Marin,1
+Laughing Gull,Mar,San Diego,1
+Laughing Gull,Mar,San Luis Obispo,1
+Laughing Gull,Mar,San Mateo,1
+Laughing Gull,Mar,Santa Barbara,1
+Laughing Gull,May,Alameda,1
+Laughing Gull,May,Contra Costa,1
+Laughing Gull,May,Del Norte,1
+Laughing Gull,May,Humboldt,1
+Laughing Gull,May,Imperial,3
+Laughing Gull,May,Los Angeles,1
+Laughing Gull,May,Marin,1
+Laughing Gull,May,Monterey,1
+Laughing Gull,May,Riverside,1.2
+Laughing Gull,May,San Bernardino,1
+Laughing Gull,May,San Diego,1
+Laughing Gull,May,San Luis Obispo,1
+Laughing Gull,May,San Mateo,1
+Laughing Gull,May,Santa Barbara,1
+Laughing Gull,May,Santa Cruz,1
+Laughing Gull,May,Sonoma,1
+Laughing Gull,Nov,Humboldt,1
+Laughing Gull,Nov,Imperial,24.8
+Laughing Gull,Nov,Riverside,1.4
+Laughing Gull,Nov,San Diego,1
+Laughing Gull,Nov,San Mateo,1
+Laughing Gull,Nov,Santa Barbara,1
+Laughing Gull,Oct,Humboldt,1
+Laughing Gull,Oct,Imperial,86.6
+Laughing Gull,Oct,Marin,1
+Laughing Gull,Oct,Riverside,3.8
+Laughing Gull,Oct,San Luis Obispo,1
+Laughing Gull,Oct,San Mateo,1
+Laughing Gull,Oct,Santa Barbara,1
+Laughing Gull,Sep,Humboldt,1
+Laughing Gull,Sep,Imperial,51.5
+Laughing Gull,Sep,Marin,1
+Laughing Gull,Sep,Merced,1
+Laughing Gull,Sep,Monterey,1
+Laughing Gull,Sep,Riverside,4.4
+Laughing Gull,Sep,San Diego,1
+Laughing Gull,Sep,San Francisco,1
+Laughing Gull,Sep,San Mateo,1
+Laughing Gull,Sep,Santa Barbara,1
+Laughing Gull,Sep,Santa Cruz,1
+Lesser Black-backed Gull,Apr,Imperial,1
+Lesser Black-backed Gull,Apr,Kings,1
+Lesser Black-backed Gull,Apr,Monterey,1
+Lesser Black-backed Gull,Apr,Placer,1
+Lesser Black-backed Gull,Apr,Riverside,1.5
+Lesser Black-backed Gull,Apr,San Diego,1
+Lesser Black-backed Gull,Apr,San Mateo,1
+Lesser Black-backed Gull,Apr,Yolo,1
+Lesser Black-backed Gull,Aug,Humboldt,1
+Lesser Black-backed Gull,Aug,Imperial,1
+Lesser Black-backed Gull,Aug,Mendocino,1
+Lesser Black-backed Gull,Aug,Orange,1
+Lesser Black-backed Gull,Aug,Riverside,1
+Lesser Black-backed Gull,Aug,San Luis Obispo,1
+Lesser Black-backed Gull,Dec,Contra Costa,1
+Lesser Black-backed Gull,Dec,El Dorado,1
+Lesser Black-backed Gull,Dec,Fresno,1
+Lesser Black-backed Gull,Dec,Imperial,1
+Lesser Black-backed Gull,Dec,Inyo,1
+Lesser Black-backed Gull,Dec,Kern,1
+Lesser Black-backed Gull,Dec,Kings,1
+Lesser Black-backed Gull,Dec,Lake,1
+Lesser Black-backed Gull,Dec,Los Angeles,1.4
+Lesser Black-backed Gull,Dec,Orange,1
+Lesser Black-backed Gull,Dec,Placer,1
+Lesser Black-backed Gull,Dec,Riverside,1.1
+Lesser Black-backed Gull,Dec,Sacramento,1
+Lesser Black-backed Gull,Dec,San Diego,1
+Lesser Black-backed Gull,Dec,San Joaquin,1
+Lesser Black-backed Gull,Dec,Santa Barbara,1
+Lesser Black-backed Gull,Dec,Santa Clara,1
+Lesser Black-backed Gull,Dec,Santa Cruz,1
+Lesser Black-backed Gull,Dec,Stanislaus,1
+Lesser Black-backed Gull,Dec,Yolo,1
+Lesser Black-backed Gull,Feb,Alameda,1
+Lesser Black-backed Gull,Feb,Imperial,1.1
+Lesser Black-backed Gull,Feb,Kings,1
+Lesser Black-backed Gull,Feb,Lake,1
+Lesser Black-backed Gull,Feb,Los Angeles,1
+Lesser Black-backed Gull,Feb,Marin,1
+Lesser Black-backed Gull,Feb,Orange,1
+Lesser Black-backed Gull,Feb,Placer,1
+Lesser Black-backed Gull,Feb,Riverside,1.1
+Lesser Black-backed Gull,Feb,San Benito,1
+Lesser Black-backed Gull,Feb,San Bernardino,1
+Lesser Black-backed Gull,Feb,San Diego,1
+Lesser Black-backed Gull,Feb,San Joaquin,1
+Lesser Black-backed Gull,Feb,San Mateo,1.2
+Lesser Black-backed Gull,Feb,Santa Barbara,1
+Lesser Black-backed Gull,Feb,Santa Clara,1
+Lesser Black-backed Gull,Feb,Tulare,1
+Lesser Black-backed Gull,Feb,Yolo,1
+Lesser Black-backed Gull,Jan,Alameda,1
+Lesser Black-backed Gull,Jan,Imperial,1.1
+Lesser Black-backed Gull,Jan,Inyo,1
+Lesser Black-backed Gull,Jan,Kern,1
+Lesser Black-backed Gull,Jan,Kings,1
+Lesser Black-backed Gull,Jan,Lake,1
+Lesser Black-backed Gull,Jan,Los Angeles,1
+Lesser Black-backed Gull,Jan,Marin,1
+Lesser Black-backed Gull,Jan,Monterey,1
+Lesser Black-backed Gull,Jan,Placer,1
+Lesser Black-backed Gull,Jan,Riverside,1.1
+Lesser Black-backed Gull,Jan,Sacramento,1
+Lesser Black-backed Gull,Jan,San Diego,1
+Lesser Black-backed Gull,Jan,San Joaquin,1.2
+Lesser Black-backed Gull,Jan,San Mateo,1
+Lesser Black-backed Gull,Jan,Santa Clara,1
+Lesser Black-backed Gull,Jan,Santa Cruz,1
+Lesser Black-backed Gull,Jan,Shasta,1
+Lesser Black-backed Gull,Jan,Stanislaus,1
+Lesser Black-backed Gull,Jan,Tulare,1
+Lesser Black-backed Gull,Jan,Ventura,1
+Lesser Black-backed Gull,Jan,Yolo,1
+Lesser Black-backed Gull,Jul,Imperial,1
+Lesser Black-backed Gull,Jul,Riverside,1
+Lesser Black-backed Gull,Jul,San Mateo,1
+Lesser Black-backed Gull,Jun,Orange,1
+Lesser Black-backed Gull,Mar,Alameda,1
+Lesser Black-backed Gull,Mar,Fresno,1
+Lesser Black-backed Gull,Mar,Humboldt,1
+Lesser Black-backed Gull,Mar,Imperial,1
+Lesser Black-backed Gull,Mar,Lake,1
+Lesser Black-backed Gull,Mar,Los Angeles,1.1
+Lesser Black-backed Gull,Mar,Monterey,1
+Lesser Black-backed Gull,Mar,Placer,1.2
+Lesser Black-backed Gull,Mar,Riverside,2
+Lesser Black-backed Gull,Mar,Sacramento,1
+Lesser Black-backed Gull,Mar,San Bernardino,1
+Lesser Black-backed Gull,Mar,San Diego,1.1
+Lesser Black-backed Gull,Mar,San Luis Obispo,1
+Lesser Black-backed Gull,Mar,San Mateo,1
+Lesser Black-backed Gull,Mar,Solano,1
+Lesser Black-backed Gull,Mar,Yolo,1
+Lesser Black-backed Gull,May,Imperial,1
+Lesser Black-backed Gull,May,Riverside,1
+Lesser Black-backed Gull,Nov,Imperial,1.2
+Lesser Black-backed Gull,Nov,Inyo,1
+Lesser Black-backed Gull,Nov,Kings,1
+Lesser Black-backed Gull,Nov,Lake,1
+Lesser Black-backed Gull,Nov,Los Angeles,1
+Lesser Black-backed Gull,Nov,Mono,1
+Lesser Black-backed Gull,Nov,Orange,1
+Lesser Black-backed Gull,Nov,Placer,1
+Lesser Black-backed Gull,Nov,Riverside,1.1
+Lesser Black-backed Gull,Nov,Sacramento,1
+Lesser Black-backed Gull,Nov,San Diego,1
+Lesser Black-backed Gull,Nov,San Francisco,1
+Lesser Black-backed Gull,Nov,Santa Clara,1
+Lesser Black-backed Gull,Nov,Yolo,1
+Lesser Black-backed Gull,Oct,El Dorado,1
+Lesser Black-backed Gull,Oct,Imperial,1.2
+Lesser Black-backed Gull,Oct,Kings,1
+Lesser Black-backed Gull,Oct,Los Angeles,1
+Lesser Black-backed Gull,Oct,Mono,1
+Lesser Black-backed Gull,Oct,Monterey,1
+Lesser Black-backed Gull,Oct,Riverside,1
+Lesser Black-backed Gull,Oct,San Diego,1
+Lesser Black-backed Gull,Oct,Santa Cruz,1
+Lesser Black-backed Gull,Sep,Imperial,1
+Lesser Black-backed Gull,Sep,Kings,1
+Lesser Black-backed Gull,Sep,Riverside,1
+Little Gull,Apr,Orange,1
+Little Gull,Apr,Riverside,1
+Little Gull,Apr,San Diego,1
+Little Gull,Aug,Kern,1
+Little Gull,Aug,Riverside,1
+Little Gull,Dec,Marin,1
+Little Gull,Dec,Riverside,1
+Little Gull,Dec,San Bernardino,1
+Little Gull,Dec,Santa Barbara,1
+Little Gull,Feb,Riverside,1
+Little Gull,Feb,San Joaquin,1
+Little Gull,Feb,Stanislaus,1
+Little Gull,Jan,Imperial,1
+Little Gull,Jan,Orange,1
+Little Gull,Jan,Riverside,1
+Little Gull,Jan,San Bernardino,1.4
+Little Gull,Jan,Stanislaus,1
+Little Gull,Jul,Imperial,1
+Little Gull,Jul,Kings,1
+Little Gull,Jun,El Dorado,1
+Little Gull,Jun,Imperial,1
+Little Gull,Jun,Kings,1
+Little Gull,Jun,San Mateo,1
+Little Gull,Mar,Riverside,1
+Little Gull,May,Imperial,1
+Little Gull,May,Kings,1
+Little Gull,Nov,Humboldt,1
+Little Gull,Nov,Los Angeles,1
+Little Gull,Nov,Riverside,1
+Little Gull,Nov,Stanislaus,2
+Little Gull,Nov,Ventura,1
+Little Gull,Oct,Humboldt,1
+Little Gull,Sep,Inyo,1
+Little Gull,Sep,Monterey,1
+Little Gull,Sep,Riverside,1
+Mew Gull,Apr,Alameda,3.3
+Mew Gull,Apr,Contra Costa,4
+Mew Gull,Apr,Del Norte,7.3
+Mew Gull,Apr,Humboldt,6.2
+Mew Gull,Apr,Los Angeles,2.2
+Mew Gull,Apr,Marin,6.3
+Mew Gull,Apr,Mendocino,1.6
+Mew Gull,Apr,Monterey,2.2
+Mew Gull,Apr,Napa,1
+Mew Gull,Apr,Placer,2
+Mew Gull,Apr,San Diego,1
+Mew Gull,Apr,San Francisco,5.8
+Mew Gull,Apr,San Luis Obispo,1.5
+Mew Gull,Apr,San Mateo,2.1
+Mew Gull,Apr,Santa Barbara,1.3
+Mew Gull,Apr,Santa Clara,1.8
+Mew Gull,Apr,Santa Cruz,3.8
+Mew Gull,Apr,Shasta,1
+Mew Gull,Apr,Sonoma,2
+Mew Gull,Apr,Ventura,1
+Mew Gull,Aug,Humboldt,1
+Mew Gull,Aug,Marin,1
+Mew Gull,Aug,Mendocino,1.2
+Mew Gull,Aug,Modoc,1
+Mew Gull,Aug,Sacramento,1
+Mew Gull,Aug,San Diego,1
+Mew Gull,Aug,San Francisco,1
+Mew Gull,Aug,San Luis Obispo,1
+Mew Gull,Aug,San Mateo,1
+Mew Gull,Aug,Santa Barbara,1
+Mew Gull,Aug,Santa Clara,1
+Mew Gull,Aug,Santa Cruz,1
+Mew Gull,Aug,Sonoma,1
+Mew Gull,Dec,Alameda,17.2
+Mew Gull,Dec,Amador,1.2
+Mew Gull,Dec,Butte,1.9
+Mew Gull,Dec,Contra Costa,12
+Mew Gull,Dec,Del Norte,105.2
+Mew Gull,Dec,Fresno,2.1
+Mew Gull,Dec,Humboldt,58.4
+Mew Gull,Dec,Imperial,1
+Mew Gull,Dec,Kern,1
+Mew Gull,Dec,Kings,1.3
+Mew Gull,Dec,Lake,1
+Mew Gull,Dec,Lassen,1
+Mew Gull,Dec,Los Angeles,7.7
+Mew Gull,Dec,Marin,27.4
+Mew Gull,Dec,Mendocino,14.3
+Mew Gull,Dec,Merced,1
+Mew Gull,Dec,Monterey,13.3
+Mew Gull,Dec,Napa,12.7
+Mew Gull,Dec,Orange,1.6
+Mew Gull,Dec,Plumas,1
+Mew Gull,Dec,Riverside,1
+Mew Gull,Dec,Sacramento,2
+Mew Gull,Dec,San Benito,37.1
+Mew Gull,Dec,San Bernardino,1
+Mew Gull,Dec,San Diego,1.5
+Mew Gull,Dec,San Francisco,34.9
+Mew Gull,Dec,San Joaquin,1.6
+Mew Gull,Dec,San Luis Obispo,12
+Mew Gull,Dec,San Mateo,12.4
+Mew Gull,Dec,Santa Barbara,12.4
+Mew Gull,Dec,Santa Clara,27.9
+Mew Gull,Dec,Santa Cruz,23.9
+Mew Gull,Dec,Shasta,1.4
+Mew Gull,Dec,Siskiyou,2
+Mew Gull,Dec,Solano,5.2
+Mew Gull,Dec,Sonoma,23.6
+Mew Gull,Dec,Stanislaus,1.2
+Mew Gull,Dec,Sutter,1
+Mew Gull,Dec,Tehama,1
+Mew Gull,Dec,Ventura,8.8
+Mew Gull,Dec,Yolo,1.1
+Mew Gull,Dec,Yuba,1
+Mew Gull,Feb,Alameda,25.2
+Mew Gull,Feb,Butte,2
+Mew Gull,Feb,Colusa,1
+Mew Gull,Feb,Contra Costa,129.3
+Mew Gull,Feb,Del Norte,107.1
+Mew Gull,Feb,Fresno,1.1
+Mew Gull,Feb,Glenn,1
+Mew Gull,Feb,Humboldt,66.8
+Mew Gull,Feb,Imperial,1
+Mew Gull,Feb,Kings,1
+Mew Gull,Feb,Lake,1.8
+Mew Gull,Feb,Los Angeles,10.2
+Mew Gull,Feb,Marin,27.6
+Mew Gull,Feb,Mendocino,12.7
+Mew Gull,Feb,Merced,1
+Mew Gull,Feb,Monterey,8.1
+Mew Gull,Feb,Napa,24.5
+Mew Gull,Feb,Orange,1.2
+Mew Gull,Feb,Placer,1.4
+Mew Gull,Feb,Plumas,2
+Mew Gull,Feb,Riverside,1
+Mew Gull,Feb,Sacramento,2.3
+Mew Gull,Feb,San Benito,43
+Mew Gull,Feb,San Bernardino,1
+Mew Gull,Feb,San Diego,2
+Mew Gull,Feb,San Francisco,30.7
+Mew Gull,Feb,San Joaquin,5
+Mew Gull,Feb,San Luis Obispo,12.5
+Mew Gull,Feb,San Mateo,13.3
+Mew Gull,Feb,Santa Barbara,12.5
+Mew Gull,Feb,Santa Clara,11.1
+Mew Gull,Feb,Santa Cruz,17.3
+Mew Gull,Feb,Shasta,1.3
+Mew Gull,Feb,Solano,4.5
+Mew Gull,Feb,Sonoma,17.9
+Mew Gull,Feb,Stanislaus,1
+Mew Gull,Feb,Tulare,1
+Mew Gull,Feb,Ventura,11.4
+Mew Gull,Feb,Yolo,1.3
+Mew Gull,Jan,Alameda,13.7
+Mew Gull,Jan,Amador,1
+Mew Gull,Jan,Butte,1.9
+Mew Gull,Jan,Calaveras,1
+Mew Gull,Jan,Colusa,1
+Mew Gull,Jan,Contra Costa,35.8
+Mew Gull,Jan,Del Norte,69.2
+Mew Gull,Jan,Fresno,1.9
+Mew Gull,Jan,Humboldt,71.3
+Mew Gull,Jan,Imperial,1
+Mew Gull,Jan,Kern,1
+Mew Gull,Jan,Kings,1
+Mew Gull,Jan,Lake,1
+Mew Gull,Jan,Los Angeles,11.7
+Mew Gull,Jan,Marin,40.5
+Mew Gull,Jan,Mendocino,14.1
+Mew Gull,Jan,Merced,3
+Mew Gull,Jan,Monterey,11.8
+Mew Gull,Jan,Napa,16.1
+Mew Gull,Jan,Orange,2.1
+Mew Gull,Jan,Placer,1.6
+Mew Gull,Jan,Plumas,1
+Mew Gull,Jan,Riverside,1
+Mew Gull,Jan,Sacramento,2.1
+Mew Gull,Jan,San Benito,31.3
+Mew Gull,Jan,San Bernardino,1
+Mew Gull,Jan,San Diego,2.6
+Mew Gull,Jan,San Francisco,37.3
+Mew Gull,Jan,San Joaquin,1.5
+Mew Gull,Jan,San Luis Obispo,12.5
+Mew Gull,Jan,San Mateo,10.6
+Mew Gull,Jan,Santa Barbara,11.3
+Mew Gull,Jan,Santa Clara,12.2
+Mew Gull,Jan,Santa Cruz,19.6
+Mew Gull,Jan,Shasta,1.6
+Mew Gull,Jan,Solano,1.6
+Mew Gull,Jan,Sonoma,18.6
+Mew Gull,Jan,Stanislaus,1.2
+Mew Gull,Jan,Sutter,1
+Mew Gull,Jan,Tehama,4
+Mew Gull,Jan,Ventura,14.1
+Mew Gull,Jan,Yolo,1.4
+Mew Gull,Jan,Yuba,1
+Mew Gull,Jul,Alameda,1
+Mew Gull,Jul,Humboldt,1
+Mew Gull,Jul,Marin,1
+Mew Gull,Jul,San Diego,1
+Mew Gull,Jul,San Francisco,1
+Mew Gull,Jul,San Luis Obispo,1
+Mew Gull,Jul,Santa Clara,1
+Mew Gull,Jul,Santa Cruz,2
+Mew Gull,Jul,Sonoma,1
+Mew Gull,Jul,Stanislaus,1
+Mew Gull,Jun,Alameda,1
+Mew Gull,Jun,Humboldt,1
+Mew Gull,Jun,Los Angeles,1
+Mew Gull,Jun,Marin,1
+Mew Gull,Jun,San Diego,1
+Mew Gull,Jun,San Francisco,1
+Mew Gull,Jun,San Luis Obispo,1
+Mew Gull,Jun,San Mateo,1
+Mew Gull,Jun,Santa Barbara,1
+Mew Gull,Jun,Santa Cruz,1
+Mew Gull,Mar,Alameda,12.4
+Mew Gull,Mar,Amador,1
+Mew Gull,Mar,Contra Costa,7.4
+Mew Gull,Mar,Del Norte,47.2
+Mew Gull,Mar,Fresno,1
+Mew Gull,Mar,Humboldt,36.7
+Mew Gull,Mar,Imperial,1
+Mew Gull,Mar,Inyo,1
+Mew Gull,Mar,Lake,1
+Mew Gull,Mar,Lassen,1
+Mew Gull,Mar,Los Angeles,4.1
+Mew Gull,Mar,Marin,14.1
+Mew Gull,Mar,Mendocino,6.2
+Mew Gull,Mar,Merced,1
+Mew Gull,Mar,Monterey,5.8
+Mew Gull,Mar,Napa,25.9
+Mew Gull,Mar,Orange,1.5
+Mew Gull,Mar,Placer,2
+Mew Gull,Mar,Plumas,1
+Mew Gull,Mar,Riverside,1
+Mew Gull,Mar,Sacramento,3.1
+Mew Gull,Mar,San Benito,1
+Mew Gull,Mar,San Diego,1.2
+Mew Gull,Mar,San Francisco,21.9
+Mew Gull,Mar,San Joaquin,1.3
+Mew Gull,Mar,San Luis Obispo,6.2
+Mew Gull,Mar,San Mateo,9.3
+Mew Gull,Mar,Santa Barbara,7.4
+Mew Gull,Mar,Santa Clara,8.4
+Mew Gull,Mar,Santa Cruz,7.6
+Mew Gull,Mar,Shasta,1
+Mew Gull,Mar,Solano,1.6
+Mew Gull,Mar,Sonoma,7.4
+Mew Gull,Mar,Stanislaus,1
+Mew Gull,Mar,Sutter,1
+Mew Gull,Mar,Tehama,1
+Mew Gull,Mar,Trinity,1
+Mew Gull,Mar,Tulare,1
+Mew Gull,Mar,Ventura,4.5
+Mew Gull,Mar,Yolo,1.9
+Mew Gull,May,Alameda,1
+Mew Gull,May,Contra Costa,1
+Mew Gull,May,Del Norte,3
+Mew Gull,May,Humboldt,2.2
+Mew Gull,May,Inyo,1
+Mew Gull,May,Marin,2
+Mew Gull,May,Monterey,1
+Mew Gull,May,Napa,1
+Mew Gull,May,San Diego,1
+Mew Gull,May,San Francisco,1.2
+Mew Gull,May,San Luis Obispo,1
+Mew Gull,May,San Mateo,1.3
+Mew Gull,May,Santa Barbara,1
+Mew Gull,May,Santa Cruz,1
+Mew Gull,May,Solano,1
+Mew Gull,Nov,Alameda,13.2
+Mew Gull,Nov,Amador,1
+Mew Gull,Nov,Contra Costa,7.1
+Mew Gull,Nov,Del Norte,67
+Mew Gull,Nov,Fresno,2.5
+Mew Gull,Nov,Humboldt,57.2
+Mew Gull,Nov,Imperial,1
+Mew Gull,Nov,Kern,1.5
+Mew Gull,Nov,Kings,1
+Mew Gull,Nov,Lake,1
+Mew Gull,Nov,Los Angeles,2.6
+Mew Gull,Nov,Marin,31.6
+Mew Gull,Nov,Mendocino,12.3
+Mew Gull,Nov,Merced,1
+Mew Gull,Nov,Mono,1
+Mew Gull,Nov,Monterey,6.7
+Mew Gull,Nov,Napa,4.8
+Mew Gull,Nov,Orange,2.1
+Mew Gull,Nov,Placer,1
+Mew Gull,Nov,Plumas,1
+Mew Gull,Nov,Riverside,1
+Mew Gull,Nov,Sacramento,2.5
+Mew Gull,Nov,San Benito,19.8
+Mew Gull,Nov,San Bernardino,1
+Mew Gull,Nov,San Diego,1.2
+Mew Gull,Nov,San Francisco,50.1
+Mew Gull,Nov,San Joaquin,2.2
+Mew Gull,Nov,San Luis Obispo,5.2
+Mew Gull,Nov,San Mateo,8.8
+Mew Gull,Nov,Santa Barbara,13.2
+Mew Gull,Nov,Santa Clara,4.5
+Mew Gull,Nov,Santa Cruz,13.8
+Mew Gull,Nov,Shasta,1
+Mew Gull,Nov,Solano,1.2
+Mew Gull,Nov,Sonoma,32.8
+Mew Gull,Nov,Stanislaus,1
+Mew Gull,Nov,Ventura,9.7
+Mew Gull,Nov,Yolo,1.3
+Mew Gull,Oct,Alameda,15.1
+Mew Gull,Oct,Contra Costa,3.5
+Mew Gull,Oct,Del Norte,14.2
+Mew Gull,Oct,Humboldt,10.5
+Mew Gull,Oct,Imperial,1
+Mew Gull,Oct,Kings,1
+Mew Gull,Oct,Lake,2
+Mew Gull,Oct,Los Angeles,1.2
+Mew Gull,Oct,Marin,6.4
+Mew Gull,Oct,Mendocino,3.5
+Mew Gull,Oct,Monterey,3.1
+Mew Gull,Oct,Napa,2
+Mew Gull,Oct,Orange,1.3
+Mew Gull,Oct,Riverside,1
+Mew Gull,Oct,Sacramento,1
+Mew Gull,Oct,San Diego,1
+Mew Gull,Oct,San Francisco,9
+Mew Gull,Oct,San Luis Obispo,2.7
+Mew Gull,Oct,San Mateo,4.7
+Mew Gull,Oct,Santa Barbara,2.4
+Mew Gull,Oct,Santa Clara,4.1
+Mew Gull,Oct,Santa Cruz,3.9
+Mew Gull,Oct,Solano,1
+Mew Gull,Oct,Sonoma,8.9
+Mew Gull,Oct,Stanislaus,2
+Mew Gull,Oct,Ventura,5
+Mew Gull,Oct,Yolo,1
+Mew Gull,Sep,Alameda,2.2
+Mew Gull,Sep,Contra Costa,1.3
+Mew Gull,Sep,Del Norte,1
+Mew Gull,Sep,Humboldt,1.1
+Mew Gull,Sep,Los Angeles,2
+Mew Gull,Sep,Marin,1.9
+Mew Gull,Sep,Mendocino,1.5
+Mew Gull,Sep,Monterey,1
+Mew Gull,Sep,Napa,1
+Mew Gull,Sep,Sacramento,1
+Mew Gull,Sep,San Diego,1
+Mew Gull,Sep,San Francisco,1.7
+Mew Gull,Sep,San Luis Obispo,1
+Mew Gull,Sep,San Mateo,1
+Mew Gull,Sep,Santa Barbara,1
+Mew Gull,Sep,Santa Clara,1.7
+Mew Gull,Sep,Santa Cruz,1
+Mew Gull,Sep,Sonoma,1.8
+Ring-billed Gull,Apr,Alameda,8.5
+Ring-billed Gull,Apr,Amador,41.7
+Ring-billed Gull,Apr,Butte,6.8
+Ring-billed Gull,Apr,Calaveras,8
+Ring-billed Gull,Apr,Colusa,16.3
+Ring-billed Gull,Apr,Contra Costa,6.9
+Ring-billed Gull,Apr,Del Norte,10.2
+Ring-billed Gull,Apr,El Dorado,2.8
+Ring-billed Gull,Apr,Fresno,4.1
+Ring-billed Gull,Apr,Glenn,4.4
+Ring-billed Gull,Apr,Humboldt,6.9
+Ring-billed Gull,Apr,Imperial,72.9
+Ring-billed Gull,Apr,Inyo,13.6
+Ring-billed Gull,Apr,Kern,5
+Ring-billed Gull,Apr,Kings,28.9
+Ring-billed Gull,Apr,Lake,3.7
+Ring-billed Gull,Apr,Lassen,28.3
+Ring-billed Gull,Apr,Los Angeles,8.1
+Ring-billed Gull,Apr,Madera,3.3
+Ring-billed Gull,Apr,Marin,6.6
+Ring-billed Gull,Apr,Mendocino,1.3
+Ring-billed Gull,Apr,Merced,5.9
+Ring-billed Gull,Apr,Modoc,72.4
+Ring-billed Gull,Apr,Mono,6.3
+Ring-billed Gull,Apr,Monterey,4.9
+Ring-billed Gull,Apr,Napa,27.5
+Ring-billed Gull,Apr,Nevada,1
+Ring-billed Gull,Apr,Orange,10.7
+Ring-billed Gull,Apr,Placer,15.2
+Ring-billed Gull,Apr,Plumas,41.6
+Ring-billed Gull,Apr,Riverside,57.3
+Ring-billed Gull,Apr,Sacramento,4.8
+Ring-billed Gull,Apr,San Benito,1
+Ring-billed Gull,Apr,San Bernardino,5.7
+Ring-billed Gull,Apr,San Diego,10.3
+Ring-billed Gull,Apr,San Francisco,2.2
+Ring-billed Gull,Apr,San Joaquin,64.6
+Ring-billed Gull,Apr,San Luis Obispo,7.8
+Ring-billed Gull,Apr,San Mateo,8.9
+Ring-billed Gull,Apr,Santa Barbara,6.1
+Ring-billed Gull,Apr,Santa Clara,8.9
+Ring-billed Gull,Apr,Santa Cruz,11.4
+Ring-billed Gull,Apr,Shasta,50.1
+Ring-billed Gull,Apr,Sierra,136.1
+Ring-billed Gull,Apr,Siskiyou,32.3
+Ring-billed Gull,Apr,Solano,12.6
+Ring-billed Gull,Apr,Sonoma,7.1
+Ring-billed Gull,Apr,Stanislaus,2.4
+Ring-billed Gull,Apr,Sutter,10.5
+Ring-billed Gull,Apr,Tehama,3.4
+Ring-billed Gull,Apr,Tulare,10.5
+Ring-billed Gull,Apr,Ventura,9.4
+Ring-billed Gull,Apr,Yolo,13
+Ring-billed Gull,Apr,Yuba,21.7
+Ring-billed Gull,Aug,Alameda,7.2
+Ring-billed Gull,Aug,Alpine,1.7
+Ring-billed Gull,Aug,Amador,1
+Ring-billed Gull,Aug,Butte,26.8
+Ring-billed Gull,Aug,Calaveras,3.3
+Ring-billed Gull,Aug,Colusa,25
+Ring-billed Gull,Aug,Contra Costa,5.4
+Ring-billed Gull,Aug,Del Norte,3.6
+Ring-billed Gull,Aug,El Dorado,3.2
+Ring-billed Gull,Aug,Fresno,2.6
+Ring-billed Gull,Aug,Glenn,6
+Ring-billed Gull,Aug,Humboldt,7.6
+Ring-billed Gull,Aug,Imperial,88.3
+Ring-billed Gull,Aug,Inyo,3.5
+Ring-billed Gull,Aug,Kern,2.8
+Ring-billed Gull,Aug,Kings,177.8
+Ring-billed Gull,Aug,Lake,2.3
+Ring-billed Gull,Aug,Lassen,12
+Ring-billed Gull,Aug,Los Angeles,4.8
+Ring-billed Gull,Aug,Marin,10
+Ring-billed Gull,Aug,Mendocino,1.5
+Ring-billed Gull,Aug,Merced,10.4
+Ring-billed Gull,Aug,Modoc,13.1
+Ring-billed Gull,Aug,Mono,7.3
+Ring-billed Gull,Aug,Monterey,3.3
+Ring-billed Gull,Aug,Napa,18.1
+Ring-billed Gull,Aug,Nevada,1.2
+Ring-billed Gull,Aug,Orange,6.7
+Ring-billed Gull,Aug,Placer,1.2
+Ring-billed Gull,Aug,Plumas,42.1
+Ring-billed Gull,Aug,Riverside,49.2
+Ring-billed Gull,Aug,Sacramento,1.8
+Ring-billed Gull,Aug,San Bernardino,3.1
+Ring-billed Gull,Aug,San Diego,3.6
+Ring-billed Gull,Aug,San Francisco,1.8
+Ring-billed Gull,Aug,San Joaquin,9.1
+Ring-billed Gull,Aug,San Luis Obispo,3.4
+Ring-billed Gull,Aug,San Mateo,7
+Ring-billed Gull,Aug,Santa Barbara,3.3
+Ring-billed Gull,Aug,Santa Clara,6.7
+Ring-billed Gull,Aug,Santa Cruz,3.7
+Ring-billed Gull,Aug,Shasta,25.5
+Ring-billed Gull,Aug,Sierra,16.6
+Ring-billed Gull,Aug,Siskiyou,27.1
+Ring-billed Gull,Aug,Solano,7
+Ring-billed Gull,Aug,Sonoma,9
+Ring-billed Gull,Aug,Stanislaus,3
+Ring-billed Gull,Aug,Sutter,1
+Ring-billed Gull,Aug,Tehama,8.5
+Ring-billed Gull,Aug,Trinity,2
+Ring-billed Gull,Aug,Tulare,108.4
+Ring-billed Gull,Aug,Ventura,5.5
+Ring-billed Gull,Aug,Yolo,12.6
+Ring-billed Gull,Aug,Yuba,1
+Ring-billed Gull,Dec,Alameda,26.2
+Ring-billed Gull,Dec,Alpine,3
+Ring-billed Gull,Dec,Amador,4.2
+Ring-billed Gull,Dec,Butte,22.3
+Ring-billed Gull,Dec,Calaveras,31.4
+Ring-billed Gull,Dec,Colusa,21.8
+Ring-billed Gull,Dec,Contra Costa,15.4
+Ring-billed Gull,Dec,Del Norte,6.6
+Ring-billed Gull,Dec,El Dorado,18.3
+Ring-billed Gull,Dec,Fresno,41.6
+Ring-billed Gull,Dec,Glenn,14.8
+Ring-billed Gull,Dec,Humboldt,15.9
+Ring-billed Gull,Dec,Imperial,754.5
+Ring-billed Gull,Dec,Inyo,2.5
+Ring-billed Gull,Dec,Kern,30.8
+Ring-billed Gull,Dec,Kings,300.4
+Ring-billed Gull,Dec,Lake,9.2
+Ring-billed Gull,Dec,Lassen,18.4
+Ring-billed Gull,Dec,Los Angeles,22.6
+Ring-billed Gull,Dec,Madera,5.1
+Ring-billed Gull,Dec,Marin,13.3
+Ring-billed Gull,Dec,Mendocino,4.5
+Ring-billed Gull,Dec,Merced,53.4
+Ring-billed Gull,Dec,Modoc,9.8
+Ring-billed Gull,Dec,Mono,8
+Ring-billed Gull,Dec,Monterey,10
+Ring-billed Gull,Dec,Napa,20.8
+Ring-billed Gull,Dec,Nevada,1.4
+Ring-billed Gull,Dec,Orange,15.7
+Ring-billed Gull,Dec,Placer,24
+Ring-billed Gull,Dec,Plumas,20.2
+Ring-billed Gull,Dec,Riverside,103.4
+Ring-billed Gull,Dec,Sacramento,10.2
+Ring-billed Gull,Dec,San Benito,8.6
+Ring-billed Gull,Dec,San Bernardino,26.8
+Ring-billed Gull,Dec,San Diego,15.7
+Ring-billed Gull,Dec,San Francisco,2.7
+Ring-billed Gull,Dec,San Joaquin,31.4
+Ring-billed Gull,Dec,San Luis Obispo,9.7
+Ring-billed Gull,Dec,San Mateo,13.5
+Ring-billed Gull,Dec,Santa Barbara,9.8
+Ring-billed Gull,Dec,Santa Clara,19.7
+Ring-billed Gull,Dec,Santa Cruz,10.9
+Ring-billed Gull,Dec,Shasta,28.4
+Ring-billed Gull,Dec,Sierra,1
+Ring-billed Gull,Dec,Siskiyou,6.8
+Ring-billed Gull,Dec,Solano,22.8
+Ring-billed Gull,Dec,Sonoma,19.2
+Ring-billed Gull,Dec,Stanislaus,78.7
+Ring-billed Gull,Dec,Sutter,44.8
+Ring-billed Gull,Dec,Tehama,5.9
+Ring-billed Gull,Dec,Trinity,1
+Ring-billed Gull,Dec,Tulare,34.9
+Ring-billed Gull,Dec,Tuolumne,1
+Ring-billed Gull,Dec,Ventura,21.3
+Ring-billed Gull,Dec,Yolo,13.3
+Ring-billed Gull,Dec,Yuba,35.2
+Ring-billed Gull,Feb,Alameda,27.4
+Ring-billed Gull,Feb,Amador,3.2
+Ring-billed Gull,Feb,Butte,12.9
+Ring-billed Gull,Feb,Calaveras,9.3
+Ring-billed Gull,Feb,Colusa,9.8
+Ring-billed Gull,Feb,Contra Costa,17.6
+Ring-billed Gull,Feb,Del Norte,14.9
+Ring-billed Gull,Feb,El Dorado,3.6
+Ring-billed Gull,Feb,Fresno,29
+Ring-billed Gull,Feb,Glenn,6
+Ring-billed Gull,Feb,Humboldt,16.6
+Ring-billed Gull,Feb,Imperial,712.9
+Ring-billed Gull,Feb,Inyo,7.2
+Ring-billed Gull,Feb,Kern,13.3
+Ring-billed Gull,Feb,Kings,99.3
+Ring-billed Gull,Feb,Lake,21.4
+Ring-billed Gull,Feb,Lassen,36
+Ring-billed Gull,Feb,Los Angeles,24.5
+Ring-billed Gull,Feb,Madera,6.5
+Ring-billed Gull,Feb,Marin,21.3
+Ring-billed Gull,Feb,Mariposa,1
+Ring-billed Gull,Feb,Mendocino,3.2
+Ring-billed Gull,Feb,Merced,145.2
+Ring-billed Gull,Feb,Modoc,5.3
+Ring-billed Gull,Feb,Mono,3.6
+Ring-billed Gull,Feb,Monterey,8.4
+Ring-billed Gull,Feb,Napa,21.6
+Ring-billed Gull,Feb,Nevada,1
+Ring-billed Gull,Feb,Orange,24.6
+Ring-billed Gull,Feb,Placer,37
+Ring-billed Gull,Feb,Plumas,15.3
+Ring-billed Gull,Feb,Riverside,87.6
+Ring-billed Gull,Feb,Sacramento,11.4
+Ring-billed Gull,Feb,San Benito,2.9
+Ring-billed Gull,Feb,San Bernardino,12.4
+Ring-billed Gull,Feb,San Diego,16.8
+Ring-billed Gull,Feb,San Francisco,3
+Ring-billed Gull,Feb,San Joaquin,38.3
+Ring-billed Gull,Feb,San Luis Obispo,7.5
+Ring-billed Gull,Feb,San Mateo,15
+Ring-billed Gull,Feb,Santa Barbara,10.3
+Ring-billed Gull,Feb,Santa Clara,18.4
+Ring-billed Gull,Feb,Santa Cruz,8
+Ring-billed Gull,Feb,Shasta,54.1
+Ring-billed Gull,Feb,Sierra,1
+Ring-billed Gull,Feb,Siskiyou,30.4
+Ring-billed Gull,Feb,Solano,17.3
+Ring-billed Gull,Feb,Sonoma,13.8
+Ring-billed Gull,Feb,Stanislaus,21.6
+Ring-billed Gull,Feb,Sutter,7.6
+Ring-billed Gull,Feb,Tehama,11.9
+Ring-billed Gull,Feb,Tulare,85.5
+Ring-billed Gull,Feb,Tuolumne,1
+Ring-billed Gull,Feb,Ventura,18.6
+Ring-billed Gull,Feb,Yolo,16.6
+Ring-billed Gull,Feb,Yuba,38
+Ring-billed Gull,Jan,Alameda,25.1
+Ring-billed Gull,Jan,Amador,4.4
+Ring-billed Gull,Jan,Butte,15
+Ring-billed Gull,Jan,Calaveras,5.3
+Ring-billed Gull,Jan,Colusa,21.6
+Ring-billed Gull,Jan,Contra Costa,18.8
+Ring-billed Gull,Jan,Del Norte,2.4
+Ring-billed Gull,Jan,El Dorado,7.1
+Ring-billed Gull,Jan,Fresno,27
+Ring-billed Gull,Jan,Glenn,9.3
+Ring-billed Gull,Jan,Humboldt,14.7
+Ring-billed Gull,Jan,Imperial,598.3
+Ring-billed Gull,Jan,Inyo,3.8
+Ring-billed Gull,Jan,Kern,17.7
+Ring-billed Gull,Jan,Kings,130.9
+Ring-billed Gull,Jan,Lake,12.4
+Ring-billed Gull,Jan,Lassen,7
+Ring-billed Gull,Jan,Los Angeles,22.1
+Ring-billed Gull,Jan,Madera,5.6
+Ring-billed Gull,Jan,Marin,19.8
+Ring-billed Gull,Jan,Mendocino,9.4
+Ring-billed Gull,Jan,Merced,71.8
+Ring-billed Gull,Jan,Mono,2
+Ring-billed Gull,Jan,Monterey,10
+Ring-billed Gull,Jan,Napa,15.7
+Ring-billed Gull,Jan,Nevada,1
+Ring-billed Gull,Jan,Orange,21.5
+Ring-billed Gull,Jan,Placer,42.2
+Ring-billed Gull,Jan,Plumas,9.7
+Ring-billed Gull,Jan,Riverside,116.6
+Ring-billed Gull,Jan,Sacramento,15.3
+Ring-billed Gull,Jan,San Benito,16.1
+Ring-billed Gull,Jan,San Bernardino,17
+Ring-billed Gull,Jan,San Diego,16.9
+Ring-billed Gull,Jan,San Francisco,3.2
+Ring-billed Gull,Jan,San Joaquin,28.8
+Ring-billed Gull,Jan,San Luis Obispo,9.1
+Ring-billed Gull,Jan,San Mateo,12.6
+Ring-billed Gull,Jan,Santa Barbara,9.7
+Ring-billed Gull,Jan,Santa Clara,19.1
+Ring-billed Gull,Jan,Santa Cruz,11.1
+Ring-billed Gull,Jan,Shasta,54.9
+Ring-billed Gull,Jan,Sierra,2
+Ring-billed Gull,Jan,Siskiyou,11.3
+Ring-billed Gull,Jan,Solano,22
+Ring-billed Gull,Jan,Sonoma,16.7
+Ring-billed Gull,Jan,Stanislaus,49.7
+Ring-billed Gull,Jan,Sutter,11.4
+Ring-billed Gull,Jan,Tehama,16.3
+Ring-billed Gull,Jan,Trinity,5
+Ring-billed Gull,Jan,Tulare,55.1
+Ring-billed Gull,Jan,Tuolumne,26
+Ring-billed Gull,Jan,Ventura,23.3
+Ring-billed Gull,Jan,Yolo,13.4
+Ring-billed Gull,Jan,Yuba,21.2
+Ring-billed Gull,Jul,Alameda,5.2
+Ring-billed Gull,Jul,Alpine,2.7
+Ring-billed Gull,Jul,Butte,24.3
+Ring-billed Gull,Jul,Calaveras,3
+Ring-billed Gull,Jul,Colusa,3
+Ring-billed Gull,Jul,Contra Costa,5.1
+Ring-billed Gull,Jul,Del Norte,4.6
+Ring-billed Gull,Jul,El Dorado,3
+Ring-billed Gull,Jul,Fresno,5
+Ring-billed Gull,Jul,Glenn,6.2
+Ring-billed Gull,Jul,Humboldt,6.3
+Ring-billed Gull,Jul,Imperial,48.1
+Ring-billed Gull,Jul,Inyo,7.2
+Ring-billed Gull,Jul,Kern,7.2
+Ring-billed Gull,Jul,Kings,58.8
+Ring-billed Gull,Jul,Lake,3
+Ring-billed Gull,Jul,Lassen,18.1
+Ring-billed Gull,Jul,Los Angeles,3.8
+Ring-billed Gull,Jul,Madera,2
+Ring-billed Gull,Jul,Marin,6.1
+Ring-billed Gull,Jul,Mendocino,1.3
+Ring-billed Gull,Jul,Merced,5.7
+Ring-billed Gull,Jul,Modoc,90.8
+Ring-billed Gull,Jul,Mono,4.4
+Ring-billed Gull,Jul,Monterey,3.3
+Ring-billed Gull,Jul,Napa,16
+Ring-billed Gull,Jul,Nevada,1.8
+Ring-billed Gull,Jul,Orange,5.5
+Ring-billed Gull,Jul,Placer,2.2
+Ring-billed Gull,Jul,Plumas,20.9
+Ring-billed Gull,Jul,Riverside,12.7
+Ring-billed Gull,Jul,Sacramento,1.9
+Ring-billed Gull,Jul,San Bernardino,5.5
+Ring-billed Gull,Jul,San Diego,2.9
+Ring-billed Gull,Jul,San Francisco,1.1
+Ring-billed Gull,Jul,San Joaquin,2.6
+Ring-billed Gull,Jul,San Luis Obispo,4.6
+Ring-billed Gull,Jul,San Mateo,4.5
+Ring-billed Gull,Jul,Santa Barbara,2.3
+Ring-billed Gull,Jul,Santa Clara,11.4
+Ring-billed Gull,Jul,Santa Cruz,2.8
+Ring-billed Gull,Jul,Shasta,6.6
+Ring-billed Gull,Jul,Sierra,5.7
+Ring-billed Gull,Jul,Siskiyou,39.7
+Ring-billed Gull,Jul,Solano,7
+Ring-billed Gull,Jul,Sonoma,6.7
+Ring-billed Gull,Jul,Stanislaus,2.3
+Ring-billed Gull,Jul,Sutter,1
+Ring-billed Gull,Jul,Tehama,3.5
+Ring-billed Gull,Jul,Tulare,45.7
+Ring-billed Gull,Jul,Ventura,4.6
+Ring-billed Gull,Jul,Yolo,14
+Ring-billed Gull,Jul,Yuba,1
+Ring-billed Gull,Jun,Alameda,4.2
+Ring-billed Gull,Jun,Alpine,2.5
+Ring-billed Gull,Jun,Amador,1
+Ring-billed Gull,Jun,Butte,27.3
+Ring-billed Gull,Jun,Colusa,6
+Ring-billed Gull,Jun,Contra Costa,6
+Ring-billed Gull,Jun,Del Norte,4.2
+Ring-billed Gull,Jun,El Dorado,1.5
+Ring-billed Gull,Jun,Fresno,22.3
+Ring-billed Gull,Jun,Glenn,3.6
+Ring-billed Gull,Jun,Humboldt,8
+Ring-billed Gull,Jun,Imperial,19.9
+Ring-billed Gull,Jun,Inyo,3
+Ring-billed Gull,Jun,Kern,4.5
+Ring-billed Gull,Jun,Kings,8.8
+Ring-billed Gull,Jun,Lassen,7.8
+Ring-billed Gull,Jun,Los Angeles,4
+Ring-billed Gull,Jun,Marin,5.7
+Ring-billed Gull,Jun,Merced,1
+Ring-billed Gull,Jun,Modoc,96.2
+Ring-billed Gull,Jun,Mono,4.1
+Ring-billed Gull,Jun,Monterey,2.6
+Ring-billed Gull,Jun,Napa,18
+Ring-billed Gull,Jun,Nevada,1.2
+Ring-billed Gull,Jun,Orange,4.8
+Ring-billed Gull,Jun,Placer,2
+Ring-billed Gull,Jun,Plumas,11.4
+Ring-billed Gull,Jun,Riverside,5.2
+Ring-billed Gull,Jun,Sacramento,3.4
+Ring-billed Gull,Jun,San Benito,1
+Ring-billed Gull,Jun,San Bernardino,3.1
+Ring-billed Gull,Jun,San Diego,2.4
+Ring-billed Gull,Jun,San Francisco,1
+Ring-billed Gull,Jun,San Joaquin,1.4
+Ring-billed Gull,Jun,San Luis Obispo,5.2
+Ring-billed Gull,Jun,San Mateo,2.8
+Ring-billed Gull,Jun,Santa Barbara,3.5
+Ring-billed Gull,Jun,Santa Clara,8.7
+Ring-billed Gull,Jun,Santa Cruz,3.4
+Ring-billed Gull,Jun,Shasta,1.6
+Ring-billed Gull,Jun,Sierra,5.8
+Ring-billed Gull,Jun,Siskiyou,14.2
+Ring-billed Gull,Jun,Solano,6.7
+Ring-billed Gull,Jun,Sonoma,8.2
+Ring-billed Gull,Jun,Stanislaus,2
+Ring-billed Gull,Jun,Tulare,4.5
+Ring-billed Gull,Jun,Ventura,5.5
+Ring-billed Gull,Jun,Yolo,17.4
+Ring-billed Gull,Mar,Alameda,19.5
+Ring-billed Gull,Mar,Amador,2.7
+Ring-billed Gull,Mar,Butte,7.1
+Ring-billed Gull,Mar,Calaveras,3
+Ring-billed Gull,Mar,Colusa,8.6
+Ring-billed Gull,Mar,Contra Costa,9
+Ring-billed Gull,Mar,Del Norte,4.8
+Ring-billed Gull,Mar,El Dorado,4.2
+Ring-billed Gull,Mar,Fresno,13.1
+Ring-billed Gull,Mar,Glenn,7.6
+Ring-billed Gull,Mar,Humboldt,9.2
+Ring-billed Gull,Mar,Imperial,258.1
+Ring-billed Gull,Mar,Inyo,7.5
+Ring-billed Gull,Mar,Kern,8.5
+Ring-billed Gull,Mar,Kings,58.8
+Ring-billed Gull,Mar,Lake,11.4
+Ring-billed Gull,Mar,Lassen,32.9
+Ring-billed Gull,Mar,Los Angeles,13.8
+Ring-billed Gull,Mar,Madera,12.2
+Ring-billed Gull,Mar,Marin,9.7
+Ring-billed Gull,Mar,Mendocino,2.4
+Ring-billed Gull,Mar,Merced,12.8
+Ring-billed Gull,Mar,Modoc,24.5
+Ring-billed Gull,Mar,Mono,6.5
+Ring-billed Gull,Mar,Monterey,7
+Ring-billed Gull,Mar,Napa,14.5
+Ring-billed Gull,Mar,Nevada,4
+Ring-billed Gull,Mar,Orange,13.6
+Ring-billed Gull,Mar,Placer,15.1
+Ring-billed Gull,Mar,Plumas,33.5
+Ring-billed Gull,Mar,Riverside,56.6
+Ring-billed Gull,Mar,Sacramento,12
+Ring-billed Gull,Mar,San Benito,5.3
+Ring-billed Gull,Mar,San Bernardino,10.7
+Ring-billed Gull,Mar,San Diego,13.9
+Ring-billed Gull,Mar,San Francisco,2.5
+Ring-billed Gull,Mar,San Joaquin,16.4
+Ring-billed Gull,Mar,San Luis Obispo,6.1
+Ring-billed Gull,Mar,San Mateo,13.9
+Ring-billed Gull,Mar,Santa Barbara,7.3
+Ring-billed Gull,Mar,Santa Clara,12.3
+Ring-billed Gull,Mar,Santa Cruz,6.2
+Ring-billed Gull,Mar,Shasta,63.1
+Ring-billed Gull,Mar,Sierra,120.1
+Ring-billed Gull,Mar,Siskiyou,38.3
+Ring-billed Gull,Mar,Solano,14
+Ring-billed Gull,Mar,Sonoma,9.3
+Ring-billed Gull,Mar,Stanislaus,16.5
+Ring-billed Gull,Mar,Sutter,36.6
+Ring-billed Gull,Mar,Tehama,24.9
+Ring-billed Gull,Mar,Trinity,1
+Ring-billed Gull,Mar,Tulare,36.4
+Ring-billed Gull,Mar,Tuolumne,2
+Ring-billed Gull,Mar,Ventura,10.6
+Ring-billed Gull,Mar,Yolo,11.7
+Ring-billed Gull,Mar,Yuba,26.1
+Ring-billed Gull,May,Alameda,6.4
+Ring-billed Gull,May,Amador,1.3
+Ring-billed Gull,May,Butte,7.2
+Ring-billed Gull,May,Calaveras,2
+Ring-billed Gull,May,Colusa,6.7
+Ring-billed Gull,May,Contra Costa,5.7
+Ring-billed Gull,May,Del Norte,7.4
+Ring-billed Gull,May,El Dorado,2
+Ring-billed Gull,May,Fresno,2.4
+Ring-billed Gull,May,Glenn,4.7
+Ring-billed Gull,May,Humboldt,5.9
+Ring-billed Gull,May,Imperial,38.7
+Ring-billed Gull,May,Inyo,5.1
+Ring-billed Gull,May,Kern,4.7
+Ring-billed Gull,May,Kings,6.9
+Ring-billed Gull,May,Lake,3
+Ring-billed Gull,May,Lassen,13.3
+Ring-billed Gull,May,Los Angeles,6.3
+Ring-billed Gull,May,Marin,6.4
+Ring-billed Gull,May,Mendocino,1.3
+Ring-billed Gull,May,Merced,4.5
+Ring-billed Gull,May,Modoc,86.8
+Ring-billed Gull,May,Mono,3.8
+Ring-billed Gull,May,Monterey,2.1
+Ring-billed Gull,May,Napa,11
+Ring-billed Gull,May,Nevada,1.7
+Ring-billed Gull,May,Orange,5.5
+Ring-billed Gull,May,Placer,13.9
+Ring-billed Gull,May,Plumas,32.1
+Ring-billed Gull,May,Riverside,47.3
+Ring-billed Gull,May,Sacramento,3.5
+Ring-billed Gull,May,San Bernardino,5.3
+Ring-billed Gull,May,San Diego,4
+Ring-billed Gull,May,San Francisco,1.9
+Ring-billed Gull,May,San Joaquin,6.3
+Ring-billed Gull,May,San Luis Obispo,18.5
+Ring-billed Gull,May,San Mateo,5.7
+Ring-billed Gull,May,Santa Barbara,5.4
+Ring-billed Gull,May,Santa Clara,8.2
+Ring-billed Gull,May,Santa Cruz,6.3
+Ring-billed Gull,May,Shasta,25.3
+Ring-billed Gull,May,Sierra,39.9
+Ring-billed Gull,May,Siskiyou,43.6
+Ring-billed Gull,May,Solano,11.9
+Ring-billed Gull,May,Sonoma,5.7
+Ring-billed Gull,May,Stanislaus,10.5
+Ring-billed Gull,May,Sutter,63.2
+Ring-billed Gull,May,Tehama,12.3
+Ring-billed Gull,May,Tulare,13.2
+Ring-billed Gull,May,Ventura,6.9
+Ring-billed Gull,May,Yolo,4.2
+Ring-billed Gull,Nov,Alameda,14.9
+Ring-billed Gull,Nov,Alpine,8.2
+Ring-billed Gull,Nov,Amador,3.2
+Ring-billed Gull,Nov,Butte,12.6
+Ring-billed Gull,Nov,Calaveras,2.7
+Ring-billed Gull,Nov,Colusa,15.5
+Ring-billed Gull,Nov,Contra Costa,10
+Ring-billed Gull,Nov,Del Norte,4.4
+Ring-billed Gull,Nov,El Dorado,9.2
+Ring-billed Gull,Nov,Fresno,64
+Ring-billed Gull,Nov,Glenn,20
+Ring-billed Gull,Nov,Humboldt,11.3
+Ring-billed Gull,Nov,Imperial,478.6
+Ring-billed Gull,Nov,Inyo,7.3
+Ring-billed Gull,Nov,Kern,13
+Ring-billed Gull,Nov,Kings,160
+Ring-billed Gull,Nov,Lake,3.3
+Ring-billed Gull,Nov,Lassen,9.7
+Ring-billed Gull,Nov,Los Angeles,15.3
+Ring-billed Gull,Nov,Madera,3.2
+Ring-billed Gull,Nov,Marin,12.4
+Ring-billed Gull,Nov,Mariposa,1
+Ring-billed Gull,Nov,Mendocino,3.1
+Ring-billed Gull,Nov,Merced,16.7
+Ring-billed Gull,Nov,Modoc,13.6
+Ring-billed Gull,Nov,Mono,16.6
+Ring-billed Gull,Nov,Monterey,37.9
+Ring-billed Gull,Nov,Napa,10.7
+Ring-billed Gull,Nov,Nevada,2.6
+Ring-billed Gull,Nov,Orange,12.9
+Ring-billed Gull,Nov,Placer,5.9
+Ring-billed Gull,Nov,Plumas,24.2
+Ring-billed Gull,Nov,Riverside,50.1
+Ring-billed Gull,Nov,Sacramento,5.4
+Ring-billed Gull,Nov,San Benito,3.6
+Ring-billed Gull,Nov,San Bernardino,21.4
+Ring-billed Gull,Nov,San Diego,8.8
+Ring-billed Gull,Nov,San Francisco,2.6
+Ring-billed Gull,Nov,San Joaquin,29.2
+Ring-billed Gull,Nov,San Luis Obispo,9.5
+Ring-billed Gull,Nov,San Mateo,12.4
+Ring-billed Gull,Nov,Santa Barbara,7.4
+Ring-billed Gull,Nov,Santa Clara,19.1
+Ring-billed Gull,Nov,Santa Cruz,6.9
+Ring-billed Gull,Nov,Shasta,13.9
+Ring-billed Gull,Nov,Sierra,1
+Ring-billed Gull,Nov,Siskiyou,7.4
+Ring-billed Gull,Nov,Solano,14.2
+Ring-billed Gull,Nov,Sonoma,17.9
+Ring-billed Gull,Nov,Stanislaus,18.7
+Ring-billed Gull,Nov,Sutter,8.4
+Ring-billed Gull,Nov,Tehama,8.5
+Ring-billed Gull,Nov,Trinity,3.6
+Ring-billed Gull,Nov,Tulare,18.8
+Ring-billed Gull,Nov,Tuolumne,1
+Ring-billed Gull,Nov,Ventura,11.6
+Ring-billed Gull,Nov,Yolo,9.6
+Ring-billed Gull,Nov,Yuba,19.6
+Ring-billed Gull,Oct,Alameda,10.8
+Ring-billed Gull,Oct,Alpine,7.5
+Ring-billed Gull,Oct,Amador,5.8
+Ring-billed Gull,Oct,Butte,12.6
+Ring-billed Gull,Oct,Calaveras,4
+Ring-billed Gull,Oct,Colusa,17.1
+Ring-billed Gull,Oct,Contra Costa,9.1
+Ring-billed Gull,Oct,Del Norte,3.6
+Ring-billed Gull,Oct,El Dorado,3.5
+Ring-billed Gull,Oct,Fresno,12.1
+Ring-billed Gull,Oct,Glenn,8.7
+Ring-billed Gull,Oct,Humboldt,8.5
+Ring-billed Gull,Oct,Imperial,157.5
+Ring-billed Gull,Oct,Inyo,3.3
+Ring-billed Gull,Oct,Kern,6.7
+Ring-billed Gull,Oct,Kings,108.5
+Ring-billed Gull,Oct,Lake,4.2
+Ring-billed Gull,Oct,Lassen,20.3
+Ring-billed Gull,Oct,Los Angeles,7.6
+Ring-billed Gull,Oct,Madera,7.5
+Ring-billed Gull,Oct,Marin,12.4
+Ring-billed Gull,Oct,Mendocino,1.5
+Ring-billed Gull,Oct,Merced,79.1
+Ring-billed Gull,Oct,Modoc,10.6
+Ring-billed Gull,Oct,Mono,9
+Ring-billed Gull,Oct,Monterey,4.1
+Ring-billed Gull,Oct,Napa,11.6
+Ring-billed Gull,Oct,Nevada,4
+Ring-billed Gull,Oct,Orange,5.8
+Ring-billed Gull,Oct,Placer,16.4
+Ring-billed Gull,Oct,Plumas,15.6
+Ring-billed Gull,Oct,Riverside,20.5
+Ring-billed Gull,Oct,Sacramento,5.3
+Ring-billed Gull,Oct,San Benito,1.3
+Ring-billed Gull,Oct,San Bernardino,11.7
+Ring-billed Gull,Oct,San Diego,5.4
+Ring-billed Gull,Oct,San Francisco,2.8
+Ring-billed Gull,Oct,San Joaquin,16.9
+Ring-billed Gull,Oct,San Luis Obispo,4.6
+Ring-billed Gull,Oct,San Mateo,8.4
+Ring-billed Gull,Oct,Santa Barbara,3.7
+Ring-billed Gull,Oct,Santa Clara,13.3
+Ring-billed Gull,Oct,Santa Cruz,5
+Ring-billed Gull,Oct,Shasta,6.3
+Ring-billed Gull,Oct,Sierra,2.5
+Ring-billed Gull,Oct,Siskiyou,36.6
+Ring-billed Gull,Oct,Solano,9.3
+Ring-billed Gull,Oct,Sonoma,13.4
+Ring-billed Gull,Oct,Stanislaus,4.7
+Ring-billed Gull,Oct,Sutter,35.1
+Ring-billed Gull,Oct,Tehama,4.2
+Ring-billed Gull,Oct,Trinity,6.8
+Ring-billed Gull,Oct,Tulare,17.5
+Ring-billed Gull,Oct,Ventura,5.2
+Ring-billed Gull,Oct,Yolo,7.4
+Ring-billed Gull,Oct,Yuba,9.7
+Ring-billed Gull,Sep,Alameda,10.8
+Ring-billed Gull,Sep,Alpine,1.5
+Ring-billed Gull,Sep,Amador,4.2
+Ring-billed Gull,Sep,Butte,13.3
+Ring-billed Gull,Sep,Calaveras,3
+Ring-billed Gull,Sep,Colusa,15.2
+Ring-billed Gull,Sep,Contra Costa,12.9
+Ring-billed Gull,Sep,Del Norte,4
+Ring-billed Gull,Sep,El Dorado,2.9
+Ring-billed Gull,Sep,Fresno,4.9
+Ring-billed Gull,Sep,Glenn,38.7
+Ring-billed Gull,Sep,Humboldt,7.3
+Ring-billed Gull,Sep,Imperial,140.9
+Ring-billed Gull,Sep,Inyo,4
+Ring-billed Gull,Sep,Kern,3.9
+Ring-billed Gull,Sep,Kings,119.3
+Ring-billed Gull,Sep,Lake,3.7
+Ring-billed Gull,Sep,Lassen,10.2
+Ring-billed Gull,Sep,Los Angeles,4.4
+Ring-billed Gull,Sep,Madera,2
+Ring-billed Gull,Sep,Marin,9.3
+Ring-billed Gull,Sep,Mendocino,1.5
+Ring-billed Gull,Sep,Merced,12.5
+Ring-billed Gull,Sep,Modoc,35
+Ring-billed Gull,Sep,Mono,10.2
+Ring-billed Gull,Sep,Monterey,10.8
+Ring-billed Gull,Sep,Napa,23
+Ring-billed Gull,Sep,Nevada,2.4
+Ring-billed Gull,Sep,Orange,6.3
+Ring-billed Gull,Sep,Placer,2.1
+Ring-billed Gull,Sep,Plumas,31.2
+Ring-billed Gull,Sep,Riverside,34.4
+Ring-billed Gull,Sep,Sacramento,2
+Ring-billed Gull,Sep,San Bernardino,4.7
+Ring-billed Gull,Sep,San Diego,4.5
+Ring-billed Gull,Sep,San Francisco,2.3
+Ring-billed Gull,Sep,San Joaquin,16.9
+Ring-billed Gull,Sep,San Luis Obispo,3.6
+Ring-billed Gull,Sep,San Mateo,9.3
+Ring-billed Gull,Sep,Santa Barbara,2.9
+Ring-billed Gull,Sep,Santa Clara,12.7
+Ring-billed Gull,Sep,Santa Cruz,4.5
+Ring-billed Gull,Sep,Shasta,11.2
+Ring-billed Gull,Sep,Sierra,6
+Ring-billed Gull,Sep,Siskiyou,26.4
+Ring-billed Gull,Sep,Solano,21.2
+Ring-billed Gull,Sep,Sonoma,9.2
+Ring-billed Gull,Sep,Stanislaus,40.7
+Ring-billed Gull,Sep,Sutter,24.9
+Ring-billed Gull,Sep,Tehama,8.4
+Ring-billed Gull,Sep,Trinity,2.8
+Ring-billed Gull,Sep,Tulare,42.3
+Ring-billed Gull,Sep,Tuolumne,5
+Ring-billed Gull,Sep,Ventura,5
+Ring-billed Gull,Sep,Yolo,11.6
+Ring-billed Gull,Sep,Yuba,1.8
+Ross's Gull,Jan,San Mateo,1
+Ross's Gull,Nov,Imperial,1
+Sabine's Gull,Apr,Del Norte,9.5
+Sabine's Gull,Apr,Humboldt,28.3
+Sabine's Gull,Apr,Los Angeles,1.6
+Sabine's Gull,Apr,Marin,1
+Sabine's Gull,Apr,Mendocino,9.6
+Sabine's Gull,Apr,Monterey,21.2
+Sabine's Gull,Apr,San Diego,1.5
+Sabine's Gull,Apr,San Francisco,17.7
+Sabine's Gull,Apr,San Luis Obispo,8
+Sabine's Gull,Apr,San Mateo,21.8
+Sabine's Gull,Apr,Santa Barbara,8.9
+Sabine's Gull,Apr,Sonoma,4
+Sabine's Gull,Apr,Ventura,501.2
+Sabine's Gull,Apr,Yolo,1
+Sabine's Gull,Aug,Humboldt,8.6
+Sabine's Gull,Aug,Inyo,1
+Sabine's Gull,Aug,Kern,1
+Sabine's Gull,Aug,Los Angeles,1
+Sabine's Gull,Aug,Marin,6.1
+Sabine's Gull,Aug,Mendocino,18.6
+Sabine's Gull,Aug,Mono,1.2
+Sabine's Gull,Aug,Monterey,10.8
+Sabine's Gull,Aug,Orange,7
+Sabine's Gull,Aug,Plumas,1
+Sabine's Gull,Aug,San Diego,1.8
+Sabine's Gull,Aug,San Francisco,10.2
+Sabine's Gull,Aug,San Luis Obispo,5.6
+Sabine's Gull,Aug,San Mateo,13.7
+Sabine's Gull,Aug,Santa Barbara,1
+Sabine's Gull,Aug,Santa Cruz,19.5
+Sabine's Gull,Aug,Solano,1
+Sabine's Gull,Aug,Sonoma,6
+Sabine's Gull,Aug,Ventura,3
+Sabine's Gull,Dec,Del Norte,1
+Sabine's Gull,Jul,Humboldt,3
+Sabine's Gull,Jul,Marin,1
+Sabine's Gull,Jul,Mendocino,2
+Sabine's Gull,Jul,Monterey,33.9
+Sabine's Gull,Jul,Riverside,1
+Sabine's Gull,Jul,San Diego,1.5
+Sabine's Gull,Jul,San Francisco,30
+Sabine's Gull,Jul,San Luis Obispo,65.8
+Sabine's Gull,Jul,San Mateo,5
+Sabine's Gull,Jul,Santa Barbara,1.8
+Sabine's Gull,Jul,Santa Cruz,158.9
+Sabine's Gull,Jul,Sonoma,85
+Sabine's Gull,Jul,Ventura,2
+Sabine's Gull,Jun,Humboldt,3
+Sabine's Gull,Jun,San Francisco,1.5
+Sabine's Gull,Jun,Ventura,2
+Sabine's Gull,Mar,Los Angeles,1
+Sabine's Gull,Mar,Marin,21.3
+Sabine's Gull,Mar,Mendocino,2
+Sabine's Gull,Mar,Monterey,3
+Sabine's Gull,Mar,San Francisco,5
+Sabine's Gull,Mar,San Mateo,1.7
+Sabine's Gull,May,Del Norte,4.3
+Sabine's Gull,May,Humboldt,8.1
+Sabine's Gull,May,Kern,1
+Sabine's Gull,May,Kings,1
+Sabine's Gull,May,Los Angeles,3
+Sabine's Gull,May,Marin,2.5
+Sabine's Gull,May,Mendocino,41
+Sabine's Gull,May,Modoc,1
+Sabine's Gull,May,Monterey,14
+Sabine's Gull,May,Orange,1
+Sabine's Gull,May,San Bernardino,1
+Sabine's Gull,May,San Diego,2.6
+Sabine's Gull,May,San Francisco,9.9
+Sabine's Gull,May,San Luis Obispo,1.8
+Sabine's Gull,May,San Mateo,4.3
+Sabine's Gull,May,Santa Barbara,13.8
+Sabine's Gull,May,Santa Cruz,2.6
+Sabine's Gull,May,Siskiyou,1
+Sabine's Gull,May,Sonoma,3
+Sabine's Gull,May,Ventura,4.8
+Sabine's Gull,Nov,Del Norte,3
+Sabine's Gull,Nov,Humboldt,1
+Sabine's Gull,Nov,Inyo,1
+Sabine's Gull,Nov,Los Angeles,1
+Sabine's Gull,Nov,Monterey,1
+Sabine's Gull,Nov,San Diego,1.4
+Sabine's Gull,Nov,Santa Barbara,1.5
+Sabine's Gull,Oct,Butte,1.1
+Sabine's Gull,Oct,Contra Costa,1
+Sabine's Gull,Oct,El Dorado,1
+Sabine's Gull,Oct,Fresno,1
+Sabine's Gull,Oct,Humboldt,1.4
+Sabine's Gull,Oct,Imperial,2.7
+Sabine's Gull,Oct,Inyo,1
+Sabine's Gull,Oct,Kern,2
+Sabine's Gull,Oct,Kings,1
+Sabine's Gull,Oct,Los Angeles,1.5
+Sabine's Gull,Oct,Marin,6.1
+Sabine's Gull,Oct,Mendocino,2
+Sabine's Gull,Oct,Merced,1
+Sabine's Gull,Oct,Mono,1.4
+Sabine's Gull,Oct,Monterey,2.9
+Sabine's Gull,Oct,Placer,1.7
+Sabine's Gull,Oct,Riverside,1.1
+Sabine's Gull,Oct,Sacramento,1
+Sabine's Gull,Oct,San Bernardino,2.1
+Sabine's Gull,Oct,San Diego,4
+Sabine's Gull,Oct,San Francisco,3.8
+Sabine's Gull,Oct,San Luis Obispo,1.4
+Sabine's Gull,Oct,San Mateo,8
+Sabine's Gull,Oct,Santa Barbara,2
+Sabine's Gull,Oct,Santa Clara,1
+Sabine's Gull,Oct,Santa Cruz,7
+Sabine's Gull,Oct,Sonoma,2.2
+Sabine's Gull,Oct,Ventura,1
+Sabine's Gull,Oct,Yolo,1
+Sabine's Gull,Sep,Alameda,1.3
+Sabine's Gull,Sep,Alpine,1
+Sabine's Gull,Sep,Butte,1
+Sabine's Gull,Sep,Contra Costa,1
+Sabine's Gull,Sep,Del Norte,1
+Sabine's Gull,Sep,El Dorado,1
+Sabine's Gull,Sep,Fresno,1.7
+Sabine's Gull,Sep,Humboldt,19.9
+Sabine's Gull,Sep,Imperial,1
+Sabine's Gull,Sep,Inyo,1.5
+Sabine's Gull,Sep,Kern,1.4
+Sabine's Gull,Sep,Kings,1.1
+Sabine's Gull,Sep,Lake,1.3
+Sabine's Gull,Sep,Lassen,1
+Sabine's Gull,Sep,Los Angeles,2.8
+Sabine's Gull,Sep,Madera,2
+Sabine's Gull,Sep,Marin,4.2
+Sabine's Gull,Sep,Mendocino,14.3
+Sabine's Gull,Sep,Merced,1
+Sabine's Gull,Sep,Mono,1.8
+Sabine's Gull,Sep,Monterey,4.2
+Sabine's Gull,Sep,Napa,1
+Sabine's Gull,Sep,Orange,1.1
+Sabine's Gull,Sep,Placer,4.8
+Sabine's Gull,Sep,Plumas,1
+Sabine's Gull,Sep,Riverside,1.4
+Sabine's Gull,Sep,Sacramento,1.2
+Sabine's Gull,Sep,San Benito,1
+Sabine's Gull,Sep,San Bernardino,1.3
+Sabine's Gull,Sep,San Diego,3.1
+Sabine's Gull,Sep,San Francisco,2.3
+Sabine's Gull,Sep,San Joaquin,1
+Sabine's Gull,Sep,San Luis Obispo,1.6
+Sabine's Gull,Sep,San Mateo,4
+Sabine's Gull,Sep,Santa Barbara,1.9
+Sabine's Gull,Sep,Santa Clara,1
+Sabine's Gull,Sep,Santa Cruz,4.8
+Sabine's Gull,Sep,Shasta,1
+Sabine's Gull,Sep,Sierra,2
+Sabine's Gull,Sep,Solano,1
+Sabine's Gull,Sep,Sonoma,4.4
+Sabine's Gull,Sep,Stanislaus,1
+Sabine's Gull,Sep,Tulare,1.8
+Sabine's Gull,Sep,Ventura,1.2
+Sabine's Gull,Sep,Yolo,1
+Slaty-backed Gull,Dec,Del Norte,1
+Slaty-backed Gull,Dec,San Mateo,1
+Slaty-backed Gull,Feb,Contra Costa,1
+Slaty-backed Gull,Feb,Del Norte,1
+Slaty-backed Gull,Feb,Humboldt,1
+Slaty-backed Gull,Feb,Los Angeles,1
+Slaty-backed Gull,Feb,Marin,1.5
+Slaty-backed Gull,Feb,Monterey,1
+Slaty-backed Gull,Feb,San Francisco,1.4
+Slaty-backed Gull,Feb,San Joaquin,1
+Slaty-backed Gull,Feb,San Mateo,1.3
+Slaty-backed Gull,Feb,Santa Clara,1
+Slaty-backed Gull,Feb,Solano,1
+Slaty-backed Gull,Feb,Sonoma,1
+Slaty-backed Gull,Feb,Yolo,1
+Slaty-backed Gull,Jan,Alameda,1
+Slaty-backed Gull,Jan,Contra Costa,1
+Slaty-backed Gull,Jan,Humboldt,1
+Slaty-backed Gull,Jan,Los Angeles,1
+Slaty-backed Gull,Jan,Marin,1
+Slaty-backed Gull,Jan,Monterey,1
+Slaty-backed Gull,Jan,San Mateo,1
+Slaty-backed Gull,Jan,Santa Clara,1
+Slaty-backed Gull,Jan,Solano,1
+Slaty-backed Gull,Mar,Del Norte,1.2
+Slaty-backed Gull,Mar,Monterey,1
+Slaty-backed Gull,Mar,San Mateo,1.1
+Slaty-backed Gull,Mar,Santa Clara,1
+Slaty-backed Gull,Mar,Solano,1
+Slaty-backed Gull,Mar,Sonoma,1
+Slaty-backed Gull,Mar,Yolo,1
+Slaty-backed Gull,Nov,Alameda,1
+Western Gull,Apr,Alameda,9.9
+Western Gull,Apr,Contra Costa,11.2
+Western Gull,Apr,Del Norte,38.6
+Western Gull,Apr,Humboldt,10.7
+Western Gull,Apr,Imperial,1.1
+Western Gull,Apr,Kern,1
+Western Gull,Apr,Los Angeles,18.8
+Western Gull,Apr,Marin,14
+Western Gull,Apr,Mendocino,17.4
+Western Gull,Apr,Monterey,27.5
+Western Gull,Apr,Napa,3.6
+Western Gull,Apr,Orange,16.1
+Western Gull,Apr,Riverside,1.3
+Western Gull,Apr,Sacramento,1.2
+Western Gull,Apr,San Bernardino,1
+Western Gull,Apr,San Diego,15.6
+Western Gull,Apr,San Francisco,28.4
+Western Gull,Apr,San Joaquin,8.2
+Western Gull,Apr,San Luis Obispo,23.8
+Western Gull,Apr,San Mateo,26.9
+Western Gull,Apr,Santa Barbara,17.9
+Western Gull,Apr,Santa Clara,5.4
+Western Gull,Apr,Santa Cruz,25.3
+Western Gull,Apr,Solano,6.1
+Western Gull,Apr,Sonoma,21.3
+Western Gull,Apr,Stanislaus,44.2
+Western Gull,Apr,Ventura,37.3
+Western Gull,Apr,Yolo,1.5
+Western Gull,Aug,Alameda,10
+Western Gull,Aug,Contra Costa,17.4
+Western Gull,Aug,Del Norte,30
+Western Gull,Aug,Humboldt,19.6
+Western Gull,Aug,Imperial,1.7
+Western Gull,Aug,Inyo,1
+Western Gull,Aug,Kings,1
+Western Gull,Aug,Los Angeles,32.8
+Western Gull,Aug,Marin,29.3
+Western Gull,Aug,Mendocino,23.7
+Western Gull,Aug,Merced,1
+Western Gull,Aug,Monterey,36.1
+Western Gull,Aug,Napa,3.9
+Western Gull,Aug,Orange,27.7
+Western Gull,Aug,Riverside,1.5
+Western Gull,Aug,Sacramento,2.3
+Western Gull,Aug,San Diego,28.5
+Western Gull,Aug,San Francisco,77.9
+Western Gull,Aug,San Joaquin,5.7
+Western Gull,Aug,San Luis Obispo,35.9
+Western Gull,Aug,San Mateo,61.5
+Western Gull,Aug,Santa Barbara,29.4
+Western Gull,Aug,Santa Clara,2.4
+Western Gull,Aug,Santa Cruz,34.8
+Western Gull,Aug,Solano,6.4
+Western Gull,Aug,Sonoma,26.6
+Western Gull,Aug,Ventura,38.9
+Western Gull,Aug,Yolo,1
+Western Gull,Dec,Alameda,16.2
+Western Gull,Dec,Contra Costa,13.9
+Western Gull,Dec,Del Norte,32.1
+Western Gull,Dec,Humboldt,14.5
+Western Gull,Dec,Imperial,1.5
+Western Gull,Dec,Kern,1
+Western Gull,Dec,Kings,1
+Western Gull,Dec,Lake,1
+Western Gull,Dec,Lassen,1.5
+Western Gull,Dec,Los Angeles,38.4
+Western Gull,Dec,Marin,19.9
+Western Gull,Dec,Mendocino,16.8
+Western Gull,Dec,Merced,1
+Western Gull,Dec,Monterey,51.2
+Western Gull,Dec,Napa,6.3
+Western Gull,Dec,Orange,26.4
+Western Gull,Dec,Riverside,1.6
+Western Gull,Dec,Sacramento,1.1
+Western Gull,Dec,San Bernardino,1
+Western Gull,Dec,San Diego,20.3
+Western Gull,Dec,San Francisco,48.3
+Western Gull,Dec,San Joaquin,4.9
+Western Gull,Dec,San Luis Obispo,21
+Western Gull,Dec,San Mateo,51.7
+Western Gull,Dec,Santa Barbara,17.4
+Western Gull,Dec,Santa Clara,12.1
+Western Gull,Dec,Santa Cruz,52.7
+Western Gull,Dec,Shasta,1
+Western Gull,Dec,Solano,5.7
+Western Gull,Dec,Sonoma,24.1
+Western Gull,Dec,Stanislaus,10
+Western Gull,Dec,Ventura,36
+Western Gull,Dec,Yolo,1.1
+Western Gull,Feb,Alameda,14.8
+Western Gull,Feb,Contra Costa,27.8
+Western Gull,Feb,Del Norte,33.9
+Western Gull,Feb,Fresno,1
+Western Gull,Feb,Humboldt,11.7
+Western Gull,Feb,Imperial,1.5
+Western Gull,Feb,Lake,1.3
+Western Gull,Feb,Los Angeles,32.9
+Western Gull,Feb,Marin,18.7
+Western Gull,Feb,Mendocino,17.4
+Western Gull,Feb,Merced,1.3
+Western Gull,Feb,Monterey,34.4
+Western Gull,Feb,Napa,2.8
+Western Gull,Feb,Orange,20.5
+Western Gull,Feb,Placer,1
+Western Gull,Feb,Riverside,1.5
+Western Gull,Feb,Sacramento,1.1
+Western Gull,Feb,San Benito,1
+Western Gull,Feb,San Bernardino,1
+Western Gull,Feb,San Diego,18.5
+Western Gull,Feb,San Francisco,34.3
+Western Gull,Feb,San Joaquin,3.1
+Western Gull,Feb,San Luis Obispo,23.7
+Western Gull,Feb,San Mateo,71.7
+Western Gull,Feb,Santa Barbara,14.9
+Western Gull,Feb,Santa Clara,7.5
+Western Gull,Feb,Santa Cruz,37.6
+Western Gull,Feb,Shasta,1
+Western Gull,Feb,Solano,7
+Western Gull,Feb,Sonoma,33
+Western Gull,Feb,Ventura,47
+Western Gull,Feb,Yolo,1.3
+Western Gull,Jan,Alameda,14
+Western Gull,Jan,Contra Costa,25.2
+Western Gull,Jan,Del Norte,32.6
+Western Gull,Jan,Humboldt,14.9
+Western Gull,Jan,Imperial,1.5
+Western Gull,Jan,Kings,1
+Western Gull,Jan,Lake,1
+Western Gull,Jan,Los Angeles,32.2
+Western Gull,Jan,Marin,29
+Western Gull,Jan,Mendocino,18.1
+Western Gull,Jan,Merced,1
+Western Gull,Jan,Monterey,53.3
+Western Gull,Jan,Napa,5.1
+Western Gull,Jan,Orange,23.3
+Western Gull,Jan,Placer,1
+Western Gull,Jan,Riverside,1.9
+Western Gull,Jan,Sacramento,1
+Western Gull,Jan,San Benito,1
+Western Gull,Jan,San Bernardino,1
+Western Gull,Jan,San Diego,18.5
+Western Gull,Jan,San Francisco,40.3
+Western Gull,Jan,San Joaquin,5.9
+Western Gull,Jan,San Luis Obispo,25.8
+Western Gull,Jan,San Mateo,54.2
+Western Gull,Jan,Santa Barbara,17.5
+Western Gull,Jan,Santa Clara,8
+Western Gull,Jan,Santa Cruz,44.6
+Western Gull,Jan,Shasta,1.1
+Western Gull,Jan,Solano,4.8
+Western Gull,Jan,Sonoma,26
+Western Gull,Jan,Stanislaus,1.5
+Western Gull,Jan,Ventura,36.7
+Western Gull,Jan,Yolo,1.1
+Western Gull,Jul,Alameda,9.4
+Western Gull,Jul,Contra Costa,12
+Western Gull,Jul,Del Norte,31.7
+Western Gull,Jul,Humboldt,19.8
+Western Gull,Jul,Imperial,1.5
+Western Gull,Jul,Kings,1
+Western Gull,Jul,Los Angeles,21.6
+Western Gull,Jul,Marin,21.3
+Western Gull,Jul,Mendocino,28.1
+Western Gull,Jul,Monterey,34.7
+Western Gull,Jul,Napa,5.3
+Western Gull,Jul,Orange,26.8
+Western Gull,Jul,Riverside,2.5
+Western Gull,Jul,Sacramento,1
+Western Gull,Jul,San Diego,24.2
+Western Gull,Jul,San Francisco,55
+Western Gull,Jul,San Joaquin,1.5
+Western Gull,Jul,San Luis Obispo,33.3
+Western Gull,Jul,San Mateo,42.8
+Western Gull,Jul,Santa Barbara,30.8
+Western Gull,Jul,Santa Clara,1.7
+Western Gull,Jul,Santa Cruz,33
+Western Gull,Jul,Solano,5.5
+Western Gull,Jul,Sonoma,24.5
+Western Gull,Jul,Stanislaus,17.5
+Western Gull,Jul,Ventura,50.9
+Western Gull,Jul,Yolo,1.2
+Western Gull,Jun,Alameda,10.7
+Western Gull,Jun,Contra Costa,13.4
+Western Gull,Jun,Del Norte,32.5
+Western Gull,Jun,Humboldt,16.2
+Western Gull,Jun,Imperial,1.5
+Western Gull,Jun,Kings,1
+Western Gull,Jun,Los Angeles,21.1
+Western Gull,Jun,Marin,16.4
+Western Gull,Jun,Mendocino,19.8
+Western Gull,Jun,Monterey,25.9
+Western Gull,Jun,Napa,7.8
+Western Gull,Jun,Orange,19
+Western Gull,Jun,Plumas,1
+Western Gull,Jun,Riverside,3
+Western Gull,Jun,Sacramento,1
+Western Gull,Jun,San Diego,21.3
+Western Gull,Jun,San Francisco,31.2
+Western Gull,Jun,San Joaquin,3
+Western Gull,Jun,San Luis Obispo,27.8
+Western Gull,Jun,San Mateo,35.1
+Western Gull,Jun,Santa Barbara,26
+Western Gull,Jun,Santa Clara,16.7
+Western Gull,Jun,Santa Cruz,27.8
+Western Gull,Jun,Solano,9.9
+Western Gull,Jun,Sonoma,18.8
+Western Gull,Jun,Ventura,41.2
+Western Gull,Jun,Yolo,1
+Western Gull,Mar,Alameda,14.8
+Western Gull,Mar,Contra Costa,8.7
+Western Gull,Mar,Del Norte,38.9
+Western Gull,Mar,Fresno,1
+Western Gull,Mar,Humboldt,10.7
+Western Gull,Mar,Imperial,1.3
+Western Gull,Mar,Lake,1.2
+Western Gull,Mar,Los Angeles,24.9
+Western Gull,Mar,Marin,14.5
+Western Gull,Mar,Mendocino,14
+Western Gull,Mar,Merced,1
+Western Gull,Mar,Monterey,28.8
+Western Gull,Mar,Napa,4.9
+Western Gull,Mar,Orange,19
+Western Gull,Mar,Placer,1
+Western Gull,Mar,Riverside,1.4
+Western Gull,Mar,Sacramento,1.1
+Western Gull,Mar,San Bernardino,1
+Western Gull,Mar,San Diego,18.2
+Western Gull,Mar,San Francisco,29.9
+Western Gull,Mar,San Joaquin,26.6
+Western Gull,Mar,San Luis Obispo,24.6
+Western Gull,Mar,San Mateo,39.2
+Western Gull,Mar,Santa Barbara,17.6
+Western Gull,Mar,Santa Clara,8.2
+Western Gull,Mar,Santa Cruz,30.8
+Western Gull,Mar,Shasta,1
+Western Gull,Mar,Solano,7.3
+Western Gull,Mar,Sonoma,17.4
+Western Gull,Mar,Stanislaus,2
+Western Gull,Mar,Ventura,49.4
+Western Gull,Mar,Yolo,1.3
+Western Gull,May,Alameda,11.1
+Western Gull,May,Contra Costa,18.9
+Western Gull,May,Del Norte,56.8
+Western Gull,May,Humboldt,13.4
+Western Gull,May,Imperial,1.3
+Western Gull,May,Inyo,1
+Western Gull,May,Kern,1
+Western Gull,May,Los Angeles,17.6
+Western Gull,May,Marin,15.5
+Western Gull,May,Mendocino,16
+Western Gull,May,Monterey,30.9
+Western Gull,May,Napa,4.2
+Western Gull,May,Orange,16.6
+Western Gull,May,Riverside,3.4
+Western Gull,May,Sacramento,1
+Western Gull,May,San Bernardino,1
+Western Gull,May,San Diego,16.2
+Western Gull,May,San Francisco,26.7
+Western Gull,May,San Joaquin,1.6
+Western Gull,May,San Luis Obispo,22.5
+Western Gull,May,San Mateo,40.7
+Western Gull,May,Santa Barbara,24.3
+Western Gull,May,Santa Clara,1.8
+Western Gull,May,Santa Cruz,25.8
+Western Gull,May,Solano,8.3
+Western Gull,May,Sonoma,20.4
+Western Gull,May,Stanislaus,50.5
+Western Gull,May,Ventura,40.2
+Western Gull,May,Yolo,1
+Western Gull,Nov,Alameda,12.2
+Western Gull,Nov,Colusa,1
+Western Gull,Nov,Contra Costa,11.7
+Western Gull,Nov,Del Norte,29.1
+Western Gull,Nov,Humboldt,15.1
+Western Gull,Nov,Imperial,1.5
+Western Gull,Nov,Inyo,2
+Western Gull,Nov,Lake,1.3
+Western Gull,Nov,Lassen,1
+Western Gull,Nov,Los Angeles,32.5
+Western Gull,Nov,Marin,23.6
+Western Gull,Nov,Mendocino,11.8
+Western Gull,Nov,Merced,1
+Western Gull,Nov,Mono,1
+Western Gull,Nov,Monterey,44.7
+Western Gull,Nov,Napa,5.4
+Western Gull,Nov,Orange,23.3
+Western Gull,Nov,Plumas,1
+Western Gull,Nov,Riverside,1.8
+Western Gull,Nov,Sacramento,1.1
+Western Gull,Nov,San Bernardino,1
+Western Gull,Nov,San Diego,21.2
+Western Gull,Nov,San Francisco,47.7
+Western Gull,Nov,San Joaquin,16.1
+Western Gull,Nov,San Luis Obispo,28.7
+Western Gull,Nov,San Mateo,40
+Western Gull,Nov,Santa Barbara,20.3
+Western Gull,Nov,Santa Clara,7.4
+Western Gull,Nov,Santa Cruz,86.7
+Western Gull,Nov,Shasta,1
+Western Gull,Nov,Solano,6.8
+Western Gull,Nov,Sonoma,25.7
+Western Gull,Nov,Stanislaus,113.5
+Western Gull,Nov,Ventura,35.4
+Western Gull,Nov,Yolo,1.1
+Western Gull,Oct,Alameda,13.9
+Western Gull,Oct,Contra Costa,15.7
+Western Gull,Oct,Del Norte,27.9
+Western Gull,Oct,Humboldt,14.9
+Western Gull,Oct,Imperial,1.7
+Western Gull,Oct,Kings,1
+Western Gull,Oct,Lake,1
+Western Gull,Oct,Lassen,1
+Western Gull,Oct,Los Angeles,27.9
+Western Gull,Oct,Marin,17.8
+Western Gull,Oct,Mendocino,19.2
+Western Gull,Oct,Merced,1
+Western Gull,Oct,Monterey,41.6
+Western Gull,Oct,Napa,7.3
+Western Gull,Oct,Orange,20.3
+Western Gull,Oct,Riverside,1.6
+Western Gull,Oct,Sacramento,4
+Western Gull,Oct,San Diego,23.5
+Western Gull,Oct,San Francisco,39
+Western Gull,Oct,San Joaquin,6
+Western Gull,Oct,San Luis Obispo,23.8
+Western Gull,Oct,San Mateo,41.9
+Western Gull,Oct,Santa Barbara,20.2
+Western Gull,Oct,Santa Clara,11.8
+Western Gull,Oct,Santa Cruz,68.8
+Western Gull,Oct,Shasta,1
+Western Gull,Oct,Solano,5.1
+Western Gull,Oct,Sonoma,26.7
+Western Gull,Oct,Ventura,26
+Western Gull,Oct,Yolo,1
+Western Gull,Sep,Alameda,12.7
+Western Gull,Sep,Contra Costa,15.6
+Western Gull,Sep,Del Norte,24.6
+Western Gull,Sep,Humboldt,12.7
+Western Gull,Sep,Imperial,1.9
+Western Gull,Sep,Inyo,1
+Western Gull,Sep,Kings,1
+Western Gull,Sep,Lake,1
+Western Gull,Sep,Lassen,1
+Western Gull,Sep,Los Angeles,35.4
+Western Gull,Sep,Marin,20.4
+Western Gull,Sep,Mendocino,16.7
+Western Gull,Sep,Merced,1
+Western Gull,Sep,Monterey,37.4
+Western Gull,Sep,Napa,4.3
+Western Gull,Sep,Orange,31.8
+Western Gull,Sep,Riverside,1.8
+Western Gull,Sep,Sacramento,1.7
+Western Gull,Sep,San Diego,29.1
+Western Gull,Sep,San Francisco,47.5
+Western Gull,Sep,San Joaquin,17.6
+Western Gull,Sep,San Luis Obispo,30.9
+Western Gull,Sep,San Mateo,74
+Western Gull,Sep,Santa Barbara,27.8
+Western Gull,Sep,Santa Clara,11.7
+Western Gull,Sep,Santa Cruz,60
+Western Gull,Sep,Solano,8.5
+Western Gull,Sep,Sonoma,28.1
+Western Gull,Sep,Ventura,38.9
+Western Gull,Sep,Yolo,1
+Yellow-footed Gull,Apr,Imperial,2.6
+Yellow-footed Gull,Apr,Riverside,2
+Yellow-footed Gull,Aug,Imperial,14.5
+Yellow-footed Gull,Aug,Riverside,5.6
+Yellow-footed Gull,Dec,Imperial,1.5
+Yellow-footed Gull,Dec,Los Angeles,1
+Yellow-footed Gull,Dec,Orange,1
+Yellow-footed Gull,Dec,Riverside,1
+Yellow-footed Gull,Feb,Imperial,1.6
+Yellow-footed Gull,Feb,Los Angeles,1
+Yellow-footed Gull,Feb,Riverside,1.1
+Yellow-footed Gull,Jan,Imperial,1.4
+Yellow-footed Gull,Jan,Riverside,1.1
+Yellow-footed Gull,Jul,Imperial,14.6
+Yellow-footed Gull,Jul,Riverside,6.7
+Yellow-footed Gull,Jul,San Diego,1
+Yellow-footed Gull,Jun,Imperial,7.6
+Yellow-footed Gull,Jun,Riverside,4.4
+Yellow-footed Gull,Mar,Imperial,2
+Yellow-footed Gull,Mar,Los Angeles,1
+Yellow-footed Gull,Mar,Riverside,1.1
+Yellow-footed Gull,May,Imperial,3.3
+Yellow-footed Gull,May,Riverside,1.1
+Yellow-footed Gull,Nov,Imperial,1.8
+Yellow-footed Gull,Nov,Orange,1
+Yellow-footed Gull,Nov,Riverside,1.3
+Yellow-footed Gull,Oct,Imperial,3.6
+Yellow-footed Gull,Oct,Riverside,1.3
+Yellow-footed Gull,Sep,Imperial,8.8
+Yellow-footed Gull,Sep,Riverside,2

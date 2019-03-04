@@ -18,6 +18,12 @@ st_crs(ca) = 4326 # Set CRS
 tmap_mode("view")
 
 
+labels <- sprintf(
+  "<strong>%s</strong><br/>%g Seagulls per Sighting",
+  ca_gull$NAME, ca_gull$Jan
+) %>% lapply(htmltools::HTML)
+
+
 ####UI####
 # Define UI for application that draws a histogram
 ui <- fluidPage(
@@ -152,9 +158,26 @@ observe({
 
 
 output$Map <- renderLeaflet({
-  
-  tm_shape(ca) +
-  tm_polygons()
+  leaflet(ca_gull) %>% 
+    setView(-120.74, 37.61, 5) %>%
+    addPolygons(
+      fillColor = ~pal(Jan),
+      weight = 2,
+      opacity = 1,
+      color = "white",
+      dashArray = "3",
+      fillOpacity = 0.7,
+      highlight = highlightOptions(
+        weight = 2,
+        color = "#666",
+        dashArray = "",
+        fillOpacity = 0.7,
+        bringToFront = TRUE),
+      label = labels,
+      labelOptions = labelOptions(
+        style = list("font-weight" = "normal", padding = "3px 5px"),
+        textsize = "13px",
+        direction = "auto"))
   
 })    
     
