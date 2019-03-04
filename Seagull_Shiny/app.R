@@ -8,20 +8,20 @@ library(tmap)
 library(sf)
 
 # Read in data
-gulls <- read_csv("seagulls_tiny.csv")
+gulls <- read_csv("seagulls_mean_raw.csv")
 
 # Read in map information
 
-gulls_sf <- st_as_sf(gulls, coords = c("longitude", "latitude"), crs = 4326)
+#gulls_sf <- st_as_sf(gulls, coords = c("longitude", "latitude"), crs = 4326)
 ca <- read_sf(dsn = ".", layer = "california_county_shape_file") # Read data
 st_crs(ca) = 4326 # Set CRS
-tmap_mode("view")
+#tmap_mode("view")
 
 
-labels <- sprintf(
-  "<strong>%s</strong><br/>%g Seagulls per Sighting",
-  ca_gull$NAME, ca_gull$Jan
-) %>% lapply(htmltools::HTML)
+#labels <- sprintf(
+#  "<strong>%s</strong><br/>%g Seagulls per Sighting",
+#  ca_gull$NAME, ca_gull$Jan
+#) %>% lapply(htmltools::HTML)
 
 
 ####UI####
@@ -54,12 +54,17 @@ ui <- fluidPage(
                                       choices = NULL,
                                       multiple = FALSE),
                          
+                          selectInput("month", 
+                                      "Select Month",
+                                      choices = c("Jan", "Feb", "Mar", "Apr", "May", "Jun", 
+                                                  "Jul", "Aug", "Sep", "Oct", "Nov", "Dec" ),
+                                      multiple = FALSE),
                           
                           checkboxGroupInput("name", "Exclude Species", choices = NULL)
                       
                         ),
                         
-                        # Show a map of selected area 
+                        
                         mainPanel(
                           plotOutput("FreqPlot")
                         )
@@ -67,22 +72,29 @@ ui <- fluidPage(
              ,
              tabPanel("Map",
              
-                      sidebarLayout(
+                     
+                      selectInput("month", 
+                                  "Select Month",
+                                  choices = c("Jan", "Feb", "Mar", "Apr", "May", "Jun", 
+                                              "Jul", "Aug", "Sep", "Oct", "Nov", "Dec" ),
+                                  multiple = FALSE),
+                      
+                       sidebarLayout(
                         sidebarPanel(
-                         selectInput("common_name", 
+                         selectInput("common_names", 
                              "Select Species",
                              choices = NULL,
                              multiple = FALSE)
-                 
+                         
                  
                  
                ),
                
-               # Show a map of selected area 
+                #Show a map of selected area 
                mainPanel(
                  leafletOutput("Map")
                )
-             ))
+            ))
              
              
   )
@@ -97,7 +109,8 @@ ui <- fluidPage(
 
 
 ####SERVER####
-# Define server logic required to draw a histogram
+
+####PropTable####
 server <- function(session, input, output) {
   
   observe({
@@ -121,15 +134,12 @@ gulls_final <- reactive({
   gulls %>% 
     filter(
       county == input$county &
-        !common_name %in% input$name
-    )  %>% 
-    group_by(common_name) %>% 
-    summarize(
-      n = sum(observation_count)
+        !common_name %in% input$name &
+        month == input$month
     ) %>% 
     mutate(
-      total = sum(n),
-      prop = n / total
+      total = sum(mean),
+      prop = mean / total
     ) %>% 
     arrange(-prop) %>% 
     mutate(common_name = factor(common_name, levels = common_name))
@@ -149,19 +159,53 @@ output$FreqPlot <- renderPlot({
   
 })
 
+####MAPS####
 
 observe({
   m <- gulls %>% 
     select(common_name)
-  updateSelectInput(session, "common_name", "Select Species", choices = unique(m))
+  updateSelectInput(session, "common_names", "Select Species", choices = unique(m))
+})
+
+
+
+gull_choice <- reactive({ 
+  
+    gulls %>% 
+    filter(common_name == input$common_names) %>% 
+    spread(key = "month", value = "mean") %>% 
+    rename('NAME' = 'county') %>% 
+    full_join(ca, gull_choice)
+
+gull_choice[ , 10][is.na(gulls[ , 10] ) ] = "Western Gull"
+gull_choice[ , 11:22][is.na(gulls[ , 11:22] ) ] = 0 
+  
+  
+  })
+
+observe({
+  p <- input$month
+  
+})
+
+ca_gull <- reactive({ 
+  
+  gull_choice %>% 
+    dplyr::select(1:10, input$month)
+
+ 
+max_val <- max(ca_gull$p)
+bins <- c(seq(0, max_val, length.out = 7))
+pal <- colorBin("YlOrRd", domain = ca_gull$p, bins = bins)
+
 })
 
 
 output$Map <- renderLeaflet({
-  leaflet(ca_gull) %>% 
+  leaflet(ca_gull()) %>% 
     setView(-120.74, 37.61, 5) %>%
     addPolygons(
-      fillColor = ~pal(Jan),
+      fillColor = ~pal(p),
       weight = 2,
       opacity = 1,
       color = "white",
@@ -172,12 +216,13 @@ output$Map <- renderLeaflet({
         color = "#666",
         dashArray = "",
         fillOpacity = 0.7,
-        bringToFront = TRUE),
-      label = labels,
-      labelOptions = labelOptions(
-        style = list("font-weight" = "normal", padding = "3px 5px"),
-        textsize = "13px",
-        direction = "auto"))
+        bringToFront = TRUE)#,
+     # label = labels,
+      #labelOptions = labelOptions(
+      #  style = list("font-weight" = "normal", padding = "3px 5px"),
+      #  textsize = "13px",
+      #  direction = "auto")
+     )
   
 })    
     
