@@ -72,15 +72,15 @@ ui <- fluidPage(
              ,
              tabPanel("Map",
              
-                     
+                      sidebarLayout(
+                      sidebarPanel(
                       selectInput("month", 
                                   "Select Month",
                                   choices = c("Jan", "Feb", "Mar", "Apr", "May", "Jun", 
                                               "Jul", "Aug", "Sep", "Oct", "Nov", "Dec" ),
                                   multiple = FALSE),
                       
-                       sidebarLayout(
-                        sidebarPanel(
+                       
                          selectInput("common_names", 
                              "Select Species",
                              choices = NULL,
@@ -196,7 +196,7 @@ ca_gull <- reactive({
  
 max_val <- max(ca_gull$p)
 bins <- c(seq(0, max_val, length.out = 7))
-pal <- colorBin("YlOrRd", domain = ca_gull$p, bins = bins)
+pal <- colorBin("YlOrRd", domain = ca_gull$Jan, bins = bins)
 
 })
 
@@ -205,7 +205,7 @@ output$Map <- renderLeaflet({
   leaflet(ca_gull()) %>% 
     setView(-120.74, 37.61, 5) %>%
     addPolygons(
-      fillColor = ~pal(p),
+      fillColor = ~pal(Jan),
       weight = 2,
       opacity = 1,
       color = "white",
