@@ -24,6 +24,10 @@ breaks <- c(0,10,20,30,40,50,100,200,800)
 
 
 ui <- fluidPage(
+  # Map Background color
+  tags$head(
+    tags$style(HTML(".leaflet-container { background: #ECF0F1; }"))
+  ),
   theme = shinytheme("flatly"),
   
   # Application title
@@ -104,7 +108,8 @@ ui <- fluidPage(
                                       "Select Month",
                                       choices = c("Jan", "Feb", "Mar", "Apr", "May", "Jun", 
                                                   "Jul", "Aug", "Sep", "Oct", "Nov", "Dec" ),
-                                      multiple = FALSE)
+                                      multiple = FALSE),
+                          plotOutput("overview")
                           
                         ),
                         
@@ -165,9 +170,42 @@ server <- function(session, input, output) {
       theme_classic() +
       labs(
         x = "", y = "Proportion"
+      ) +
+      theme(
+        panel.background = element_rect(fill = "#ECF0F1",
+                                        colour = "#ECF0F1"),
+        plot.background = element_rect(fill = "#ECF0F1"),
+        axis.text.y =element_text(size=rel(1.4))
       )
     
   })
+  ###overview output
+  
+  gulls_over <- reactive({ 
+    
+    gulls %>% 
+      filter(common_name == input$common_names) 
+    
+    })
+  
+  output$overview <- renderPlot({
+    
+    ggplot(data = gulls_over(),
+           aes(x = month, y = mean)) +
+      geom_line() +
+      geom_point() +
+      theme_classic() +
+      labs(x = "", y = "County Means") +
+      ggtitle("Monthly Abundances")+
+      theme(
+        panel.background = element_rect(fill = "#ECF0F1",
+                                        colour = "#ECF0F1"),
+        plot.background = element_rect(fill = "#ECF0F1"),
+        axis.text.y =element_text(size=rel(1.3))) 
+    
+  })
+  
+  
   
   gull_choice <- reactive({ 
     
@@ -198,6 +236,15 @@ server <- function(session, input, output) {
     colorBin("YlOrRd", domain = gull_choice()$gull_value , bins = breaks)
   })
   
+  
+  labels <- reactive({
+    sprintf(
+    "<strong>%s</strong><br/>%g Seagulls per Sighting",
+    gull_choice()$common_name2, gull_choice()$gull_value
+  ) %>% lapply(htmltools::HTML)
+  })
+  
+  
   output$Map <- renderLeaflet({
     leaflet(ca) %>% 
       setView(-120.74, 37.61, 6) %>%
@@ -214,12 +261,12 @@ server <- function(session, input, output) {
           color = "#666",
           dashArray = "",
           fillOpacity = 0.7,
-          bringToFront = TRUE)#,
-        # label = labels,
-        #labelOptions = labelOptions(
-        #  style = list("font-weight" = "normal", padding = "3px 5px"),
-        #  textsize = "13px",
-        #  direction = "auto")
+          bringToFront = TRUE),
+         label = labels(),
+        labelOptions = labelOptions(
+          style = list("font-weight" = "normal", padding = "3px 5px"),
+          textsize = "13px",
+          direction = "auto")
       ) %>% 
       addLegend(pal = pal(), values = breaks, opacity = 0.7, title = NULL,
                 position = "topright")
