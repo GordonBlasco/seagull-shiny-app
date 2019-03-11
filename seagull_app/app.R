@@ -37,10 +37,12 @@ ui <- fluidPage(
              
              tabPanel("Information",
                       #h1("A header!"),
-                      h2("Gull information "),
-                      h2("The tabs"),
-                      p("The frequency plot will tell you the probability of finding a species given the parameters you set"),
-                      p("The interactive map will allow you to see temportal and spacial changes for each species")
+                      h2("Information"),
+                      p("The data used in this project comes from the citizen science project eBird that was started by the Cornell Lab of Ornithology and the National Audubon Society. eBird is the dominant online birding platform where anyone can upload their birding checklists. Data was taken from eBird covering all seagull species seen in California from 2002 – 2018."),
+                      h2("The Frequency Plot"),
+                      p("This tab is designed to show the relative proportions of different seagull species in each county.  This is intended to help birders learn what are the most abundant species in their county and what rarities they can expect. More abundant species will make up a greater proportion of the reported gulls, while rare birds will make up the smallest abundance. It is possible to exclude species from this chart. This is to help narrow down abundances between possible gulls."),
+                      h2("The Map"),
+                      p("The map will show the average number of each seagulls per checklist in each of the California counties. This can help any birder hoping to track down any rare gull. When a gull species is selected it will also show a chart that will provide an overview of its monthly distribution in all California counties.")
                       
              ),
              
@@ -100,7 +102,7 @@ ui <- fluidPage(
                                                   "Slaty-backed Gull",       
                                                   "Western Gull",
                                                   "Yellow-footed Gull"),
-                                      selected = "Western Gull",
+                                      selected = "California Gull",
                                       multiple = FALSE),
                           
                           # Select month second
@@ -161,7 +163,7 @@ server <- function(session, input, output) {
   output$FreqPlot <- renderPlot({
     
     ggplot(data = gulls_final(), aes(x = common_name, y = prop)) +
-      geom_col() +
+      geom_col(fill = "skyblue4") +
       scale_x_discrete(expand = c(0,0)) +
       scale_y_continuous(labels=percent_format(),
                          expand = c(0,0)) +
@@ -240,7 +242,7 @@ server <- function(session, input, output) {
   labels <- reactive({
     sprintf(
     "<strong>%s</strong><br/>%g Seagulls per Sighting",
-    gull_choice()$common_name2, gull_choice()$gull_value
+    gull_choice()$NAME, gull_choice()$gull_value
   ) %>% lapply(htmltools::HTML)
   })
   
