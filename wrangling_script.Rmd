@@ -189,5 +189,58 @@ m <- leaflet(gulls) %>%
 m
 ```
 
+```{r}
+ca <- read_sf(dsn = ".", layer = "california_county_shape_file") # Read data
+st_crs(ca) = 4326 # Set CRS
+gullmean <- read_csv("seagulls_mean_raw.csv") %>% 
+  spread(month, mean) %>% 
+  replace(is.na(.), 0) %>% 
+  rename('NAME' = 'county') %>% 
+  filter(common_name == "Black-headed Gull") %>% 
+  full_join(ca, by = 'NAME')
 
+write.csv(gullmean, "gullmeanca.csv")
+
+
+```
+
+
+```{r}
+well <- read_csv("gullmeanca.csv")# %>% 
+  filter(common_name == "Black-headed Gull")
+
+
+```
+
+
+
+```{r}
+gulls <- read_csv("seagulls_mean_raw.csv")
+gull_types <- read_csv("Gull_types.csv")
+
+
+gull_df <- full_join(gulls, gull_types)
+gull_df$gull_type <- as.factor(gull_df$gull_type) 
+levels(gull_df$gull_type) <-  c("Large Dark-Backed Gulls", "Gray-Backed White-Headed Gulls", "Small to Medium Sized Gulls", "Rarities")
+  
+
+class(gull_df$gull_type)
+levels(gull_df$gull_type)
+
+ gull_final <- gulls %>% 
+      filter(
+        county == input$county &
+          !common_name %in% input$name &
+          month == input$months
+      ) %>% 
+      mutate(
+        total = sum(mean),
+        prop = mean / total
+      ) %>% 
+      arrange(-prop) %>% 
+      mutate(common_name = factor(common_name, levels = common_name))
+    
+
+
+```
 

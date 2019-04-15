@@ -1,0 +1,87 @@
+---
+title: "fixing_bugs_script"
+author: "Gordon Blasco"
+date: "April 14, 2019"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+Libraries and data
+```{r}
+library(tidyverse)
+library(sf)
+
+
+gulls <- read_csv("seagulls_mean_raw.csv")
+
+ca <- read_sf(dsn = ".", layer = "california_county_shape_file") # Read data
+st_crs(ca) = 4326 # Set CRS
+
+gulls2 <- gulls %>% 
+  mutate(
+    months = case_when(
+      month == "Jan" ~ "January",
+      month == "Feb" ~ "Febuary",
+      month == "Mar" ~ "March",
+      month == "Apr" ~ "April",
+      month == "May" ~ "May",
+      month == "Jun" ~ "June",
+      month == "Jul" ~ "July",
+      month == "Aug" ~ "August",
+      month == "Sep" ~ "September",
+      month == "Oct" ~ "October",
+      month == "Nov" ~ "November",
+      month == "Dec" ~ "December"
+      )
+    ) %>% 
+  select(common_name, months, county, mean) %>% 
+  rename('month' = 'months')
+  
+
+```
+
+```{r}
+
+str(gulls)
+
+
+  
+test2 <- gulls %>% 
+  complete(common_name, month, county) %>% 
+  replace(is.na(.), 0.0) %>% 
+  rename('NAME' = 'county',
+         'gull_value' = 'mean') %>% 
+  full_join(ca, by = 'NAME') %>% 
+  st_as_sf(crs = 4326) %>% 
+  filter(common_name == input$common_names) %>%
+  filter(month == input$month)
+
+class(test2)
+
+test_df <- gulls %>% 
+      filter(common_name == input$common_names) %>% 
+      spread(key = "month", value = "mean") %>% 
+      rename('NAME' = 'county') %>% 
+      full_join(ca, by = 'NAME') %>% 
+      select(-contains(".y")) %>% 
+      rename_at(.vars = vars(ends_with(".x")),
+                .funs = funs(sub("[.]x$", "", .))) %>% 
+      mutate(common_name2 = input$common_names) %>% 
+      replace(is.na(.), 0.0) %>% 
+      st_as_sf(crs = 4326) %>% 
+      select(
+        "common_name",  "NAME", "Jan", "Feb", "Mar", "Apr",
+        "May", "Jun", "Jul", "Aug", "Sep", "Oct", "Nov", "Dec",                  
+        "PERIMETER", "LSAD_TRANS", "CO06_D00_I", "LSAD", "STATE",        
+        "AREA", "CO06_D00_", "COUNTY", "common_name2", "geometry" 
+      )%>% 
+      mutate_at(vars(3:14), as.numeric) %>% 
+      select(23, 2, input$month, 15:22) %>%
+      rename('gull_value' = 3)
+
+```
+
+
+

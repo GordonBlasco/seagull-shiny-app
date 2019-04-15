@@ -1,4 +1,4 @@
-# Final App Version
+
 library(shiny)
 library(tidyverse)
 library(shinythemes)
@@ -130,14 +130,7 @@ server <- function(session, input, output) {
     updateSelectInput(session, "county", "Select County", choices = unique(w))
   })
   
-  
-  observe({
-    print(input$county)
-    x <- gulls %>% 
-      filter(county == input$county) %>% 
-      pull(common_name)
-    updateCheckboxGroupInput(session, "name", "Exclude Species", choices = unique(x))
-  })
+
   
   
   gulls_final <- reactive({ 

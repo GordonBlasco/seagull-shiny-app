@@ -17,6 +17,8 @@ gulls <- read_csv("seagulls_mean_raw.csv") %>%
 ca <- read_sf(dsn = ".", layer = "california_county_shape_file") # Read data
 st_crs(ca) = 4326 # Set CRS
 
+
+
 # Set Breaks for Map
 breaks <- c(0,10,20,30,40,50,100,200,800)
 
@@ -37,13 +39,21 @@ ui <- fluidPage(
              
              tabPanel("Information",
                       #h1("A header!"),
+                      #sidebarPanel(
+                        #img(src='Gull2.png', height = 350, width = 350)
+                      #),
+                      mainPanel(
                       h2("Information"),
-                      p("The data used in this project comes from the citizen science project eBird that was started by the Cornell Lab of Ornithology and the National Audubon Society. eBird is the dominant online birding platform where anyone can upload their birding checklists. Data was taken from eBird covering all seagull species seen in California from 2002 – 2018."),
-                      h2("The Frequency Plot"),
-                      p("This tab is designed to show the relative proportions of different seagull species in each county.  This is intended to help birders learn what are the most abundant species in their county and what rarities they can expect. More abundant species will make up a greater proportion of the reported gulls, while rare birds will make up the smallest abundance. It is possible to exclude species from this chart. This is to help narrow down abundances between possible gulls."),
-                      h2("The Map"),
-                      p("The map will show the average number of each seagulls per checklist in each of the California counties. This can help any birder hoping to track down any rare gull. When a gull species is selected it will also show a chart that will provide an overview of its monthly distribution in all California counties.")
-                      
+                      p("The data used in this project comes from the citizen science project eBird that was started by the Cornell Lab of Ornithology and the National Audubon Society. eBird is the dominant online birding platform where anyone can upload their birding checklists. Data was taken from eBird* covering all seagull species seen in California from 2002 – 2018."),
+                      h2("County Frequency Plot"),
+                      p("The frequency plot is designed to show the relative proportions of different seagull species in each county.  This is intended to help birders learn the most abundant species in their county and what rarities they can expect. More abundant species will make up a greater proportion of the reported gulls, while rare birds will make up the smallest abundance. It is possible to exclude species from this chart to help narrow down possible gulls for tricky ID's."),
+                      h2("Species Map"),
+                      p("The species map will show the average number of each seagull per checklist in each of the California counties. This can help any birder hoping to track down any rare gull or understand migration patterns. When a gull species is selected it will also show a chart that will provide an overview of its monthly distribution in all California counties."),
+                      h2(" "),
+                      p(" "),
+                      h2("Data Citation"),
+                      p("eBird Basic Dataset. Version: EBD_relFeb-2019. Cornell Lab of Ornithology, Ithaca, New York. May 2013.")
+                      )   
              ),
              
              
@@ -73,7 +83,7 @@ ui <- fluidPage(
                         )
                       ))
              ,
-             tabPanel("Map",
+             tabPanel("Species Map",
                       sidebarLayout(
                         sidebarPanel(
                           # Select species first
@@ -89,7 +99,7 @@ ui <- fluidPage(
                                                   "Great Black-backed Gull",
                                                   "Heermann's Gull",         
                                                   "Herring Gull",
-                                                  "Iceland Gull",
+                                                  "Iceland Gull", 
                                                   "Ivory Gull",             
                                                   "Kelp Gull",
                                                   "Laughing Gull",
@@ -133,10 +143,13 @@ server <- function(session, input, output) {
   })
   
   
+  
   observe({
     print(input$county)
+    print(input$months)
     x <- gulls %>% 
-      filter(county == input$county) %>% 
+      filter(county == input$county &
+               month == input$months) %>% 
       pull(common_name)
     updateCheckboxGroupInput(session, "name", "Exclude Species", choices = unique(x))
   })
@@ -220,7 +233,7 @@ server <- function(session, input, output) {
       rename_at(.vars = vars(ends_with(".x")),
                 .funs = funs(sub("[.]x$", "", .))) %>% 
       mutate(common_name2 = input$common_names) %>% 
-      replace(is.na(.), 0) %>% 
+      replace(is.na(.), 0.0) %>% 
       st_as_sf(crs = 4326) %>% 
       select(
         "common_name",  "NAME", "Jan", "Feb", "Mar", "Apr",
