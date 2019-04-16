@@ -1,0 +1,10 @@
+name: seagull_app
+title:
+username:
+account: california-seagulls
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 867315
+bundleId: 2014085
+url: https://california-seagulls.shinyapps.io/seagull_app/
+when: 1555373472.00202

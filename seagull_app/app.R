@@ -208,7 +208,7 @@ server <- function(session, input, output) {
       coord_flip() +
       theme_classic() +
       labs(
-        x = "", y = "Proportion of Monthly Gull Sightingsz"
+        x = "", y = "Proportion of Monthly Gull Sightings"
       ) +
       theme(
         panel.background = element_rect(fill = "#ECF0F1",
